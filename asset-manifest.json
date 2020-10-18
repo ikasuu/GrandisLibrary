@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/GrandisLibrary/static/css/main.f931a45a.chunk.css",
+    "main.js": "/GrandisLibrary/static/js/main.da8f6ff3.chunk.js",
+    "main.js.map": "/GrandisLibrary/static/js/main.da8f6ff3.chunk.js.map",
+    "runtime-main.js": "/GrandisLibrary/static/js/runtime-main.bfc0f0c2.js",
+    "runtime-main.js.map": "/GrandisLibrary/static/js/runtime-main.bfc0f0c2.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/GrandisLibrary/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.5f158072.chunk.js": "/GrandisLibrary/static/js/2.5f158072.chunk.js",
+    "static/js/2.5f158072.chunk.js.map": "/GrandisLibrary/static/js/2.5f158072.chunk.js.map",
+    "index.html": "/GrandisLibrary/index.html",
+    "precache-manifest.7bd85d7b0a1b3c45a00003b6abdf2bc6.js": "/GrandisLibrary/precache-manifest.7bd85d7b0a1b3c45a00003b6abdf2bc6.js",
+    "service-worker.js": "/GrandisLibrary/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/GrandisLibrary/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.f931a45a.chunk.css.map": "/GrandisLibrary/static/css/main.f931a45a.chunk.css.map",
+    "static/js/2.5f158072.chunk.js.LICENSE.txt": "/GrandisLibrary/static/js/2.5f158072.chunk.js.LICENSE.txt",
+    "static/media/logo.webp": "/GrandisLibrary/static/media/logo.d9fc4c22.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bfc0f0c2.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.5f158072.chunk.js",
+    "static/css/main.f931a45a.chunk.css",
+    "static/js/main.da8f6ff3.chunk.js"
+  ]
+}
