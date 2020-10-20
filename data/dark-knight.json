@@ -2,6 +2,7 @@
     "class": "Dark Knight",
     "content": {
         "classGroup": "Explorers",
+        "JobGroup": "Warrior",
         "mainStat": "STR",
         "secondaryStat": "DEX",
         "legion": "Increases %Max HP",

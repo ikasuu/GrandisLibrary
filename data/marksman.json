@@ -2,6 +2,7 @@
     "class": "Marksman",
     "content": {
         "classGroup": "Explorers",
+        "JobGroup": "Archer",
         "mainStat": "DEX",
         "secondaryStat": "STR",
         "legion": "Increases %Crit Rate",

@@ -1,8 +1,8 @@
 {
-    "class": "Pathfinder",
+    "class": "Cannoneer",
     "content": {
         "classGroup": "Explorers",
-        "JobGroup": "Archer",
+        "JobGroup": "Pirate",
         "mainStat": "DEX",
         "secondaryStat": "STR",
         "legion": "Grants flat DEX",
@@ -100,11 +100,7 @@
             ["Hyper Passive Build", "iSlingGunz"],
             ["Boost Nodes Build", "iSlingGunz"],
             ["5th Job + Hyper Skills Animation", "OrangeMushroom"]
-        ],
-        "extraContent": {
-            "title": "Relic Gauge",
-            "content": "<p><img src='https://i.imgur.com/HWdqbDz.png' width='106' height='105'></p><p>Pathfinders have a special gauge called the Relic Gauge that is used to cast certain Skills. Attacking enemies will charge up your Relic Gauge. At the center of the gauge, there is also a special emblem that changes depending on which the skills you use. Some skills will change depending on what the emblem is</p><p><img src='https://i.imgur.com/g1dk6nS.png'><img src='https://i.imgur.com/GSlHgDn.png' width='87' height='83'><img src='https://i.imgur.com/gbnleGO.png' width='81' height='83'></p><p>There are three types of emblems (from left to right): Deluge, Burst and Torrent</p>"
-        }
+        ]
     },
     "skill": {
         "primary":[

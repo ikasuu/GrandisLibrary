@@ -2,6 +2,7 @@
     "class": "Dual Blade",
     "content": {
         "classGroup": "Explorers",
+        "JobGroup": "Thief",
         "mainStat": "LUK",
         "secondaryStat": "DEX + STR",
         "legion": "Grants flat LUK",

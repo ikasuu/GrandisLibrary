@@ -2,6 +2,7 @@
     "class": "Arch Mage (Ice, Lightning)",
     "content": {
         "classGroup": "Explorers",
+        "JobGroup": "Magician",
         "mainStat": "INT",
         "secondaryStat": "LUK",
         "legion": "Grants flat INT",

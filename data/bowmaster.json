@@ -2,6 +2,7 @@
     "class": "Bowmaster",
     "content": {
         "classGroup": "Explorers",
+        "JobGroup": "Archer",
         "mainStat": "DEX",
         "secondaryStat": "STR",
         "legion": "Grants flat DEX",
