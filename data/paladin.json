@@ -304,7 +304,7 @@
                     "desc": "Slams your hammer dealing damage to enemies in a large area",
                     "details": [
                         "You are not affected by knockbacks while casting",
-                        "Deals increased %Damage to bosses"
+                        "Gains increased %Damage towards bosses"
                     ]
                 },
                 {
@@ -479,7 +479,7 @@
                     "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/4/4a/Skill_Grand_Guardian.png/revision/latest?cb=20181115065214"],
                     "animations": ["https://orangemushroom.files.wordpress.com/2018/06/grand-cross-effect-2.gif?w=304&h=288"],
                     "type": "Key-down Attack",
-                    "desc": "When held, deals damage and becomes bigger after some time passes which will increase attack speed and %Damage ",
+                    "desc": "When held, deals damage and becomes bigger after some time passes which will increase the attack speed and %Damage ",
                     "details": [
                         "Consumes %Max HP while casting",
                         "Attack has 100% Ignore DEF and is a guaranteed Critical Hit <ul> <li>Additionally increases your %Damage Reduction while casting, including %Max HP attacks</li> </ul>"

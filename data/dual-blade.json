@@ -225,7 +225,7 @@
                             "type": "Attack",
                             "desc": "Launches enemies in front of you into the air",
                             "details": [
-                                "Deals increased %Damage to enemies in the air"
+                                "Gains increased %Damage to enemies in the air"
                             ]
                         },
                         {
