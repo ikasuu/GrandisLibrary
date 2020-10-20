@@ -2,7 +2,7 @@
     "class": "Bishop",
     "content": {
         "classGroup": "Explorers",
-        "JobGroup": "Magician",
+        "jobGroup": "Magician",
         "mainStat": "INT",
         "secondaryStat": "LUK",
         "legion": "Grants flat INT",

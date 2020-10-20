@@ -2,7 +2,7 @@
     "class": "Shadower",
     "content": {
         "classGroup": "Explorers",
-        "JobGroup": "Thief",
+        "jobGroup": "Thief",
         "mainStat": "LUK",
         "secondaryStat": "DEX + STR",
         "legion": "Grants flat LUK",

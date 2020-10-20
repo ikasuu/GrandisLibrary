@@ -2,7 +2,7 @@
     "class": "Paladin",
     "content": {
         "classGroup": "Explorers",
-        "JobGroup": "Warrior",
+        "jobGroup": "Warrior",
         "mainStat": "STR",
         "secondaryStat": "DEX",
         "legion": "Grants flat STR",

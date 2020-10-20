@@ -2,7 +2,7 @@
     "class": "Night Lord",
     "content": {
         "classGroup": "Explorers",
-        "JobGroup": "Thief",
+        "jobGroup": "Thief",
         "mainStat": "LUK",
         "secondaryStat": "DEX",
         "legion": "Increases %Crit Rate",

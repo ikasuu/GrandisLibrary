@@ -2,7 +2,7 @@
     "class": "Arch Mage (Fire, Poison)",
     "content": {
         "classGroup": "Explorers",
-        "JobGroup": "Magician",
+        "jobGroup": "Magician",
         "mainStat": "INT",
         "secondaryStat": "LUK",
         "legion": "Increases %Max MP",
