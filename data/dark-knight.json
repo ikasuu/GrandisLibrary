@@ -11,8 +11,8 @@
             {"secondary": ["ironChain"]}
         ],
         "classType": [
-            "Offensive",
             "Tanky",
+            "Offensive",
             "Beginner-friendly"
         ],
         "prosCons": {

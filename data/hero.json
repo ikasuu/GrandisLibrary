@@ -12,8 +12,8 @@
         ],
         "classType": [
             "Single Target",
-            "Burst",
-            "Short-Ranged"
+            "Short-Ranged",
+            "Burst"
         ],
         "prosCons": {
             "pros": [
@@ -157,24 +157,25 @@
                     {
                         "id": 1101013,
                         "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/2/29/Skill_Combo_Attack.png/revision/latest?cb=20150702033501"],
-                        "animations": ["https://media.giphy.com/media/dCcFilbiblkrNzBOoH/giphy.gif"],
+                        "animations": ["https://media1.giphy.com/media/vBNdu4NIg1y5W4YPLr/giphy.gif"],
                         "type": "Toggle Buff",
                         "desc": "When activated, there is a chance to gain a Combo Orb (up to 5) when attacking",
                         "details": [
-                            "Grants bonus Attack for each Combo Orb"
+                            "Grants bonus Attack for each Combo Orb",
+                            "Right-clicking the icon in your Skill UI will toggle the visual effect"
                         ]
                     },
                     {
                         "id": 1101004,
                         "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/1/10/Skill_Weapon_Booster.png/revision/latest?cb=20110420081112"],
-                        "animations": ["https://media.giphy.com/media/fVViw48i9ycTnOJjk1/giphy.gif"],
+                        "animations": ["https://media0.giphy.com/media/SdWiW8febXVtRHOetQ/giphy.gif"],
                         "type": "Buff",
                         "desc": "Increases Attack Speed (by 2 stages)"
                     },
                     {
                         "id": 1101006,
                         "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/0/02/Skill_Rage.png/revision/latest?cb=20140409054506"],
-                        "animations": ["https://media.giphy.com/media/KGrU7MH8uZBeR8BemE/giphy.gif"],
+                        "animations": ["https://media4.giphy.com/media/iyVGSwkBhP3gzkELxF/giphy.gif"],
                         "type": "Party Buff",
                         "desc": "Increases %Damage Reduction and grants flat attack",
                         "details": [
@@ -287,7 +288,7 @@
                 {
                     "id": 1121016,
                     "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/f/fb/Skill_Magic_Crash_%28Warrior%29.png/revision/latest?cb=20130705121916"],
-                    "animations": ["https://media.giphy.com/media/SANx9yq1foEnsdrjgW/giphy.gif"],
+                    "animations": ["https://media4.giphy.com/media/6Onl1Y73o0TM8oDqkS/giphy.gif"],
                     "type": "Active Debuff",
                     "desc": "Removes buffs on nearby enemies and prevents them from casting new buffs "
                 },
@@ -299,7 +300,7 @@
                 {
                     "id": 1121010,
                     "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/8/89/Skill_Enrage.png/revision/latest?cb=20110422040126"],
-                    "animations": ["https://media3.giphy.com/media/U43XCzLi2kOZLjRwol/giphy.webp"],
+                    "animations": ["https://media0.giphy.com/media/mOjqKwerN07UTEirvl/giphy.gif"],
                     "type": "Toggle Buff",
                     "desc": "When toggled, you can only attack one enemy but you gain increased %Final Damage and %Crit Damage",
                     "details": [
@@ -309,19 +310,20 @@
                 {
                     "id": 1121000,
                     "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/a/a1/Skill_Maple_Warrior.png/revision/latest?cb=20100602085809"],
-                    "animations": ["https://media.giphy.com/media/lTXz03fHi4EhbF0nCf/giphy.gif"],
+                    "animations": ["https://media1.giphy.com/media/irJp4zxVH135XWeQTT/giphy.gif"],
                     "type": "Party Buff"
                 },
                 {
                     "id": 1121011,
                     "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/3/30/Skill_Hero%27s_Will.png/revision/latest?cb=20100602090848"],
-                    "animations": ["https://media1.giphy.com/media/L1X8NZhTb58Ef8lGRA/giphy.gif"],
+                    "animations": ["https://media1.giphy.com/media/GgM2FoLO7XjQdYwg4c/giphy.gif"],
                     "type": "Buff",
                     "desc": "Removes certain abnormal status effects and become immune to Abnormal Status for a few seconds"
                 },
                 {
                     "id": 1120003,
                     "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/3/3b/Skill_Advanced_Combo.png/revision/latest?cb=20110422040037"],
+                    "animations": ["https://media2.giphy.com/media/Mlcsud3520rh3iS8sT/giphy.gif"],
                     "type": "Passive"
                 },
                 {
@@ -416,7 +418,7 @@
                 {
                     "id": 1121053,
                     "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/1/11/Skill_Epic_Adventure_%28Warrior%29.png/revision/latest?cb=20120914160107"],
-                    "animations": ["https://media.giphy.com/media/f3pxyBJlRQN6IB47Iv/giphy.gif"],
+                    "animations": ["https://media2.giphy.com/media/0W7xMCNiUPxeGzCLnB/giphy.gif"],
                     "type": "Buff",
                     "reqLev": 190
                 }
@@ -471,7 +473,7 @@
                 "name": "Combo Attack - 2nd Job",
                 "id": 1101013,
                 "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/2/29/Skill_Combo_Attack.png/revision/latest?cb=20150702033501"],
-                "animations": ["https://media.giphy.com/media/dCcFilbiblkrNzBOoH/giphy.gif"]
+                "animations": ["https://media0.giphy.com/media/vBNdu4NIg1y5W4YPLr/giphy.gif"]
             },
             {
                 "name": "Shout - 3rd Job",
