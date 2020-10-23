@@ -468,7 +468,7 @@
                 {
                     "id": 4341054,
                     "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/c/cf/Skill_Blade_Clone.png/revision/latest?cb=20121015220602"],
-                    "animations": ["https://media3.giphy.com/media/Z9Kg9a2lg5zsWXIeP5/giphy.gif"],
+                    "animations": ["https://media0.giphy.com/media/lZ39AjiqZyTHIlaNsR/giphy.gif"],
                     "type": "Buff",
                     "desc": "Increases %Damage and grants your attacks the ability to deal an extra attack",
                     "reqLev": 140
@@ -489,7 +489,7 @@
                 {
                     "id": 4341053,
                     "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/1/18/Skill_Epic_Adventure_%28Thief%29.png/revision/latest?cb=20121015205742"],
-                    "animations": ["https://media3.giphy.com/media/XGUghHXHEKz0D9kW6j/giphy.gif"],
+                    "animations": ["https://media4.giphy.com/media/owNXK6VoBUIrZ4FDZm/giphy.gif"],
                     "type": "Buff",
                     "reqLev": 190
                 }

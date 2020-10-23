@@ -416,14 +416,14 @@
                 {
                     "id": 1221054,
                     "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/6/69/Skill_Sacrosanctity.png/revision/latest?cb=20120915173132"],
-                    "animations": ["https://orangemushroom.files.wordpress.com/2012/09/sacrosanctity-effect.gif?w=380&h=408"],
+                    "animations": ["https://media1.giphy.com/media/ekiIvJiMYCfViFUCtz/giphy.gif"],
                     "type": "Buff",
                     "reqLev": 140
                 },
                 {
                     "id": 1221052,
                     "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/9/98/Skill_Smite_Shield.png/revision/latest?cb=20120915172831"],
-                    "animations": ["https://orangemushroom.files.wordpress.com/2012/09/smite-effect.gif?w=600"],
+                    "animations": ["https://media3.giphy.com/media/OzLy9gSVZb0kOM6Yal/giphy.gif"],
                     "type": "Bind Attack",
                     "desc": "Binds nearby enemies and removes buffs to enemies hit",
                     "reqLev": 160
@@ -431,7 +431,7 @@
                 {
                     "id": 1221053,
                     "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/1/11/Skill_Epic_Adventure_%28Warrior%29.png/revision/latest?cb=20120914160107"],
-                    "animations": ["https://orangemushroom.files.wordpress.com/2012/09/epic-adventure-warrior-effect.gif?w=362&h=358"],
+                    "animations": ["https://media3.giphy.com/media/BEH2d6csjKp4gwxpA4/giphy.gif"],
                     "type": "Buff",
                     "reqLev": 190
                 }
@@ -489,12 +489,12 @@
             {
                 "name": "Sacrosanctity - Hyper Skill",
                 "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/6/69/Skill_Sacrosanctity.png/revision/latest?cb=20120915173132"],
-                "animations": ["https://orangemushroom.files.wordpress.com/2012/09/sacrosanctity-effect.gif?w=380&h=408"]
+                "animations": ["https://media1.giphy.com/media/ekiIvJiMYCfViFUCtz/giphy.gif"]
             },
             {
                 "name": "Divine Echo - 5th Job",
                 "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/f/f4/Skill_Divine_Echo.png/revision/latest?cb=20161125062542"],
-                "animations": ["https://orangemushroom.files.wordpress.com/2016/07/holy-unity-effect.gif?w=600"]
+                "animations": ["https://media0.giphy.com/media/XI03PVFtwCXH1KDwoE/giphy.gif"]
             },
             {
                 "name": "Hammers of the Righteous - 5th Job",

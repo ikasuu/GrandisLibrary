@@ -498,7 +498,7 @@
                 {
                     "id": 3321041,
                     "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/a/ae/Skill_Epic_Adventure_%28Bowman%29.png/revision/latest?cb=20121015210409"],
-                    "animations": ["https://orangemushroom.files.wordpress.com/2019/01/epic-adventure-effect.gif?w=600"],
+                    "animations": ["https://media0.giphy.com/media/AAhIhM6qORVf3IF4Up/giphy.gif"],
                     "type": "Buff",
                     "reqLev": 190
                 }

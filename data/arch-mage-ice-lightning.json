@@ -319,10 +319,10 @@
                     "id": 2221007,
                     "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/1/15/Skill_Blizzard.png/revision/latest?cb=20140412031555"],
                     "animations": ["https://media3.giphy.com/media/RLD5ktbdno2tMxWCCm/giphy.gif"],
-                    "type": "Attack",
+                    "type": "Attack / Final Attack",
                     "desc": "Creates a shower of icicles that rain down from the sky",
                     "details": [
-                        "While Blizzard is on cooldown, there is a chance your attacks cause for an icicle to strike a single enemy"
+                        "<strong>[Final Attack]</strong>: While Blizzard is on cooldown, there is a chance your attacks cause for an icicle to strike a single enemy"
                     ]
                 },
                 {

@@ -432,7 +432,7 @@
                 {
                     "id": 4121054,
                     "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/b/bc/Skill_Bleed_Dart.png/revision/latest?cb=20170907072148"],
-                    "animations": ["https://media1.giphy.com/media/howxQ2YV7AEHNdvnv0/giphy.gif"],
+                    "animations": ["https://media3.giphy.com/media/pcU8nVAF0ERNhTtYDo/giphy.gif"],
                     "type": "Buff",
                     "desc": "Grants flat Attack and causes your attacks to apply a deadly bleeding debuff",
                     "reqLev": 140
@@ -448,7 +448,7 @@
                 {
                     "id": 4121053,
                     "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/1/18/Skill_Epic_Adventure_%28Thief%29.png/revision/latest?cb=20121015205742"],
-                    "animations": ["https://media3.giphy.com/media/XGUghHXHEKz0D9kW6j/giphy.gif"],
+                    "animations": ["https://media2.giphy.com/media/owNXK6VoBUIrZ4FDZm/giphy.gif"],
                     "type": "Buff",
                     "reqLev": 190
                 }
