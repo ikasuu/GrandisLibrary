@@ -102,8 +102,13 @@
             ["Skill Animations", "Ikasuu"],
             ["Hyper Passive Build","SvenAteNine"],
             ["Boost Nodes Build", "maplefinale"],
-            ["Common 5th Job Skills Animations", "OrangeMushroom"]
-        ]
+            ["Common 5th Job Skills Animations", "OrangeMushroom"],
+            ["5th Job Skills Animations", "KyoWantsCute"]
+        ],
+        "extraContent": {
+            "title": "Freezing Crush",
+            "content": "<p>In 2nd Job, you gain a passive <img src='https://vignette.wikia.nocookie.net/maplestory/images/4/40/Skill_Freezing_Crush.png/revision/latest?cb=20130706132353' alt=''> Freezing Crush which causes your Ice-attributed attacks to apply a debuff that increases the %Crit Damage and %Damage of your Lighting-attribute attacks</p><p>Below is a list of your Ice-attribute skills:</p><ul><li><img src='https://static.wikia.nocookie.net/maplestory/images/4/44/Skill_Cold_Beam.png' alt='Skill Cold Beam.png' width='32' height='32'> Cold Beam (2nd Job)</li><li><img src='https://static.wikia.nocookie.net/maplestory/images/5/5e/Skill_Chilling_Step.png' alt='Skill Chilling Step.png' width='32' height='32'> Chilling Step (2nd Job)</li><li><img src='https://static.wikia.nocookie.net/maplestory/images/5/5e/Skill_Ice_Strike.png' alt='Skill Ice Strike.png' width='32' height='32'> Ice Strike (3rd Job)</li><li><img src='https://static.wikia.nocookie.net/maplestory/images/f/f5/Skill_Glacier_Chain.png' alt='Skill Glacier Chain.png' width='32' height='32'> Glacial Chain (3rd Job)</li><li><img src='https://static.wikia.nocookie.net/maplestory/images/1/15/Skill_Blizzard.png' alt='Skill Blizzard.png' width='32' height='32'> Blizzard (4th Job)</li><li><img src='https://static.wikia.nocookie.net/maplestory/images/e/eb/Skill_Frozen_Orb.png' alt='Skill Frozen Orb.png' width='32' height='32'> Frozen Orb (4th Job)</li><li><img src='https://static.wikia.nocookie.net/maplestory/images/8/81/Skill_Elquines.png' alt='Skill Elquines.png' width='32' height='32'> Elquines (4th Job)</li><li><img src='https://vignette.wikia.nocookie.net/maplestory/images/4/4b/Skill_Ice_Age.png' alt=''> Ice Age (5th Job)</li><li><img src='https://vignette.wikia.nocookie.net/maplestory/images/5/5c/Skill_Spirit_of_Snow.png/revision/latest?cb=20181115065338' alt=''> Spirit of Snow (5th Job)</li></ul><p>Below is a list of your Lightning-attribute skills:</p><ul><li><img src='https://static.wikia.nocookie.net/maplestory/images/7/78/Skill_Thunder_Bolt.png' alt='Skill Thunder Bolt.png' width='32' height='32'> Thunder Bolt (2nd Job)</li><li><img src='https://static.wikia.nocookie.net/maplestory/images/3/33/Skill_Thunderstorm.png' alt='Skill Thunderstorm.png' width='32' height='32'> Thunderstorm (3rd Job)</li><li><img src='https://static.wikia.nocookie.net/maplestory/images/f/ff/Skill_Chain_Lightning.png' alt='Skill Chain Lightning.png' width='32' height='32'> Chain Lightning (4th Job)</li><li><img src='https://vignette.wikia.nocookie.net/maplestory/images/2/24/Skill_Bolt_Barrage.png/revision/latest?cb=20170609033036' alt=''> Bolt Barrage (5th Job)</li></ul>"
+        }
     },
     "skill": {
         "primary":[
@@ -119,7 +124,7 @@
                     {
                         "id": 2001002,
                         "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/6/62/Skill_Magic_Guard_%28Magician%29.png/revision/latest?cb=20130706124158"],
-                        "animations": ["https://media.giphy.com/media/hpe0N68jQSIh6Nfcdb/giphy.gif"],
+                        "animations": ["https://media4.giphy.com/media/TcWUHRjSSskegm8p65/giphy.gif"],
                         "type": "Toggle Buff",
                         "desc": "When toggled, a portion of your damage taken will be redirected towards your MP",
                         "details": [

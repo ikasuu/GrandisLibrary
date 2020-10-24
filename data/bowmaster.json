@@ -165,20 +165,20 @@
                     {
                         "id": 3101002,
                         "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/3/3f/Skill_Bow_Booster.png/revision/latest?cb=20110502134835"],
-                        "animations": ["https://media1.giphy.com/media/hugZDye12s5lS1fpBg/giphy.gif"],
+                        "animations": ["https://media3.giphy.com/media/sOs0AZ64U6oZkLxIax/giphy.gif"],
                         "type": "Buff",
                         "desc": "Increases your Attack Speed (by 2 stages)"
                     },
                     {
                         "id": 3101004,
                         "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/e/e3/Skill_Soul_Arrow_Bow.png/revision/latest?cb=20110502142501"],
-                        "animations": ["https://media3.giphy.com/media/Y0sSxweeOuOFOfFmlp/giphy.gif"],
+                        "animations": ["https://media2.giphy.com/media/tl6GhvAtJgKUZBVOgk/giphy.gif"],
                         "type": "Buff"
                     },
                     {
                         "id": 3101009,
                         "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/6/6d/Skill_Quiver_Cartridge.png/revision/latest?cb=20130707024904"],
-                        "animations": ["https://media3.giphy.com/media/TfRAXXGRFIcnlbBRww/giphy.gif"],
+                        "animations": ["https://media2.giphy.com/media/XOEFsnoI1cJan4yOiY/giphy.gif"],
                         "type": "Active",
                         "desc": "While active, your attacks fire special homing arrows. There are 3 different quiver types, once you've consumed one quiver, you automatically switch to the next",
                         "details": [
@@ -312,32 +312,32 @@
                     {
                         "id": 3121002,
                         "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/5/53/Skill_Sharp_Eyes.png/revision/latest?cb=20100612140300"],
-                        "animations": ["https://media1.giphy.com/media/ZZf0hn5Hj3Qgco3ZFA/giphy.gif"],
+                        "animations": ["https://media0.giphy.com/media/zFyOrfXJDtiymYiByY/giphy.gif"],
                         "type": "Party Buff"
                     },
                     {
                         "id": 3121007,
                         "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/a/a6/Skill_Illusion_Step.png/revision/latest?cb=20160628052518"],
-                        "animations": ["https://media2.giphy.com/media/MchP5uARyE6XIbKLBT/giphy.gif"],
+                        "animations": ["https://media2.giphy.com/media/zSYOhkg3sNAHJKvwfE/giphy.gif"],
                         "type": "Buff"
                     },
                     {
                         "id": 3121009,
                         "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/3/30/Skill_Hero%27s_Will.png/revision/latest?cb=20100602090848"],
-                        "animations": ["https://media2.giphy.com/media/gjlovzstitqoRKIHQU/giphy.gif"],
+                        "animations": ["https://media3.giphy.com/media/B4vR1MVxyErVOcJ4P2/giphy.gif"],
                         "type": "Buff",
                         "desc": "Removes certain abnormal status effects and become immune to Abnormal Status for a few seconds"
                     },
                     {
                         "id": 3121000,
                         "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/a/a1/Skill_Maple_Warrior.png/revision/latest?cb=20100602085809"],
-                        "animations": ["https://media0.giphy.com/media/IdsGk5RNSIonSc0SlK/giphy.gif"],
+                        "animations": ["https://media4.giphy.com/media/DVEcrxMnH86Qet4Est/giphy.gif"],
                         "type": "Party Buff"
                     },
                     {
                         "id": 3121016,
                         "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/2/29/Skill_Enchanted_Quiver.png/revision/latest?cb=20130707042201"],
-                        "animations": ["https://media2.giphy.com/media/SRlBPtF9XpTDcdKYrg/giphy.gif"],
+                        "animations": ["https://media0.giphy.com/media/iDvMNse4b4n0xYxXC5/giphy.gif"],
                         "type": "Buff",
                         "desc": "Allows you to shoot without consuming your current <img src='https://vignette.wikia.nocookie.net/maplestory/images/6/6d/Skill_Quiver_Cartridge.png/revision/latest?cb=20130707024904' alt='Skill Quiver Cartridge' width='32' height='32'> quiver",
                         "details": [
@@ -427,7 +427,7 @@
                 {
                     "id": 3121054,
                     "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/e/ea/Skill_Concentration.png/revision/latest?cb=20121012200306"],
-                    "animations": ["https://media0.giphy.com/media/JqIkgndFlIPtOVUASF/giphy.gif"],
+                    "animations": ["https://media3.giphy.com/media/ocYVxpqvBqcPq6KODr/giphy.gif"],
                     "type": "Buff",
                     "reqLev": 140
                 },

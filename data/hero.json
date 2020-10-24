@@ -105,8 +105,7 @@
     "skill": {
         "primary":[
             [
-                "1st Job", [
-                    {
+                "1st Job", [{
                         "id": 1001005,
                         "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/d/d0/Skill_Slash_Blast.png/revision/latest?cb=20100616081915"],
                         "animations": ["https://media.giphy.com/media/hX0SXiLnMNlAWdsfkB/giphy.gif"],
@@ -135,8 +134,7 @@
                     }]
                 ],
                 [
-                "2nd Job", [
-                    {
+                "2nd Job", [{
                         "id": 1101011,
                         "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/9/92/Skill_Brandish.png/revision/latest?cb=20140409055731"],
                         "animations": ["https://media.giphy.com/media/U51zHDbbkyGXchcAwD/giphy.gif"],
