@@ -41,9 +41,9 @@
                 "<strong>Damage</strong>: +(up to 25% from <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/4/40/Skill_Flip_of_the_Coin.png/revision/latest?cb=20121015205907' alt='Skill Flip of the Coin'> Flip of the Coin)",
                 "<strong>Final Damage</strong>: +25% + (5% while in <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/9/9d/Skill_Advanced_Dark_Sight.png/revision/latest?cb=20100615145647' alt='Skill Advanced Dark Sight'> Dark Sight)",
                 "<strong>Attack Speed</strong>: 2",
-                "<strong>Knockback Resistance: </strong>+0%",
-                "<strong>Ignore DEF: </strong>+20%",
-                "<strong>Damage Reduction (Regular Monsters): </strong>+60%",
+                "<strong>Knockback Resistance</strong>: +0%",
+                "<strong>Ignore DEF</strong>: +20%",
+                "<strong>Damage Reduction (Regular Monsters)</strong>: +60%",
                 "<strong>Abnormal Status Resistance</strong>: 30"
             ]
         ],

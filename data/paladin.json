@@ -34,7 +34,7 @@
             [
                 "<strong>Max HP</strong>: +20%",
                 "<strong>DEF</strong>: +250%",
-                "<strong>Guard Chance: +</strong>40%",
+                "<strong>Guard Chance</strong>: +40%",
                 "<strong>Crit Rate</strong>: +42%",
                 "<strong>Crit Damage</strong>: +8% + (6% with 1H Sword equipped) + (5% with 2H Sword / 1H/2H Blunt Weapon)",
                 "<strong>Final Damage</strong>: +42%",
