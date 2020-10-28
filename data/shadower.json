@@ -138,12 +138,12 @@
                     {
                         "id": 4001003,
                         "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/d/dd/Skill_Dark_Sight.png/revision/latest?cb=20100308114826"],
-                        "animations": ["https://media1.giphy.com/media/QVs3iXXRnaHXBf3k9z/giphy.gif"],
+                        "animations": ["https://media1.giphy.com/media/YrCPV4EGDdohPbikxp/giphy.gif"],
                         "type": "Active",
                         "desc": "While active, you cannot hit or be hit by enemies",
                         "details": [
                             "Has a cooldown (3 secs, stacks up to 5 times) per attack dodged",
-                            "Additionally, you gain increased %Final Damage while in <img src='https://vignette.wikia.nocookie.net/maplestory/images/d/dd/Skill_Dark_Sight.png/revision/latest?cb=20100308114826' alt='Skill Dark Sight' width='32' height='32' />"
+                            "You can use <img class='icon' src='https://vignette.wikia.nocookie.net/maplestory/images/6/6a/Skill_Flash_Jump_%28Thief%29.png/revision/latest?cb=20100615143807' alt='' /> Flash Jump while in Dark Sight"
                         ]
                     },
                     {
