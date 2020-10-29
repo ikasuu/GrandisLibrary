@@ -550,7 +550,7 @@
                 },
                 {
                     "name": "Shadow Bite",
-                    "shortDesc": "MP Cost: 1500, Max Enemies Hit: 15, Damage: 800%, Number of Attacks: 14, deals 1200% damage to boss monsters, creates a Shadow Bat where an enemy received an attack if a Shadow Bat can be summoned\\nIf an enemy has been defeated by Shadow Bite, the Final Damage increases by 1% per 1 enemy for 17 sec. If you attacked a boss monster, the Final Damage increases by 14%. The Final Damage increased by Shadow Bite is applied up to 15%.\\nCooldown: 20 sec ",
+                    "shortDesc": "MP Cost: 1500, Max Enemies Hit: 15, Damage: 800%, Number of Attacks: 14, deals 1200% damage to boss monsters, creates a Shadow Bat where an enemy received an attack if a Shadow Bat can be summoned\\nIf an enemy has been defeated by Shadow Bite, the Final Damage increases by 1% per 1 enemy for 17 sec. If you attacked a boss monster, the Final Damage increases by 14%. The Final Damage increased by Shadow Bite is applied up to 15%.\\nCooldown: 20 sec",
                     "id": 400041037,
                     "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/4/40/Skill_Shadow_Bite.png/revision/latest?cb=20181115065338"],
                     "animations": ["https://orangemushroom.files.wordpress.com/2018/06/shadow-bite-effect.gif?w=1000&h=", "https://orangemushroom.files.wordpress.com/2018/06/shadow-bite-effect-attack.gif?w=700&h="],

@@ -31,7 +31,7 @@
             "Excludes Hyper Skill Passives, Link Skills, <img src='https://vignette.wikia.nocookie.net/maplestory/images/6/62/Skill_Magic_Guard_%28Magician%29.png/revision/latest?cb=20130706124158' alt='Skill Magic Guard (Magician)' width='32' height='32' /> Magic Guard and buffs with cooldowns",
             [
                 "<strong>Max MP</strong>: +20%",
-                "<strong>Crit Rate</strong>: +30% + (3% when Wand is equipped)",
+                "<strong>Crit Rate</strong>: +30% + (5% when Wand is equipped)",
                 "<strong>Crit Damage</strong>: +13% + (up to 30% from <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/4/40/Skill_Freezing_Crush.png/revision/latest?cb=20130706132353' alt='Skill Freezing Crush'> Freezing Crush stacks)",
                 "<strong>Damage</strong>: +50% + (up to 40% from <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/e/e3/Skill_Arcane_Aim.png/revision/latest?cb=20110423131500' alt='Skill Arcane Aim'> Arcane Aim)",
                 "<strong>Final Damage</strong>: +50% (up to +60% from <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/4/40/Skill_Freezing_Crush.png/revision/latest?cb=20130706132353' alt='Skill Freezing Crush'> Freezing Crush stacks with Lightning-Attribute attacks) + (20% to enemies with: <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/0/02/Skill_Storm_Magic.png/revision/latest?cb=20110423054858' alt='Skill Storm Magic'> DoT, Freeze, Stun, Darkness or Paralysis)",
@@ -504,7 +504,8 @@
                     "desc": "Creates a wall of lightning that pulses forward",
                     "details": [
                         "Strikes the same location if the path is blocked",
-                        "If an enemy is hit by the attack multiple times, the %Final Damage is reduced"
+                        "If an enemy is hit by the attack multiple times, the %Final Damage is reduced",
+                        "<strong>[Tip]</strong>: Can be used while casting <img src='https://vignette.wikia.nocookie.net/maplestory/images/e/eb/Skill_Frozen_Orb.png/revision/latest?cb=20130706154752' alt='Skill Frozen Orb'> to increase burst potential"
                     ]
                 },
                 {
