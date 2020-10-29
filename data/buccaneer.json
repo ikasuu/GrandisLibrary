@@ -628,5 +628,6 @@
                 "animations": ["https://media2.giphy.com/media/RlqmvZMjmTgUsCFmUV/giphy.gif"]
             }
         ]
-    }
+    },
+    "meta": "Buccaneer is a STR pirate class part of the Explorers class group. Buccaneers have a special resource called 'Energy' that they gain in 2nd Job. When you fully charge your Energy, you gain increased stats and gain access to special skills that consume Energy"
 }
