@@ -233,8 +233,7 @@
                     {
                         "id": 12100026,
                         "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/8/8d/Skill_Greater_Flame_Elemental.png/revision/latest?cb=20140926023602"],
-                        "type": "Passive",
-                        "desc": "Increases amount of Magic Attack provided by <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/5/57/Skill_Flame_Elemental.png/revision/latest?cb=20140429061748' alt='Skill Flame Elemental'>"
+                        "type": "Upgraded Passive"
                     },
                     {
                         "id": 12100027,
@@ -280,8 +279,7 @@
                     {
                         "id": 12110024,
                         "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/b/be/Skill_Grand_Flame_Elemental.png/revision/latest?cb=20140926024336"],
-                        "type": "Passive",
-                        "desc": "Increases amount of Magic Attack provided by <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/5/57/Skill_Flame_Elemental.png/revision/latest?cb=20140429061748' alt='Skill Flame Elemental'>"
+                        "type": "Upgraded Passive"
                     },
                     {
                         "id": 12110025,
@@ -358,8 +356,7 @@
                 {
                     "id": 12120007,
                     "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/8/8d/Skill_Final_Flame_Elemental.png/revision/latest?cb=20140924171827"],
-                    "type": "Passive",
-                    "desc": "Increases amount of Magic Attack provided by <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/5/57/Skill_Flame_Elemental.png/revision/latest?cb=20140429061748' alt='Skill Flame Elemental'>"
+                    "type": "Upgraded Passive"
                 },
                 {
                     "id": 12120009,
