@@ -162,7 +162,7 @@
                     {
                         "id": 25101003,
                         "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/b/b1/Skill_Blade_Imp_-_Downward_Slash.png/revision/latest?cb=20140914072242"],
-                        "animations": ["https://media.giphy.com/media/JRIFwIZcLhouHwx7lX/giphy.gif"],
+                        "animations": ["https://media1.giphy.com/media/cCT2iqVF2loHShNDxX/giphy.gif"],
                         "type": "Attack",
                         "desc": "Pulls enemies above you down to your platform and debuffs them",
                         "details": [
@@ -323,13 +323,13 @@
                     {
                         "id": 25121108,
                         "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/a/a1/Skill_Maple_Warrior.png/revision/latest?cb=20100602085809"],
-                        "animations": ["https://media.giphy.com/media/SUi7EGaA7nNWHxR55G/giphy.gif"],
+                        "animations": ["https://media0.giphy.com/media/OmYneUp8HKBk3giEEm/giphy.gif"],
                         "type": "Party Buff"
                     },
                     {
                         "id": 25121209,
                         "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/d/d9/Skill_Spirit_Ward.png/revision/latest?cb=20140921055801"],
-                        "animations": ["https://media.giphy.com/media/XBisjikdzdlwU2mlQS/giphy.gif"],
+                        "animations": ["https://media4.giphy.com/media/zVYEDFY52H8qtKPkWg/giphy.gif"],
                         "type": "Buff",
                         "desc": "Summons three guardian spirits that protect you from either a debuff or incoming damage",
                         "details": [
@@ -339,13 +339,13 @@
                     {
                         "id": 25120110,
                         "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/9/9e/Skill_Fire_Fox_Spirit_Mastery.png/revision/latest?cb=20140921055806"],
-                        "animations": ["https://media.giphy.com/media/jq6B2R2ZfMRtwGpKM7/giphy.gif"],
+                        "animations": ["https://media0.giphy.com/media/OmYneUp8HKBk3giEEm/giphy.gif"],
                         "type": "Upgraded Passive"
                     },
                     {
                         "id": 25121211,
                         "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/3/30/Skill_Hero%27s_Will.png/revision/latest?cb=20100602090848"],
-                        "animations": ["https://media.giphy.com/media/YqzAVkpWFsKe6KzNS3/giphy.gif"],
+                        "animations": ["https://media2.giphy.com/media/CDWBGrsQ6w7JS4aNG1/giphy.gif"],
                         "type": "Buff",
                         "desc": "Removes certain abnormal status effects and become immune to Abnormal Status for a few seconds"
                     },
@@ -427,7 +427,7 @@
                 {
                     "id": 25121131,
                     "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/8/83/Skill_Spirit_Bond_Max.png/revision/latest?cb=20140720234310"],
-                    "animations": ["https://media.giphy.com/media/QZhaZYDDnO4KXZm81g/giphy.gif"],
+                    "animations": ["https://media0.giphy.com/media/0L3RNYF40GeXXqmMjP/giphy.gif"],
                     "type": "Buff",
                     "desc": "Increases %Damage, %Boss Damage, %Ignore DEF and Attack Speed (by 1 stage) and grants flat Attack",
                     "details": [
@@ -471,12 +471,12 @@
                     "shortDesc": "MP Cost: 1000, resets cooldowns, Duration: 55, the spirits guiding you automatically trigger an attack skill when you perform an attack, excluding 5th Job Skills, when you perform an attack, Key-down Skill Durations: 3 sec, Final Damage: +17%\\nSpirit Attack Cooldown: 2 Sec.\\nCooldown: 120 Sec.",
                     "id": 400031002,
                     "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/f/f1/Skill_Spirit_Flow.png/revision/latest?cb=20161125062716"],
-                    "animations": ["https://orangemushroom.files.wordpress.com/2016/07/spirit-focus-effect.gif?w=700&h="],
+                    "animations": ["https://media3.giphy.com/media/FnSSh6nmlsi2P8w9wB/giphy.gif"],
                     "type": "Buff Attack",
                     "desc": "Whenever you attack, spirits will automatically appear and attack alongside you",
                     "details": [
                         "The spirits come from your skills from all Job Advancements except 5th Job",
-                        "Also grants %Final Damage when active"
+                        "Also resets all cooldowns for skills that apply and increases %Final Damage when active"
                     ]
                 },
                 {
@@ -484,7 +484,7 @@
                     "shortDesc": "MP Cost: 1000, Duration: 40 sec, Creates a portal that summons 2 spirits lasting 8 sec. Up to 10 spirits can exist simultaneously.\\nSpirits seek out nearby enemies to inflict 1200% damage 3 times. Spirits then collide with the enemy, disappearing and granting them a debuff for 8 sec.\\nAttacks against an afflicted enemy gain Critical Rate +8% and Critical Damage +1%.Debuff can stack up to 10 times.\\nCooldown: 95 sec",
                     "id": 400031020,
                     "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/8/88/Skill_Spiritgate.png/revision/latest?cb=20170609033218"],
-                    "animations": ["https://orangemushroom.files.wordpress.com/2016/12/ghost-disposition-repeat-effect.gif?w=1000&h=", "https://orangemushroom.files.wordpress.com/2016/12/ghost-disposition-attack-effect.gif?w=1000&h="],
+                    "animations": ["https://media0.giphy.com/media/rgX8FDXKbj0XfWJqXx/giphy.gif"],
                     "type": "Summon",
                     "desc": "Creates a portal where swarms of spirits will appear and seek out enemies to attack and debuff",
                     "details": [
@@ -496,7 +496,7 @@
                     "shortDesc": "MP Cost: 80, Max Enemies Hit: 10, Damage: 1000%, Number of Attacks: 8, Additional Monster DEF Ignored: 50%\\nActivates when Spirit Claw is used\\nCooldown: 6 sec",
                     "id": 400031028,
                     "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/b/b6/Skill_True_Spirit_Claw.png/revision/latest?cb=20181115065415"],
-                    "animations": ["https://orangemushroom.files.wordpress.com/2018/06/true-wind-claw-effect.gif?w=600"],
+                    "animations": ["https://media4.giphy.com/media/HxBN9wmrlRCMIu9Cp1/giphy.gif"],
                     "type": "Passive Attack",
                     "desc": "Periodically when using <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/c/c8/Skill_Spirit_Claw.png/revision/latest?cb=20140921055744' alt='Skill Spirit Claw'>, the true form of the skill will appear, attacking enemies in a bigger radius",
                     "details": [
@@ -534,12 +534,12 @@
             {
                 "name": "Spiritgate - 5th Job",
                 "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/8/88/Skill_Spiritgate.png/revision/latest?cb=20170609033218"],
-                "animations": ["https://orangemushroom.files.wordpress.com/2016/12/ghost-disposition-attack-effect.gif?w=1000&h="]
+                "animations": ["https://media0.giphy.com/media/rgX8FDXKbj0XfWJqXx/giphy.gif"]
             },
             {
                 "name": "True Spirit Claw - 5th Job",
                 "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/b/b6/Skill_True_Spirit_Claw.png/revision/latest?cb=20181115065415"],
-                "animations": ["https://orangemushroom.files.wordpress.com/2018/06/true-wind-claw-effect.gif?w=600"]
+                "animations": ["https://media4.giphy.com/media/HxBN9wmrlRCMIu9Cp1/giphy.gif"]
             }
         ]
     },
