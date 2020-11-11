@@ -155,7 +155,7 @@
                         "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/5/57/Skill_Body_Pressure.png/revision/latest?cb=20100603082115"],
                         "animations": ["https://media0.giphy.com/media/79AfLL65IEKwdSU3TE/giphy.gif"],
                         "type": "Toggle Buff",
-                        "desc": "When active, reflect back damage taken"
+                        "desc": "While active, reflect back damage taken"
                     }]
                 ],
                 [
