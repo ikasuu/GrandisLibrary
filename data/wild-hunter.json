@@ -553,7 +553,7 @@
                     "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/9/9f/Skill_Exploding_Arrows.png/revision/latest?cb=20110515144344"],
                     "animations": ["https://media2.giphy.com/media/QyPbDtFiFd7OzC5C2v/giphy.gif"],
                     "type": "Mounted Attack",
-                    "desc": "Create a large area attack that deals damage to multiple enemies ",
+                    "desc": "Create a large area attack that deals damage to multiple enemies",
                     "details": [
                         "Shares cooldown with <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/8/84/Skill_Jaguar_Rampage.png/revision/latest?cb=20130517120706' alt='Skill Jaguar Rampage'> Jaguar Rampage"
                     ],

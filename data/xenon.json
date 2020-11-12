@@ -199,352 +199,419 @@
                 [
                 "2nd Job", [
                     {
-                        "id": 33101113,
-                        "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/b/bc/Skill_Triple_Shot.png/revision/latest?cb=20150315224254"],
-                        "animations": ["https://media2.giphy.com/media/fvlRuZZc5axXdA9sgZ/giphy.gif"],
-                        "type": "Unmounted Attack",
-                        "desc": "Fires three arrows but only hits one enemy"
+                        "id": 36101000,
+                        "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/c/cd/Skill_Quicksilver_Flash.png/revision/latest?cb=20121217225534"],
+                        "animations": ["https://orangemushroom.files.wordpress.com/2013/01/quicksilver-sword-flash-effect.gif?w=600"],
+                        "type": "Modal Attack",
+                        "desc": "Slashes your whip blade several times in front of you"
                     },
                     {
-                        "id": 33101213,
-                        "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/b/bc/Skill_Triple_Shot.png/revision/latest?cb=20150315224254"],
-                        "type": "Mounted Attack",
-                        "desc": "Fires three arrows and Jaguar artillery that pierces and hit multiple enemies but has reduced damage and range"
-                    },
-                    {
-                        "id": 33101215,
-                        "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/8/85/Skill_Dash_%27n_Slash.png/revision/latest?cb=20110515140146"],
-                        "animations": ["https://media1.giphy.com/media/Ig3dPJsu0mxGAG1dmu/giphy.gif"],
-                        "type": "Mounted Attack",
-                        "desc": "Dash forward dealing damage to multiple enemies and also stuns enemies"
-                    },
-                    {
-                        "id": 33101115,
-                        "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/8/85/Skill_Dash_%27n_Slash.png/revision/latest?cb=20110515140146"],
-                        "type": "Jaguar Attack",
-                        "desc": "Jaguar dashes forward pushing enemies and dealing damage to them. Also stuns and has a chance to apply a stack of 'Another Bite'",
+                        "id": 36101008,
+                        "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/6/60/Skill_Quicksilver_Concentrate.png/revision/latest?cb=20121217230444"],
+                        "animations": ["https://orangemushroom.files.wordpress.com/2013/01/quicksilver-sword-focus-effect.gif?w=600"],
+                        "type": "Modal Attack",
+                        "desc": "Swings you whip blade forward",
                         "details": [
-                            "Unaffected by damage reflect"
+                            "Attack has increased %Crit Rate"
                         ]
                     },
                     {
-                        "id": 33100000,
-                        "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/c/cb/Skill_Crossbow_Mastery.png/revision/latest?cb=20100609132925"],
-                        "type": "Passive"
+                        "id": 36101009,
+                        "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/4/4c/Skill_Quicksilver_Takeoff.png/revision/latest?cb=20121217230611"],
+                        "animations": ["https://orangemushroom.files.wordpress.com/2013/01/quicksilver-sword-jump-effect.gif?w=600"],
+                        "type": "Modal Attack",
+                        "desc": "Lashes your Whip Blade while boosting you up into the air"
                     },
                     {
-                        "id": 33101003,
-                        "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/1/1f/Skill_Soul_Arrow_Crossbow.png/revision/latest?cb=20110502134857"],
-                        "animations": ["https://media2.giphy.com/media/W6ABC0sXN615tuMKy9/giphy.gif"],
+                        "id": 36101001,
+                        "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/c/ca/Skill_Ion_Thrust.png/revision/latest?cb=20121223153308"],
+                        "animations": ["https://orangemushroom.files.wordpress.com/2012/12/ion-thruster-effect.gif?w=600"],
+                        "type": "Key-down Supply Attack",
+                        "desc": "Hop onto an Ion Thruster which will damage and push enemies back "
+                    },
+                    {
+                        "id": 36101003,
+                        "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/f/f8/Skill_Efficiency_Streamline.png/revision/latest?cb=20121217225901"],
+                        "animations": ["https://orangemushroom.files.wordpress.com/2012/12/efficiency-pipeline-effect.gif?w=600"],
                         "type": "Buff"
                     },
                     {
-                        "id": 33101005,
-                        "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/e/e3/Skill_Call_of_the_Wild.png/revision/latest?cb=20120810051406"],
-                        "animations": ["https://media1.giphy.com/media/IdNmRKPqMRmAsjXIL5/giphy.gif"],
-                        "type": "Party Buff",
-                        "desc": "This buff has two parts, one part that applies only to you and a part that applies to you and your party members",
-                        "details": [
-                            "<strong>[Self]</strong>: Increases %Damage Reduction, %Avoidability, and %Max MP to yourself",
-                            "<strong>[Party + Self]</strong>: Increases %Attack and Magic Attack"
-                        ]
-                    },
-                    {
-                        "id": 33100009,
-                        "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/8/87/Skill_Final_Attack.png/revision/latest?cb=20110420081207"],
-                        "type": "Final Attack Passive",
-                        "desc": "Grants your attacks a chance to deal an additional hit"
-                    },
-                    {
-                        "id": 33100010,
-                        "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/5/59/Skill_Physical_Training.png/revision/latest?cb=20110420081133"],
+                        "id": 36100002,
+                        "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/3/33/Skill_Perspective_Shift.png/revision/latest?cb=20160627052633"],
                         "type": "Passive"
                     },
                     {
-                        "id": 33100014,
-                        "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/b/ba/Skill_Jaguar_Mastery.png/revision/latest?cb=20150320201446"],
-                        "type": "Passive"
-                    },
-                    {
-                        "id": 33101012,
-                        "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/8/8a/Skill_Crossbow_Booster.png/revision/latest?cb=20100607082800"],
-                        "animations": ["https://media2.giphy.com/media/husZ3Lbb8MV6luny0G/giphy.gif"],
+                        "id": 36101004,
+                        "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/b/b1/Skill_Xenon_Booster.png/revision/latest?cb=20121217225950"],
+                        "animations": ["https://orangemushroom.files.wordpress.com/2012/12/xenon-booster-effect.gif?w=600"],
                         "type": "Buff",
                         "desc": "Increases Attack Speed (by 2 stages)"
+                    },
+                    {
+                        "id": 36100005,
+                        "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/2/29/Skill_Structural_Integrity.png/revision/latest?cb=20181015053022"],
+                        "type": "Passive"
+                    },
+                    {
+                        "id": 36100006,
+                        "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/a/ad/Skill_Xenon_Mastery.png/revision/latest?cb=20121217230155"],
+                        "type": "Passive"
+                    },
+                    {
+                        "id": 36100007,
+                        "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/c/c0/Skill_Multilateral_III.png/revision/latest?cb=20121217230258"],
+                        "type": "Upgraded Passive",
+                        "desc": "Grants special bonuses once you've reached a certain amount of stats "
+                    },
+                    {
+                        "id": 36100010,
+                        "icons": ["data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAC1ElEQVR4nL1XjZWzIBCcvHcN0IJXAinBlKAlaAlagpagJcQSzhJCCR8tUILfgqJgxOj9ZPKSRxB2xmWXhQ/4GPAeXGzDFTA8Hv/ewn69fg5WhBVgyDmP3iKguX8hT29GxMeaPM3rXyOqRPbUF0UM2T0GJhFeDMhcocI4qUS7bRSLUT3G/e/Czo8ezOtXN8Dt8QSESPfG7M0pOQm8ZrMIeVWm745iW0ACvmmog5ifue0jYIztPvcEaOMhuM/2xq3BFSeXh0V4AjiWLBCQT31nkYjYiwHd1ksSFGBJX/UdFoBx3ffwgT8AI7dzyrRa9VDs+QWCQfgr5JIjqRi6WtHikftJjKKPZNueDAqIsB+9LhLEc7tVDDFnEEqgqJZs6UsBwRR9/QDeFGDJXcN7uLafc3sYBtS3idzJ1viLloW425ZB6q2DBQS45HVbUxDqMNxPO02apikS7kT4RK5cz5PpopkedBsC2Io8ixqIqCW39YjjxRuir1FVjWmXZQ6lFGKZIWEx0ktJAZjM5LQSEEQm5ZINPDFvGvJAZMjvWQNJg7pOQpIlIRwvEJEm1gXMraBKa3y9m3t4EkB0KLICaZsbD6jpI+Xiy4gi2vVAYnX1OA1PgCbSy9ChNyJqEjHGgPQEaLTdbW4nmUBPS8XIGfehMkFoBE3Oic2yM6+v3YqB0QNj/loRR3C9jVnQdR2GYjrVaQ18ITQvSH11TsWM83AWrEUcwSNbjnI5bb3Ngy+pOMHdB4qMb2fBWsRR1NYadPnl6AXlOpHV9fgCJoaikzvhd6EiQdvwWAtErzZrQVDAuvS6lTBUlvWYdRlX5OZex4Czm4fmvyzHP332aszmEpw5crn4ztFtU8CZI9fe3JAdt8h5Ao4euc/AnppDtjwBUcO8i0l5dmM/IOTe+JubFnDRdzV7O1oP+Au0Xa9vRbp5sR4wIvSd7R2w5PrHXYLLdGF8B+br+X8u3D2XhIpCxwAAAABJRU5ErkJggg=="],
+                        "type": "Passive"
                     }]
                 ],
                 [
                 "3rd Job", [{
-                        "id": 33111112,
-                        "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/d/d5/Skill_Enduring_Fire.png/revision/latest?cb=20110515140142"],
-                        "animations": ["https://media0.giphy.com/media/MFJLRBtNx4klvBds3o/giphy.gif"],
-                        "type": "Unmounted Attack",
-                        "desc": "Fires five arrows but only hits one enemy"
+                        "id": 36111000,
+                        "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/c/c6/Skill_Combat_Switch_Explosion.png/revision/latest?cb=20121217231933"],
+                        "animations": ["https://orangemushroom.files.wordpress.com/2013/01/combat-switching-explode-effect.gif?w=600"],
+                        "type": "Modal Attack",
+                        "desc": "Thrusts your Whip Blade forward which will then explode"
                     },
                     {
-                        "id": 33111212,
-                        "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/d/d5/Skill_Enduring_Fire.png/revision/latest?cb=20110515140142"],
-                        "type": "Mounted Attack",
-                        "desc": "Fires five arrows and Jaguar artillery that pierce and hit multiple enemies but has reduced damage and range"
-                    },
-                    {
-                        "id": 33111015,
-                        "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/a/a8/Skill_Sonic_Roar.png/revision/latest?cb=20110515144341"],
-                        "type": "Jaguar Attack",
-                        "desc": "Jaguar roars creating a shockwave that damages multiple enemies and has a chance to apply a stack of 'Another Bite'",
+                        "id": 36111009,
+                        "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/8/85/Skill_Combat_Switch_Air_Whip.png/revision/latest?cb=20121217233221"],
+                        "animations": ["https://orangemushroom.files.wordpress.com/2013/01/combat-switching-shoot-down-effect.gif?w=600"],
+                        "type": "Modal Attack",
+                        "desc": "Swings your Whip Blade forward",
                         "details": [
-                            "Unaffected by damage reflect"
+                            "Deals increased %Damage to enemies in the air"
                         ]
                     },
                     {
-                        "id": 33111010,
-                        "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/7/77/Skill_White_Heat_Rush.png/revision/latest?cb=20140513203111"],
-                        "animations": ["https://orangemushroom.files.wordpress.com/2013/09/white-heat-rush-effect1.gif?w=600&h=501"],
-                        "type": "Mounted Attack",
-                        "desc": "Dash upwards diagonally while dealing damage and pushing enemies away"
+                        "id": 36111010,
+                        "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/c/cf/Skill_Combat_Switch_Fission.png/revision/latest?cb=20121217232953"],
+                        "animations": ["https://orangemushroom.files.wordpress.com/2013/01/combat-switching-divide-effect.gif?w=600"],
+                        "type": "Modal Attack",
+                        "desc": "Your whip blade splits and deals damage to enemies below you",
+                        "details": [
+                            "Can only be used in the air",
+                            "Can be combined with <img src='https://vignette.wikia.nocookie.net/maplestory/images/3/34/Skill_Diagonal_Chase.png/revision/latest?cb=20121217232028' alt='Skill Diagonal Chase' width='32' height='32'> Diagonal Chase"
+                        ]
                     },
                     {
-                        "id": 33111013,
-                        "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/a/a5/Skill_Hunting_Assistant_Unit.png/revision/latest?cb=20130517120628"],
-                        "animations": ["https://media2.giphy.com/media/QCJif33fUCDZ7aKOh7/giphy.gif"],
-                        "type": "Summon",
-                        "desc": "Summons a turret that attacks in an area for a certain interval before having to recharge to attack again"
+                        "id": 36111001,
+                        "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/3/34/Skill_Diagonal_Chase.png/revision/latest?cb=20121217232028"],
+                        "animations": ["https://orangemushroom.files.wordpress.com/2012/12/diagonal-chase-effect.gif?w=600"],
+                        "type": "Attack",
+                        "desc": "Dashes diagonally while pushing back enemies"
                     },
                     {
-                        "id": 33111007,
-                        "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/1/16/Skill_Feline_Berserk.png/revision/latest?cb=20110515144409"],
-                        "animations": ["https://media1.giphy.com/media/U2FUb98J7USUvVFFD8/giphy.gif"],
+                        "id": 36111002,
+                        "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/4/4f/Skill_Gravity_Pillar.png/revision/latest?cb=20121217232134"],
+                        "animations": ["https://orangemushroom.files.wordpress.com/2012/12/pillar-scramble-effect.gif?w=600"],
+                        "type": "Attack",
+                        "desc": "Creates a zone from below that lifts enemies into the air"
+                    },
+                    {
+                        "id": 36111003,
+                        "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/9/9d/Skill_Hybrid_Defenses.png/revision/latest?cb=20121217232341"],
+                        "animations": ["https://orangemushroom.files.wordpress.com/2012/12/dual-breed-defensive-effect.gif?w=600"],
+                        "type": "Supply Buff",
+                        "desc": "While active, grants increased %Avoidability",
+                        "details": [
+                            "Effects are removed after being hit a fixed number of times<ul><li>As well, when you are hit, the %Avoidability from this buff is reduced but you take less damage</li></ul>",
+                            "<strong>[Passive]</strong>: Permanently grants flat All Stats and DEF"
+                        ]
+                    },
+                    {
+                        "id": 36111004,
+                        "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/8/8d/Skill_Aegis_System.png/revision/latest?cb=20160108005220"],
+                        "type": "Toggle Buff",
+                        "desc": "Whenever you are hit or evade an attack, you have a chance to fire defensive missiles",
+                        "details": [
+                            "Unaffected by Damage Reflect"
+                        ]
+                    },
+                    {
+                        "id": 36110005,
+                        "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/c/c2/Skill_Triangulation.png/revision/latest?cb=20121217232554"],
+                        "animations": ["https://orangemushroom.files.wordpress.com/2012/12/triangle-formation-effect.gif?w=600"],
+                        "type": "Passive",
+                        "desc": "While attacking, you have a chance to attach 'Airframes'. Once 3 Airframes are attached to an enemy, the stacks will be consumed and will deal damage to that enemy",
+                        "details": [
+                            "Unaffected by Damage Reflect",
+                            "Enemy has decreased %Accuracy and %Avoidability for each Airframe"
+                        ]
+                    },
+                    {
+                        "id": 36111006,
+                        "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/a/a6/Skill_Manifest_Projector.png/revision/latest?cb=20121217232703"],
+                        "animations": ["https://orangemushroom.files.wordpress.com/2012/12/virtual-projection-effect.gif?w=600"],
                         "type": "Buff",
-                        "desc": "",
+                        "desc": "Creates a clone hologram that will deal an additional portion of the damage that you deal",
                         "details": [
-                            "Right-click the skill to toggle on/off the red wing effect from this skill"
+                            "The clone only disappears after losing a proportion of your %Max HP"
                         ]
                     },
                     {
-                        "id": 33110008,
-                        "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/2/25/Skill_Flurry.png/revision/latest?cb=20130517114914"],
-                        "type": "Passive",
-                        "desc": "Grants a chance to dodge attacks",
-                        "details": [
-                            "Whenever you dodge an attack, all your attacks will be Critical Hits briefly",
-                            "Additionally, grants flat DEX"
-                        ]
+                        "id": 36110007,
+                        "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/d/d7/Skill_Multilateral_IV.png/revision/latest?cb=20121217232803"],
+                        "type": "Upgraded Passive",
+                        "desc": "Grants special bonuses once you've reached a certain amount of stats"
                     },
                     {
-                        "id": 33110014,
-                        "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/2/2e/Skill_Jaguar_Link.png/revision/latest?cb=20150321005539"],
-                        "type": "Passive",
-                        "desc": "For each captured Jaguar, gain %Crit Chance, %Crit Damage and Attack"
+                        "id": 36111008,
+                        "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/1/16/Skill_Emergency_Resupply.png/revision/latest?cb=20121217232857"],
+                        "animations": ["https://orangemushroom.files.wordpress.com/2012/12/extra-supply-effect.gif?w=600"],
+                        "type": "Active",
+                        "desc": "Instantly grants extra charges of Energy"
                     },
                     {
-                        "id": 33111011,
-                        "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/c/ca/Skill_Backstep.png/revision/latest?cb=20140513203116"],
-                        "type": "Toggle",
-                        "desc": "When toggled, you will walk backward without changing directions",
-                        "details": [
-                            "<strong>[Passive]</strong>: Increases %Damage Reduction"
-                        ]
+                        "id": 36110012,
+                        "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/6/6b/Skill_Pinpoint_Salvo_Redesign_B.png/revision/latest?cb=20190525013056"],
+                        "type": "Upgraded Passive"
                     }]
                 ],
                 [
                 "4th Job", [{
-                    "id": 33121114,
-                    "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/7/71/Skill_Wild_Arrow_Blast.png/revision/latest?cb=20110515144423"],
-                    "animations": ["https://media3.giphy.com/media/mGc0ic4C1iZpBx3sco/giphy.gif"],
-                    "type": "Unmounted Key-down Attack",
-                    "desc": "Continuously fires arrows but attacks only hits one enemy",
+                    "id": 36121000,
+                    "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/6/60/Skill_Beam_Dance.png/revision/latest?cb=20121217234717"],
+                    "animations": ["https://orangemushroom.files.wordpress.com/2013/01/blade-dancing-effect.gif?w=600"],
+                    "type": "Key-down Attack",
+                    "desc": "Violently swings your Whip Blade around yourself",
                     "details": [
-                        "Deals increased %Damage to bosses"
+                        "You can move and jump while attacking"
                     ]
                 },
                 {
-                    "id": 33121214,
-                    "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/7/71/Skill_Wild_Arrow_Blast.png/revision/latest?cb=20110515144423"],
-                    "type": "Mounted Key-down Attack",
-                    "desc": "Continuously fires arrows and Jaguar artillery that pierce and hit multiple enemies but has reduced damage and range"
-                },
-                {
-                    "id": 33121017,
-                    "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/8/89/Skill_Jaguar_Soul.png/revision/latest?cb=20150323084659"],
-                    "animations": ["https://media3.giphy.com/media/dyLqsvZiDHv1oZCnNk/giphy.gif"],
-                    "type": "Jaguar Bind Attack",
-                    "desc": "Unleashes a cry that attacks and binds the enemy with the highest HP and applies a stack of 'Another Bite'"
-                },
-                {
-                    "id": 33121016,
-                    "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/d/dc/Skill_Drill_Salvo.png/revision/latest?cb=20150323085908"],
-                    "animations": ["https://media0.giphy.com/media/Tg646V2Y9XeHrS3W6y/giphy.gif"],
-                    "type": "Summon",
-                    "desc": "Summons a turret that launches drill attacks",
+                    "id": 36121001,
+                    "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/2/22/Skill_Mecha_Purge_Snipe.png/revision/latest?cb=20121218160856"],
+                    "animations": ["https://orangemushroom.files.wordpress.com/2013/01/purge-lob-masquerade-snipe-effect.gif?w=600"],
+                    "type": "Modal Attack",
+                    "desc": "Deals a focused attack towards a single enemy",
                     "details": [
-                        "Increases <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/7/71/Skill_Wild_Arrow_Blast.png/revision/latest?cb=20110515144423' alt='Skill Wild Arrow Blast'> %Damage against Normal Monsters while mounted on Jaguar"
+                        "Attack has increased %Ignore DEF"
                     ]
                 },
                 {
-                    "id": 33121004,
-                    "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/5/53/Skill_Sharp_Eyes.png/revision/latest?cb=20100612140300"],
-                    "animations": ["https://media0.giphy.com/media/VGQmhZsAn04EOXy17A/giphy.gif"],
-                    "type": "Party Buff"
+                    "id": 36121011,
+                    "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/3/3e/Skill_Mecha_Purge_Bombard.png/revision/latest?cb=20121218161849"],
+                    "animations": ["https://orangemushroom.files.wordpress.com/2013/01/purge-lob-masquerade-laser-effect.gif?w=600"],
+                    "type": "Modal Attack",
+                    "desc": "Blasts a laser forward damaging multiple enemies"
                 },
                 {
-                    "id": 33121007,
+                    "id": 36121012,
+                    "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/a/a1/Skill_Mecha_Purge_Bombardment.png/revision/latest?cb=20121218162105"],
+                    "animations": ["https://orangemushroom.files.wordpress.com/2013/01/purge-lob-masquerade-bomb-effect.gif?w=600"],
+                    "type": "Modal Attack",
+                    "desc": "Bombards enemies from the air with missiles and lasers"
+                },
+                {
+                    "id": 36121002,
+                    "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/4/4b/Skill_Hypogram_Field_Penetrate.png/revision/latest?cb=20121218162233"],
+                    "animations": ["https://orangemushroom.files.wordpress.com/2012/12/hologram-gravity-penetrate-effect.gif?w=600"],
+                    "type": "Modal Summon",
+                    "desc": "Creates a zone where a bouncing orb will damage any enemy it comes in contact with"
+                },
+                {
+                    "id": 36121013,
+                    "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/e/e0/Skill_Hypogram_Field_Force_Field.png/revision/latest?cb=20121218161023"],
+                    "animations": ["https://orangemushroom.files.wordpress.com/2012/12/hologram-gravity-force-field-effect.gif?w=446&h=293"],
+                    "type": "Modal Summon",
+                    "desc": "Creates a zone where enemies are damaged each time a bouncing orb touches the force field"
+                },
+                {
+                    "id": 36121014,
+                    "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/f/f3/Skill_Hypogram_Field_Support.png/revision/latest?cb=20121218162346"],
+                    "animations": ["https://orangemushroom.files.wordpress.com/2012/12/hologram-gravity-support-effect.gif?w=600"],
+                    "type": "Modal Buff Zone",
+                    "desc": "Creates a zone where any party members within it will have increased %Max HP, %Avoidability",
+                    "details": [
+                        "Whenever party members dodge an attack, you will gain 1 Energy"
+                    ]
+                },
+                {
+                    "id": 36121003,
+                    "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/9/99/Skill_OOPArts_Code.png/revision/latest?cb=20170921233101"],
+                    "animations": ["https://orangemushroom.files.wordpress.com/2012/12/ooparts-code-effect.gif?w=600"],
+                    "type": "Supply Buff"
+                },
+                {
+                    "id": 36120005,
+                    "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/f/f0/Skill_Instant_Shock.png/revision/latest?cb=20121218161344"],
+                    "animations": ["https://orangemushroom.files.wordpress.com/2012/12/instant-shirk-effect.gif?w=600"],
+                    "type": "Passive",
+                    "desc": "Grants a dodge chance and enhances the %Damage of <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/8/8d/Skill_Aegis_System.png/revision/latest?cb=20160108005220' alt='Skill Aegis System'>"
+                },
+                {
+                    "id": 36120006,
+                    "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/d/d6/Skill_Xenon_Expert.png/revision/latest?cb=20121218161427"],
+                    "type": "Upgraded Passive"
+                },
+                {
+                    "id": 36121007,
+                    "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/d/da/Skill_Temporal_Pod.png/revision/latest?cb=20121218161515"],
+                    "animations": ["https://orangemushroom.files.wordpress.com/2012/12/time-capsule-effect.gif?w=600"],
+                    "type": "Active",
+                    "desc": "When activated, you reduce the skill cooldowns of nearby party members",
+                    "details": [
+                        "The pod is destroyed when you are hit",
+                        "Has no effect on skills that are not affected by cooldown reset"
+                    ]
+                },
+                {
+                    "id": 36121008,
                     "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/a/a1/Skill_Maple_Warrior.png/revision/latest?cb=20100602085809"],
-                    "animations": ["https://media2.giphy.com/media/Ln2dA9s2NwnNTfFAQN/giphy.gif"],
+                    "animations": ["https://orangemushroom.files.wordpress.com/2012/03/maple-warrior-effect.gif?w=280"],
                     "type": "Party Buff"
                 },
                 {
-                    "id": 33121008,
+                    "id": 36121009,
                     "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/3/30/Skill_Hero%27s_Will.png/revision/latest?cb=20100602090848"],
-                    "animations": ["https://media3.giphy.com/media/L1X8NZhTb58Ef8lGRA/giphy.gif"],
+                    "animations": ["https://orangemushroom.files.wordpress.com/2013/05/heros-will-effect.gif?w=219&h=272"],
                     "type": "Buff",
                     "desc": "Removes certain abnormal status effects and become immune to Abnormal Status for a few seconds"
                 },
                 {
-                    "id": 33120013,
-                    "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/8/8d/Skill_Extended_Magazine.png/revision/latest?cb=20160627051915"],
+                    "id": 36120004,
+                    "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/b/b1/Skill_Offensive_Matrix.png/revision/latest?cb=20160627053032"],
                     "type": "Passive"
                 },
                 {
-                    "id": 33120000,
-                    "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/4/43/Skill_Crossbow_Expert.png/revision/latest?cb=20110503111142"],
+                    "id": 36120010,
+                    "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/8/8c/Skill_Multilateral_V.png/revision/latest?cb=20190525013053"],
+                    "type": "Upgraded Passive",
+                    "desc": "Grants special bonuses once you've reached a certain amount of stats"
+                },
+                {
+                    "id": 36120015,
+                    "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/5/51/Skill_Pinpoint_Salvo_Perfect_Design.png/revision/latest?cb=20121228072612"],
                     "type": "Upgraded Passive"
                 },
                 {
-                    "id": 33120010,
-                    "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/5/56/Skill_Wild_Instinct.png/revision/latest?cb=20110515144427"],
-                    "type": "Passive"
-                },
-                {
-                    "id": 33120011,
-                    "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/e/e0/Skill_Advanced_Final_Attack_%28Wild_Hunter%29.png/revision/latest?cb=20150321010743"],
-                    "type": "Upgraded Passive"
-                },
-                {
-                    "id": 33120015,
-                    "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/b/b1/Skill_Natural_Force.png/revision/latest?cb=20150322033557"],
-                    "type": "Passive"
+                    "id": 36120016,
+                    "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/f/f2/Skill_Multilateral_VI.png/revision/latest?cb=20130517123557"],
+                    "type": "Upgraded Passive",
+                    "reqLev": "Req 200",
+                    "desc": "Grants special bonuses once you've reached a certain amount of stats"
                 }]
             ]
         ],
         "hyper":{
             "hyperPassive": [
                 {
-                    "id": 33120043,
-                    "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/f/fe/Skill_Feline_Berserk_-_Reinforce.png/revision/latest?cb=20121113020307"],
+                    "id": 36120044,
+                    "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/3/37/Skill_Beam_Dance_-_Reinforce.png/revision/latest?cb=20190525013038"],
                     "type": "Passive",
                     "reqLev": 140
                 },
                 {
-                    "id": 33120044,
-                    "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/b/b5/Skill_Feline_Berserk_-_Vitality.png/revision/latest?cb=20121113020314"],
+                    "id": 36120043,
+                    "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/a/a6/Skill_Beam_Dance_-_Blur.png/revision/latest?cb=20190525013036"],
                     "type": "Passive",
                     "reqLev": 150
                 },
                 {
-                    "id": 33120045,
-                    "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/6/60/Skill_Feline_Berserk_-_Rapid_Attack.png/revision/latest?cb=20121113020322"],
+                    "id": 36120045,
+                    "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/4/45/Skill_Beam_Dance_-_Spread.png/revision/latest?cb=20190525013039"],
                     "type": "Passive",
                     "reqLev": 180
                 },
                 {
-                    "id": 33120046,
-                    "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/1/11/Skill_Summon_Jaguar_-_Enhance.png/revision/latest?cb=20150321070058"],
+                    "id": 36120046,
+                    "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/4/4e/Skill_Mecha_Purge_-_Reinforce.png/revision/latest?cb=20190525013050"],
                     "type": "Passive",
                     "reqLev": 140
                 },
                 {
-                    "id": 33120047,
-                    "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/d/dd/Skill_Summon_Jaguar_-_Reinforce.png/revision/latest?cb=20150321070056"],
+                    "id": 36120047,
+                    "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/5/5a/Skill_Mecha_Purge_-_Guardbreak.png/revision/latest?cb=20190525013048"],
                     "type": "Passive",
                     "reqLev": 165
                 },
                 {
-                    "id": 33120048,
-                    "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/0/07/Skill_Summon_Jaguar_-_Cooldown_Cutter.png/revision/latest?cb=20150321065308"],
+                    "id": 36120048,
+                    "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/c/c9/Skill_Mecha_Purge_-_Spread.png/revision/latest?cb=20190525013051"],
                     "type": "Passive",
                     "reqLev": 180
                 },
                 {
-                    "id": 33120049,
-                    "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/9/9e/Skill_Wild_Arrow_Blast_-_Reinforce.png/revision/latest?cb=20121113020435"],
+                    "id": 36120050,
+                    "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/9/91/Skill_Hypogram_Field_-_Reinforce.png/revision/latest?cb=20190525013045"],
                     "type": "Passive",
                     "reqLev": 150
                 },
                 {
-                    "id": 33120050,
-                    "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/a/a5/Skill_Wild_Arrow_Blast_-_Guardbreak.png/revision/latest?cb=20121113020449"],
+                    "id": 36120049,
+                    "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/e/ed/Skill_Hypogram_Field_-_Speed.png/revision/latest?cb=20190525013046"],
                     "type": "Passive",
                     "reqLev": 165
                 },
                 {
-                    "id": 33120051,
-                    "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/8/8a/Skill_Wild_Arrow_Blast_-_Boss_Rush.png/revision/latest?cb=20130517120657"],
+                    "id": 36120051,
+                    "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/f/f6/Skill_Hypogram_Field_-_Persist.png/revision/latest?cb=20190525013043"],
                     "type": "Passive",
                     "reqLev": 190
                 }
             ],
             "hyperActive": [
                 {
-                    "id": 33121054,
-                    "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/4/46/Skill_Silent_Rampage.png/revision/latest?cb=20180921232551"],
-                    "animations": ["https://media2.giphy.com/media/YksvTbZ5pgSh4Jdqml/giphy.gif"],
+                    "id": 36121054,
+                    "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/6/6b/Skill_Amaranth_Generator.png/revision/latest?cb=20190525013034"],
+                    "animations": ["https://orangemushroom.files.wordpress.com/2012/12/amaranth-generator-effect.gif?w=335&h=385"],
                     "type": "Buff",
+                    "desc": "While active, Skills that will not consume your <img width='32' height='32' class='' src='https://vignette.wikia.nocookie.net/maplestory/images/e/e6/Skill_Supply_Surplus.png/revision/latest?cb=20121223163505' alt='Skill Supply Surplus'> Supply Surplus",
+                    "details": [
+                        "You will have infinite <img width='32' height='32' class='' src='https://vignette.wikia.nocookie.net/maplestory/images/e/e6/Skill_Supply_Surplus.png/revision/latest?cb=20121223163505' alt='Skill Supply Surplus'> Supply Surplus"
+                    ],
                     "reqLev": 140
                 },
                 {
-                    "id": 33121155,
-                    "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/9/9f/Skill_Exploding_Arrows.png/revision/latest?cb=20110515144344"],
-                    "animations": ["https://media2.giphy.com/media/QyPbDtFiFd7OzC5C2v/giphy.gif"],
-                    "type": "Mounted Attack",
-                    "desc": "Create a large area attack that deals damage to multiple enemies ",
-                    "details": [
-                        "Shares cooldown with <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/8/84/Skill_Jaguar_Rampage.png/revision/latest?cb=20130517120706' alt='Skill Jaguar Rampage'> Jaguar Rampage"
-                    ],
+                    "id": 36121053,
+                    "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/0/0f/Skill_Entangling_Lash.png/revision/latest?cb=20190525013041"],
+                    "animations": ["https://orangemushroom.files.wordpress.com/2013/01/confine-entangle-effect.gif?w=600"],
+                    "type": "Bind Attack",
+                    "desc": "Lashes your Whip Blade forward, binding enemies hit",
                     "reqLev": 160
                 },
                 {
-                    "id": 33121255,
-                    "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/8/84/Skill_Jaguar_Rampage.png/revision/latest?cb=20130517120706"],
-                    "animations": ["https://orangemushroom.files.wordpress.com/2013/05/rampage-as-one-effect1.gif?w=600&h=316"],
-                    "type": "Jaguar Attack",
-                    "desc": "Jaguar dashes forward dealing damage and applying a stack of 'Another Bite'",
+                    "id": 36121052,
+                    "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/6/6e/Skill_Orbital_Cataclysm.png/revision/latest?cb=20190525013054"],
+                    "animations": ["https://orangemushroom.files.wordpress.com/2012/12/meltdown-explosion-effect.gif"],
+                    "type": "Attack",
+                    "desc": "Fires a powerful laser cannon that deals a devastating attack",
                     "details": [
-                        "Shares a cooldown with <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/9/9f/Skill_Exploding_Arrows.png/revision/latest?cb=20110515144344' alt='Skill Exploding Arrows'> Exploding Arrows"
+                        "After casting you will gain a %Damage buff"
                     ],
-                    "reqLev": 160
-                },
-                {
-                    "id": 32121053,
-                    "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/b/b1/Skill_For_Liberty.png/revision/latest?cb=20121111231355"],
-                    "animations": ["https://orangemushroom.files.wordpress.com/2012/11/will-of-liberty-effect.gif?w=600"],
-                    "type": "Buff",
                     "reqLev": 190
                 }
             ]
         },
         "fifth": {
-            "fifthCommon": ["resistanceInfantry", "goddessBlessing", "guidedArrow", "viciousShot"],
+            "fifthCommon": ["resistanceInfantry", "goddessBlessing", "loadedDice", "overdrive", "venomBurst", "lastResort"],
             "fifthMain": [
                 {
-                    "name": "Jaguar Storm",
-                    "shortDesc": "MP Cost: 1000, summons 7 jaguars from among the ones you've tamed (excluding your current jaguar) for 40 sec\\nApplies 87% Final Damage to the skills of summoned jaguars\\nWhen the skill is activated while jaguars are summoned, they will be re-summoned at your location. Jaguars can be re-summoned once every 10 seconds\\nCooldown: 125 sec\\n[Passive Effect - ATT Power: +55]",
+                    "name": "Omega Blaster",
+                    "shortDesc": "MP Cost: 1000, Max Enemies Hit: 15, Damage: 550%, Number of Attacks: 6, Duration: 8 sec, Invincible while attacking\\nHold down skill key to charge, duration increases by 1 sec for every 5 sec charged (up to 7 sec max)\\nPress the skill again while attacking to cancel immediately\\nCooldown: 180 sec",
                     "id": 400021002,
-                    "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/1/10/Skill_Jaguar_Storm.png/revision/latest?cb=20161125062545"],
-                    "animations": ["https://orangemushroom.files.wordpress.com/2016/07/jaguar-storm-effect.gif?w=600"],
-                    "type": "Summon",
-                    "desc": "Summons additional Jaguars that you've captured to fight alongside you",
+                    "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/6/62/Skill_Omega_Blaster.png/revision/latest?cb=20161125062712"],
+                    "animations": ["https://orangemushroom.files.wordpress.com/2016/07/mega-smasher-effect.gif?w=600"],
+                    "type": "Key-down Attack",
+                    "desc": "Charges and releases a powerful laser beam",
                     "details": [
-                        "They will use Jaguar Attack skills as well and functions similar to having just one Jaguar out",
-                        "<strong>[Passive]</strong>: Grants flat Attack"
+                        "Holding down the Skill Key before releasing will increase the duration of the skill",
+                        "If you press the Skill Key again while the laser is firing, you will cancel the attack immediately",
+                        "You are invincible while firing the laser"
                     ]
                 },
                 {
-                    "name": "Primal Fury",
-                    "shortDesc": "MP Cost: 1000, grants invincibility for 12 sec.\\n[Primary Attack] Max Enemies Hit: 15, Damage: 2000%, Number of Attacks: 12. Primary attack occurs 3 times. \\n[Final Attack] Unleashes 15 attacks for 3600% damage that have Critical Rate +100% and ignore 100% additional enemy Defense.\\nFinal Attack can be triggered immediately by using the skill before the Primary Attacks are complete, and 100% chance for Another Bite debuff to be at max stack.\\nIf not mounted, causes you to mount your jaguar. Invincible while mounting.\\nCooldown: 150 sec",
+                    "name": "Core Overload",
+                    "shortDesc": "MP Cost: 250, When MP skill is cast, consumes 1% Max MP + 200 per sec. Allows you to charge 20 additional Surplus Energy. Energy charging time halved.\\nFinal Damage increases by 1% per Surplus Energy charged.\\nUse skill again to deactivate it. Extra Surplus Energy disappears immediately on skill deactivation.Generates plasma currents at random intervals that strike up to 12 enemies for 1420% damage 6 times.\\nCooldown: 180 sec",
                     "id": 400021030,
-                    "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/2/22/Skill_Primal_Fury.png/revision/latest?cb=20170609033041"],
-                    "animations": ["https://media1.giphy.com/media/d5qp4HTyIbzDDtS7On/giphy.gif"],
-                    "type": "Attack",
+                    "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/d/da/Skill_Core_Overload.png/revision/latest?cb=20170609033037"],
+                    "animations": ["https://orangemushroom.files.wordpress.com/2016/12/overload-mode-effect.gif?w=600"],
+                    "type": "Buff",
                     "desc": "Unleashes a devastating large area attack before dealing a final attack",
                     "details": [
                         "You are invincible while the skill is active",
@@ -553,56 +620,55 @@
                     ]
                 },
                 {
-                    "name": "Primal Grenade",
-                    "shortDesc": "MP Cost: 500, upon explosion deals Damage: 1200%, Max Enemies Hit: 8, Number of Attacks: 6\\nNo casting action while Wild Arrow Blast is active.\\n1 grenade is prepared every 4.5 sec. Can have up to 8 grenades\\nCooldown: 0.5 sec",
+                    "name": "Hypogram Field: Fusion",
+                    "shortDesc": " MP cost: 1000, Hologram Field generated for 30 sec.\\nWhenever the orb makes contact with the Hologram Field, Max Enemies Hit: 10, Damage: 2500%, Number of Attacks: 1. The same amount of damage is inflicted when the orb touches monsters.\\nDamage inflicted by party members within the field is increased by 17%, 1 power unit recharged whenever a party member within the field evades an attack.\\nMissiles fired by the Aegis System increased by 7 when Xenon is inside the field.\\nCooldown: 100 sec",
                     "id": 400021067,
-                    "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/e/e5/Skill_Primal_Grenade.png/revision/latest?cb=20181115065337"],
-                    "animations": ["https://orangemushroom.files.wordpress.com/2018/06/wild-grenade-effect.gif?w=329&h=405", "https://orangemushroom.files.wordpress.com/2018/06/wild-grenade-effect-grenade.gif?w=263&h=147"],
-                    "type": "Key-down Attack",
-                    "desc": "Launches grenades that detonate when it hits an enemy",
+                    "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/4/41/Skill_Hypogram_Field_Fusion.png/revision/latest?cb=20181115065336"],
+                    "animations": ["https://orangemushroom.files.wordpress.com/2018/06/hologram-gravity-fusion-effect.gif?w=600"],
+                    "type": "Summon / Buff Zone",
+                    "desc": "Creates a force field that has the combined effects of all 3 Hypogram Fields",
                     "details": [
-                        "If the grenade does not hit an enemy, it will bounce and detonate after a short delay",
-                        "When used with <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/7/71/Skill_Wild_Arrow_Blast.png/revision/latest?cb=20110515144423' alt='Skill Wild Arrow Blast'> there is no casting action meaning you can continue to move and use <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/7/71/Skill_Wild_Arrow_Blast.png/revision/latest?cb=20110515144423' alt='Skill Wild Arrow Blast'> while casting Primal Grenade",
-                        "1 grenade is prepared every 4.5 secs and you can hold up to 8 grenades at once"
+                        "You also fire extra <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/8/8d/Skill_Aegis_System.png/revision/latest?cb=20160108005220' alt='Skill Aegis System'> missiles while inside the force field",
+                        "Increases %Damage of party members inside the field<ul><li>Recharges 1 Energy whenever a party member attacks within the field</li></ul>"
                     ]
                 }
             ]
         },
         "notable": [
             {
-                "name": "Hunting Assistant Unit - 3rd Job",
-                "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/a/a5/Skill_Hunting_Assistant_Unit.png/revision/latest?cb=20130517120628"],
-                "animations": ["https://media2.giphy.com/media/QCJif33fUCDZ7aKOh7/giphy.gif"]
+                "name": "Beam Dance - 4th Job",
+                "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/6/60/Skill_Beam_Dance.png/revision/latest?cb=20121217234717"],
+                "animations": ["https://orangemushroom.files.wordpress.com/2013/01/blade-dancing-effect.gif?w=600"]
             },
             {
-                "name": "Wild Arrow Blast - 4th Job",
-                "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/7/71/Skill_Wild_Arrow_Blast.png/revision/latest?cb=20110515144423"],
-                "animations": ["https://media3.giphy.com/media/mGc0ic4C1iZpBx3sco/giphy.gif"]
+                "name": "Mecha Purge: Snipe - 4th Job",
+                "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/2/22/Skill_Mecha_Purge_Snipe.png/revision/latest?cb=20121218160856"],
+                "animations": ["https://orangemushroom.files.wordpress.com/2013/01/purge-lob-masquerade-snipe-effect.gif?w=600"]
             },
             {
-                "name": "Drill Salvo - 4th Job",
-                "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/d/dc/Skill_Drill_Salvo.png/revision/latest?cb=20150323085908"],
-                "animations": ["https://media0.giphy.com/media/Tg646V2Y9XeHrS3W6y/giphy.gif"]
+                "name": "Mecha Purge: Snipe - 4th Job",
+                "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/3/3e/Skill_Mecha_Purge_Bombard.png/revision/latest?cb=20121218161849"],
+                "animations": ["https://orangemushroom.files.wordpress.com/2013/01/purge-lob-masquerade-laser-effect.gif?w=600"]
             },
             {
-                "name": "Jaguar Rampage - Hyper Skill",
-                "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/8/84/Skill_Jaguar_Rampage.png/revision/latest?cb=20130517120706"],
-                "animations": ["https://orangemushroom.files.wordpress.com/2013/05/rampage-as-one-effect1.gif?w=600&h=316"]
+                "name": "Mecha Purge: Bombardment - 4th Job",
+                "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/a/a1/Skill_Mecha_Purge_Bombardment.png/revision/latest?cb=20121218162105"],
+                "animations": ["https://orangemushroom.files.wordpress.com/2013/01/purge-lob-masquerade-bomb-effect.gif?w=600"]
             },
             {
-                "name": "Jaguar Storm - 5th Job",
-                "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/1/10/Skill_Jaguar_Storm.png/revision/latest?cb=20161125062545"],
-                "animations": ["https://orangemushroom.files.wordpress.com/2016/07/jaguar-storm-effect.gif?w=600"]
+                "name": "Hypogram Field: Penetrate - 4th Job",
+                "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/4/4b/Skill_Hypogram_Field_Penetrate.png/revision/latest?cb=20121218162233"],
+                "animations": ["https://orangemushroom.files.wordpress.com/2012/12/hologram-gravity-penetrate-effect.gif?w=600"]
             },
             {
-                "name": "Primal Fury - 5th Job",
-                "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/2/22/Skill_Primal_Fury.png/revision/latest?cb=20170609033041"],
-                "animations": ["https://media1.giphy.com/media/d5qp4HTyIbzDDtS7On/giphy.gif"]
+                "name": "Orbital Cataclysm - Hyper Skill",
+                "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/6/6e/Skill_Orbital_Cataclysm.png/revision/latest?cb=20190525013054"],
+                "animations": ["https://orangemushroom.files.wordpress.com/2012/12/meltdown-explosion-effect.gif"]
             },
             {
-                "name": "Primal Grenade - 5th Job",
-                "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/e/e5/Skill_Primal_Grenade.png/revision/latest?cb=20181115065337"],
-                "animations": ["https://orangemushroom.files.wordpress.com/2018/06/wild-grenade-effect-grenade.gif?w=263&h=147"]
+                "name": "Omega Blaster - 5th Job",
+                "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/6/62/Skill_Omega_Blaster.png/revision/latest?cb=20161125062712"],
+                "animations": ["https://orangemushroom.files.wordpress.com/2016/07/mega-smasher-effect.gif?w=600"]
             }
         ]
     },
