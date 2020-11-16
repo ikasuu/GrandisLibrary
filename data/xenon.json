@@ -1,7 +1,7 @@
 {
     "class": "Xenon",
     "content": {
-        "classGroup": "Resistance",
+        "classGroup": "Resistance (Xenon)",
         "jobGroup": "Thief + Pirate",
         "mainStat": "STR, DEX, LUK",
         "secondaryStat": "-",
@@ -155,7 +155,7 @@
                         "id": 36001000,
                         "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/7/73/Skill_Beam_Spline.png/revision/latest?cb=20121217224346"],
                         "animations": ["https://orangemushroom.files.wordpress.com/2013/01/energy-spline-effect.gif?w=600"],
-                        "type": "Attack ",
+                        "type": "Attack",
                         "desc": "Swing your Whip Blade forward twice"
                     },
                     {
@@ -534,6 +534,7 @@
                     "id": 36120048,
                     "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/c/c9/Skill_Mecha_Purge_-_Spread.png/revision/latest?cb=20190525013051"],
                     "type": "Passive",
+                    "desc": "Increases the maximum number of enemies hit by <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/3/3e/Skill_Mecha_Purge_Bombard.png/revision/latest?cb=20121218161849' alt='Skill Mecha Purge Bombard'>",
                     "reqLev": 180
                 },
                 {
@@ -614,14 +615,14 @@
                     "type": "Buff",
                     "desc": "Unleashes a devastating large area attack before dealing a final attack",
                     "details": [
-                        "You are invincible while the skill is active",
-                        "Final attack has 100% Ignore DEF and is a guaranteed Critical Hit",
-                        "Applies stacks of 'Another Bite'"
+                        "You gain increased %Final Damage for each Energy unit",
+                        "Using the Skill again will deactivate the skill immediately",
+                        "Periodically while active, you will produce plasma that damages nearby enemies"
                     ]
                 },
                 {
                     "name": "Hypogram Field: Fusion",
-                    "shortDesc": " MP cost: 1000, Hologram Field generated for 30 sec.\\nWhenever the orb makes contact with the Hologram Field, Max Enemies Hit: 10, Damage: 2500%, Number of Attacks: 1. The same amount of damage is inflicted when the orb touches monsters.\\nDamage inflicted by party members within the field is increased by 17%, 1 power unit recharged whenever a party member within the field evades an attack.\\nMissiles fired by the Aegis System increased by 7 when Xenon is inside the field.\\nCooldown: 100 sec",
+                    "shortDesc": "MP cost: 1000, Hologram Field generated for 30 sec.\\nWhenever the orb makes contact with the Hologram Field, Max Enemies Hit: 10, Damage: 2500%, Number of Attacks: 1. The same amount of damage is inflicted when the orb touches monsters.\\nDamage inflicted by party members within the field is increased by 17%, 1 power unit recharged whenever a party member within the field evades an attack.\\nMissiles fired by the Aegis System increased by 7 when Xenon is inside the field.\\nCooldown: 100 sec",
                     "id": 400021067,
                     "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/4/41/Skill_Hypogram_Field_Fusion.png/revision/latest?cb=20181115065336"],
                     "animations": ["https://orangemushroom.files.wordpress.com/2018/06/hologram-gravity-fusion-effect.gif?w=600"],
