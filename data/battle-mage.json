@@ -123,11 +123,7 @@
                 {
                     "id": 20020002,
                     "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/6/6a/Skill_Potion_Mastery.png/revision/latest?cb=20100606013234"],
-                    "type": "Passive",
-                    "desc": "",
-                    "details": [
-                        "Recommended to max this skill"
-                    ]
+                    "type": "Passive"
                 },
                 {
                     "id": 30001281,

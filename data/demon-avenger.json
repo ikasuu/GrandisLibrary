@@ -101,7 +101,7 @@
         ],
         "extraContent": {
             "title": "Exceed Mechanic",
-            "content": "<p><img src='https://i.imgur.com/OH5H57U.png' alt='Demon Avenger HP' /></p><p>Demon Avengers use HP for their attacks and do not have an MP resource. As well, instead of scaling off of STR like regular warriors, Demon Avengers' damage scales off of HP</p><h3><img src='https://vignette.wikia.nocookie.net/maplestory/images/4/47/Skill_Exceed.png/revision/latest?cb=20121129065205' alt='' /> Exceed</h3><p>Using attacks labelled with 'Exceed' grants a stacking debuff called Overload (up to 20 stacks). At max stacks and for every 2 stacks, <img src='https://vignette.wikia.nocookie.net/maplestory/images/c/c7/Skill_Life_Sap.png/revision/latest?cb=20121129075942' alt='Skill Life Sap' width='32' height='32' /> Life Sap (1st Job) effectiveness will be reduced</p><p>Additionally, repeatedly using Exceed attacks in quick succession cause you to enter 'Exceed Mode' which will increase the Attack Speed and HP Cost of the Exceed skills. Some skills also gain increased range or increased number of hits per attack</p><p>To reset your Overload stacks, you can use <img src='https://vignette.wikia.nocookie.net/maplestory/images/f/f9/Skill_Overload_Release.png/revision/latest?cb=20121129075935' alt='Skill Overload Release' width='32' height='32'/> Overload Release which will restore your HP and increase your %Final Damage based on the number of Overload stacks consumed</p>"
+            "content": "<p><img src='https://i.imgur.com/OH5H57U.png' alt='Demon Avenger HP' /></p><p>Demon Avengers use HP for their attacks and do not have an MP resource. As well, instead of scaling off of STR like regular warriors, Demon Avengers' damage scales off of HP</p><h3><img src='https://vignette.wikia.nocookie.net/maplestory/images/4/47/Skill_Exceed.png/revision/latest?cb=20121129065205' alt='' /> Exceed</h3><p>Using attacks labelled with 'Exceed' grants a stacking debuff called Overload (up to 20 stacks). At max stacks and for every 2 stacks, <img src='https://vignette.wikia.nocookie.net/maplestory/images/c/c7/Skill_Life_Sap.png/revision/latest?cb=20121129075942' alt='Skill Life Sap' width='32' height='32' /> Life Sap (1st Job) effectiveness will be reduced</p><p><img src='https://media1.giphy.com/media/PjlMgkevEbwmviR4A9/giphy.gif' /></p><p>Additionally, repeatedly using Exceed attacks in quick succession cause you to enter 'Exceed Mode' which will increase the Attack Speed and HP Cost of the Exceed skills. Some skills also gain increased range or increased number of hits per attack</p><p><img src='https://media0.giphy.com/media/nanBFh3x9RF8syBtuz/giphy.gif' alt='Animated GIF' /></p><p>To reset your Overload stacks, you can use <img src='https://vignette.wikia.nocookie.net/maplestory/images/f/f9/Skill_Overload_Release.png/revision/latest?cb=20121129075935' alt='Skill Overload Release' width='32' height='32' /> Overload Release which will restore your HP and increase your %Final Damage based on the number of Overload stacks consumed</p>"
         }
     },
     "skill": {
@@ -110,7 +110,7 @@
                 "Beginner", [{
                     "id": 30010110,
                     "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/e/e6/Skill_Dark_Winds.png/revision/latest?cb=20110810024348"],
-                    "animations": ["https://media3.giphy.com/media/KGY5QQgsIqWkoJDhii/giphy.gif"],
+                    "animations": ["https://media1.giphy.com/media/8lW5qs5NkB7xRnwwf2/giphy.gif"],
                     "type": "Passive",
                     "desc": "",
                     "details": [
@@ -163,14 +163,14 @@
                     {
                         "id": 31011000,
                         "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/b/bb/Skill_Exceed_Double_Slash.png/revision/latest?cb=20121129075926"],
-                        "animations": ["https://media.giphy.com/media/PmMOOSNBvuf1bGKVzY/giphy.gif", "https://media.giphy.com/media/MAWLtSvDdHXyNw5cIP/giphy.gif"],
+                        "animations": ["https://media4.giphy.com/media/XQdU7YYcz9YQGYY7CL/giphy.gif", "https://media3.giphy.com/media/duRXF4CZaQnVAnKX4h/giphy.gif"],
                         "type": "Exceed Attack",
                         "desc": "Slashes forward twice"
                     },
                     {
                         "id": 31011001,
                         "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/f/f9/Skill_Overload_Release.png/revision/latest?cb=20121129075935"],
-                        "animations": ["https://media.giphy.com/media/WQlNkpNOojEnucCs31/giphy.gif"],
+                        "animations": ["https://media3.giphy.com/media/6vQcemPIeHMEzrLzSZ/giphy.gif"],
                         "type": "Active",
                         "desc": "Releases all stacks of <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/4/47/Skill_Exceed.png/revision/latest?cb=20121129065205' alt='Skill Exceed'> Overload and restores %Max HP while granting a %Final Damage buff",
                         "details": [
@@ -193,14 +193,14 @@
                     {
                         "id": 31201000,
                         "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/b/bf/Skill_Exceed_Demon_Strike.png/revision/latest?cb=20121129082130"],
-                        "animations": ["https://media.giphy.com/media/Q79kP2NIYVBvxrqHBx/giphy.gif", "https://media.giphy.com/media/WUCG4wr8PnktAQpKEU/giphy.gif"],
+                        "animations": ["https://media0.giphy.com/media/fvCo7uigjzSceoR5hr/giphy.gif", "https://media0.giphy.com/media/7gqZeIUVCuzhymPRbh/giphy.gif"],
                         "type": "Exceed Attack",
                         "desc": "Dash forward while slicing through enemies"
                     },
                     {
                         "id": 31201001,
                         "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/2/27/Skill_Bat_Swarm.png/revision/latest?cb=20121129082137"],
-                        "animations": ["https://media.giphy.com/media/U7mLTz8I8Uzc3YG0Pc/giphy.gif"],
+                        "animations": ["https://media3.giphy.com/media/MXJO9lhBz04ldl4RCS/giphy.gif"],
                         "type": "Attack",
                         "desc": "Summons a swarm of bats that damages enemies it passes through",
                         "details": [
@@ -211,7 +211,7 @@
                     {
                         "id": 31201002,
                         "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/9/9b/Skill_Battle_Pact_%28Demon_Avenger%29.png/revision/latest?cb=20121129082210"],
-                        "animations": ["https://media.giphy.com/media/J1pUcC5wSBMldHpi40/giphy.gif"],
+                        "animations": ["https://media0.giphy.com/media/2bCFMW0SbfrSJ3Wm5j/giphy.gif"],
                         "type": "Buff",
                         "desc": "Increases Attack Speed (by 2 stages)"
                     },
@@ -240,7 +240,7 @@
                 "3rd Job", [{
                         "id": 31211000,
                         "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/1/12/Skill_Exceed_Lunar_Slash.png/revision/latest?cb=20121129083121"],
-                        "animations": ["https://media.giphy.com/media/cMK41RkZjnAm3kdIxm/giphy.gif", "https://media.giphy.com/media/h1tx8jpHbk1Rm7pRpY/giphy.gif"],
+                        "animations": ["https://media2.giphy.com/media/imCZxTtl6qjsUyoF7I/giphy.gif", "https://media0.giphy.com/media/LyyjHuZzkfjaAFQnR2/giphy.gif"],
                         "type": "Exceed Attack",
                         "desc": "Spin to slash enemies both in front and behind you",
                         "details": [
@@ -250,7 +250,7 @@
                     {
                         "id": 31211001,
                         "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/4/42/Skill_Vitality_Veil.png/revision/latest?cb=20121129083132"],
-                        "animations": ["https://media.giphy.com/media/iiVQiWZPXT3GTO27JO/giphy.gif"],
+                        "animations": ["https://media1.giphy.com/media/bftQrOn3UFEPzuJI82/giphy.gif"],
                         "type": "Key-down Attack",
                         "desc": "When held, continuously damages nearby enemies around you",
                         "details": [
@@ -260,7 +260,7 @@
                     {
                         "id": 31211002,
                         "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/1/1c/Skill_Shield_Charge.png/revision/latest?cb=20121129083143"],
-                        "animations": ["https://media.giphy.com/media/dTzwpTyASDVAh2SiFD/giphy.gif"],
+                        "animations": ["https://media4.giphy.com/media/YxK2KAalEMuSYeRP16/giphy.gif"],
                         "type": "Attack",
                         "desc": "Charge forward and push enemies along with you",
                         "details": [
@@ -270,13 +270,13 @@
                     {
                         "id": 31211003,
                         "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/a/af/Skill_Ward_Evil.png/revision/latest?cb=20121129083158"],
-                        "animations": ["https://media.giphy.com/media/gITLMOgaSBOcpi7XHm/giphy.gif"],
+                        "animations": ["https://media4.giphy.com/media/qf6VQ0BXuC65iEOLVY/giphy.gif"],
                         "type": "Buff"
                     },
                     {
                         "id": 31211004,
                         "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/b/bf/Skill_Diabolic_Recovery.png/revision/latest?cb=20121129083217"],
-                        "animations": ["https://media.giphy.com/media/IzLMAcn7UHyerKkDvH/giphy.gif"],
+                        "animations": ["https://media0.giphy.com/media/owGc7zD89dwo6qjMR1/giphy.gif"],
                         "type": "Buff"
                     },
                     {
@@ -296,7 +296,7 @@
                 "4th Job", [{
                     "id": 31221000,
                     "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/e/ef/Skill_Exceed_Execution.png/revision/latest?cb=20121129085544"],
-                    "animations": ["https://media.giphy.com/media/IdxQOXu6WN230CK0qJ/giphy.gif", "https://media.giphy.com/media/UqeFrU1gyUZFg5sgiP/giphy.gif"],
+                    "animations": ["https://media2.giphy.com/media/S5kTVrsVULE6lNojVT/giphy.gif", "https://media2.giphy.com/media/D2EIpVJsYBaQKp6Ooj/giphy.gif"],
                     "type": "Exceed Attack",
                     "desc": "Unleash a powerful attack that hits up to 2 enemies",
                     "details": [
@@ -307,7 +307,7 @@
                 {
                     "id": 31221001,
                     "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/e/e5/Skill_Nether_Shield.png/revision/latest?cb=20121129085551"],
-                    "animations": ["https://media.giphy.com/media/gjZanA9ugHXYhrm647/giphy.gif"],
+                    "animations": ["https://media3.giphy.com/media/WiJfPmCM89vKOn75eD/giphy.gif"],
                     "type": "Attack",
                     "desc": "Create homing shields that seek and attack enemies",
                     "details": [
@@ -317,7 +317,7 @@
                 {
                     "id": 31221002,
                     "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/b/b2/Skill_Nether_Slice.png/revision/latest?cb=20121129085558"],
-                    "animations": ["https://media.giphy.com/media/Wrmf0iq24iQchl9S0I/giphy.gif"],
+                    "animations": ["https://media4.giphy.com/media/D2XyircJ05OMDaGdpK/giphy.gif"],
                     "type": "Attack",
                     "desc": "Strikes forward debuffing enemies hit",
                     "details": [
@@ -328,14 +328,14 @@
                 {
                     "id": 31221003,
                     "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/7/7b/Skill_Blood_Prison.png/revision/latest?cb=20121129085607"],
-                    "animations": ["https://media.giphy.com/media/kemY2tqFoyFBGt2CXp/giphy.gif"],
+                    "animations": ["https://media4.giphy.com/media/qOiAPrNw1tvgF6w0ll/giphy.gif"],
                     "type": "Bind Attack",
                     "desc": "Unleashes a large attack that binds nearby enemies"
                 },
                 {
                     "id": 31221008,
                     "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/5/5d/Skill_Maple_Warrior_%28Demon%29.png/revision/latest?cb=20110812130330"],
-                    "animations": ["https://media.giphy.com/media/hsOJhrr8iOHYhy0QvN/giphy.gif"],
+                    "animations": ["https://media3.giphy.com/media/K9RIwd9SI6DugjHTd9/giphy.gif"],
                     "type": "Party Buff"
                 },
                 {
@@ -457,7 +457,7 @@
                     "shortDesc": "HP Cost: 20% of Max HP, consumes 6000 HP per sec, Healing Restriction: items and skills can only heal 1% of Max HP, hit damage -30% (including the damage proportional to Max HP)\\nFinal Damage: +1% per 3% HP consumed, your demonic blood spills periodically to coat the ground for 5 sec and deal 500% damage on up to 10 enemies 2 times\\nWhen your HP falls below 1%, the HP loss and demonic blood will cease\\nCan be toggled\\nCooldown: 125 sec",
                     "id": 400021002,
                     "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/3/38/Skill_Demonic_Frenzy.png/revision/latest?cb=20161125062541"],
-                    "animations": ["https://orangemushroom.files.wordpress.com/2016/07/demon-frenzy-effect1.gif?w=1000&h="],
+                    "animations": ["https://media4.giphy.com/media/rSfx6cHXUYJTQi9A24/giphy.gif"],
                     "type": "Toggle Buff",
                     "desc": "While active, you gain increased %Final Damage and you coat the ground with your blood that damage enemies that touch it",
                     "details": [
@@ -471,7 +471,7 @@
                     "shortDesc": "Consumes 1% of Max HP to attack up to 8 enemies. Consumes an additional 3% of current HP per second while charging, Max Charging Time: 30 sec. Damage -30% only for attacks that inflict damage at a certain ratio of the Max HP while attacking.\\nLv. 1 (No Charge): Deals 1000% damage 7 times, restores 10% of Max HP\\nLv. 2 (3 sec Charge): Deals 1300% damage 9 times, restores 15% of Max HP\\nLv. 3 (4 sec Charge from Lv. 2): Deals 1600% damage 12 times, restores 25% of Max HP, Critical Rate +100%, Ignore Def +100%\\nCooldown: 10 sec",
                     "id": 400021030,
                     "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/2/29/Skill_Demonic_Blast.png/revision/latest?cb=20170609033037"],
-                    "animations": ["https://orangemushroom.files.wordpress.com/2016/12/blood-feast-3-effect.gif?w=596&h=587"],
+                    "animations": ["https://media1.giphy.com/media/sZbHbmgoM0AJlKm852/giphy.gif"],
                     "type": "Key-down Active Attack",
                     "desc": "Releases an explosive attack that damages nearby enemies",
                     "details": [
@@ -485,7 +485,7 @@
                     "shortDesc": "HP Cost: 20%, summons a magic sword for 40 sec every 3 sec. Max Enemies Hit: 8, Damage: 1700%, Number of Attacks: 8\\nThe skill duration becomes 1/5 if the skill is used again while summoning, but the magic sword will spin quickly and deal 600% damage to 8 enemies 6 times.\\nAll Dimensional Sword hits receive Additional Monster DEF Ignored: +100%\\nCooldown: 120 sec",
                     "id": 400021067,
                     "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/f/f1/Skill_Dimensional_Sword.png/revision/latest?cb=20181115065213"],
-                    "animations": ["https://orangemushroom.files.wordpress.com/2018/06/dimension-sword-effect-summon.gif?w=700&h=", "https://orangemushroom.files.wordpress.com/2018/06/dimension-sword-effect-rotating.gif?w=1000&h="],
+                    "animations": ["https://media0.giphy.com/media/xaOKDtWZFUeXVALHLw/giphy.gif"],
                     "type": "Summon",
                     "desc": "Summon swords that hover above you while attacking nearby enemies",
                     "details": [
@@ -513,17 +513,17 @@
             {
                 "name": "Exceed: Lunar Slash - 3rd Job",
                 "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/1/12/Skill_Exceed_Lunar_Slash.png/revision/latest?cb=20121129083121"],
-                "animations": ["https://media.giphy.com/media/h1tx8jpHbk1Rm7pRpY/giphy.gif"]
+                "animations": ["https://media0.giphy.com/media/LyyjHuZzkfjaAFQnR2/giphy.gif"]
             },
             {
                 "name": "Exceed: Execution - 4th Job",
                 "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/e/ef/Skill_Exceed_Execution.png/revision/latest?cb=20121129085544"],
-                "animations": ["https://media.giphy.com/media/UqeFrU1gyUZFg5sgiP/giphy.gif"]
+                "animations": ["https://media2.giphy.com/media/D2EIpVJsYBaQKp6Ooj/giphy.gif"]
             },
             {
                 "name": "Nether Shield - 4th Job",
                 "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/e/e5/Skill_Nether_Shield.png/revision/latest?cb=20121129085551"],
-                "animations": ["https://media.giphy.com/media/gjZanA9ugHXYhrm647/giphy.gif"]
+                "animations": ["https://media3.giphy.com/media/WiJfPmCM89vKOn75eD/giphy.gif"]
             },
             {
                 "name": "Thousand Swords - Hyper Skill",
@@ -531,14 +531,19 @@
                 "animations": ["https://orangemushroom.files.wordpress.com/2012/12/thousand-sword-effect.gif?w=600"]
             },
             {
+                "name": "Demonic Frenzy - 5th Job",
+                "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/3/38/Skill_Demonic_Frenzy.png/revision/latest?cb=20161125062541"],
+                "animations": ["https://media4.giphy.com/media/rSfx6cHXUYJTQi9A24/giphy.gif"]
+            },
+            {
                 "name": "Demonic Blast - 5th Job",
                 "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/2/29/Skill_Demonic_Blast.png/revision/latest?cb=20170609033037"],
-                "animations": ["https://orangemushroom.files.wordpress.com/2016/12/blood-feast-3-effect.gif?w=596&h=587"]
+                "animations": ["https://media1.giphy.com/media/sZbHbmgoM0AJlKm852/giphy.gif"]
             },
             {
                 "name": "Dimensional Sword - 5th Job",
                 "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/f/f1/Skill_Dimensional_Sword.png/revision/latest?cb=20181115065213"],
-                "animations": ["https://orangemushroom.files.wordpress.com/2018/06/dimension-sword-effect-rotating.gif?w=1000&h="]
+                "animations": ["https://media0.giphy.com/media/xaOKDtWZFUeXVALHLw/giphy.gif"]
             }
         ]
     },
