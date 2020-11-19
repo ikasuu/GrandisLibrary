@@ -263,7 +263,7 @@
                     {
                         "id": 25111209,
                         "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/f/fa/Skill_Summon_Other_Spirit.png/revision/latest?cb=20140914214042"],
-                        "animations": ["https://orangemushroom.files.wordpress.com/2013/12/summon-redemption-effect.gif?w=600"],
+                        "animations": ["https://media2.giphy.com/media/JJyVlhx7PaIKG5cReg/giphy.gif"],
                         "type": "Passive Revive",
                         "desc": "When hit by a fatal attack, you will be revived, knocking by enemies and dealing damage",
                         "details": [
@@ -457,7 +457,7 @@
                 {
                     "id": 25121132,
                     "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/8/8e/Skill_Heroic_Memories_%28Shade%29.png/revision/latest?cb=20140527070728"],
-                    "animations": ["https://orangemushroom.files.wordpress.com/2013/12/heroes-oath-effect.gif?w=600"],
+                    "animations": ["https://media0.giphy.com/media/jgFbHmSIYIIeIy31tR/giphy.gif"],
                     "type": "Buff",
                     "reqLev": 190
                 }

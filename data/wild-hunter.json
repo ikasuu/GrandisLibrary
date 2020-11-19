@@ -116,12 +116,14 @@
                 "Beginner", [{
                     "id": 20021000,
                     "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/e/e6/Skill_Crystal_Throw.png/revision/latest?cb=20100606013011"],
+                    "animations": ["https://media3.giphy.com/media/1c1qBgqtJNKp8u0UzW/giphy.gif"],
                     "type": "Attacks",
                     "desc": "Throws a rock that deals fixed damage"
                 },
                 {
                     "id": 20021001,
                     "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/d/df/Skill_Infiltrate.png/revision/latest?cb=20100606013059"],
+                    "animations": ["https://media2.giphy.com/media/OAqAR4PlE8MOEjfLwH/giphy.gif"],
                     "type": "Active",
                     "desc": "Makes you invisible similar which when activated, you cannot hit or be hit by enemies similar to <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/d/dd/Skill_Dark_Sight.png/revision/latest?cb=20100308114826' alt='Skill Dark Sight'> Dark Sight"
                 },
@@ -133,6 +135,7 @@
                 {
                     "id": 30001281,
                     "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/f/fe/Skill_Secret_Assembly.png/revision/latest?cb=20160619042757"],
+                    "animations": ["https://media1.giphy.com/media/EOAPVrGaUNzjyNfV6G/giphy.gif"],
                     "type": "Active"
                 },
                 {
@@ -169,7 +172,7 @@
                     {
                         "id": 33001102,
                         "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/f/f6/Skill_Double_Jump_%28Wild_Hunter%29.png/revision/latest?cb=20150319043405"],
-                        "animations": ["https://media3.giphy.com/media/PnO1m8KtFW5Brblg4X/giphy.gif"],
+                        "animations": ["https://media3.giphy.com/media/ndoiQUzaHEeH7jtN1j/giphy.gif"],
                         "type": "Umounted Active",
                         "desc": "Double jump skill",
                         "details": [
@@ -199,7 +202,7 @@
                     {
                         "id": 33001007,
                         "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/c/c3/Skill_Summon_Jaguar.png/revision/latest?cb=20150320015457"],
-                        "animations": ["https://media3.giphy.com/media/S77wXvJJRzv7G4xVfW/giphy.gif"],
+                        "animations": ["https://media4.giphy.com/media/buOmF5T5Ybi1HcedGE/giphy.gif"],
                         "type": "Summon",
                         "desc": "Summons your Jaguar to fight with you",
                         "details": [
@@ -288,13 +291,13 @@
                     {
                         "id": 33101003,
                         "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/1/1f/Skill_Soul_Arrow_Crossbow.png/revision/latest?cb=20110502134857"],
-                        "animations": ["https://media2.giphy.com/media/W6ABC0sXN615tuMKy9/giphy.gif"],
+                        "animations": ["https://media3.giphy.com/media/rKwf5NN5hpxXavdhlg/giphy.gif"],
                         "type": "Buff"
                     },
                     {
                         "id": 33101005,
                         "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/e/e3/Skill_Call_of_the_Wild.png/revision/latest?cb=20120810051406"],
-                        "animations": ["https://media1.giphy.com/media/IdNmRKPqMRmAsjXIL5/giphy.gif"],
+                        "animations": ["https://media3.giphy.com/media/CgUEDPscsM9d0xwMth/giphy.gif"],
                         "type": "Party Buff",
                         "desc": "This buff has two parts, one part that applies only to you and a part that applies to you and your party members",
                         "details": [
@@ -419,7 +422,7 @@
                 {
                     "id": 33121017,
                     "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/8/89/Skill_Jaguar_Soul.png/revision/latest?cb=20150323084659"],
-                    "animations": ["https://media3.giphy.com/media/dyLqsvZiDHv1oZCnNk/giphy.gif"],
+                    "animations": ["https://media0.giphy.com/media/8sJyyKXEc9vZdiZbQg/giphy.gif"],
                     "type": "Jaguar Bind Attack",
                     "desc": "Unleashes a cry that attacks and binds the enemy with the highest HP and applies a stack of 'Another Bite'"
                 },
@@ -436,19 +439,19 @@
                 {
                     "id": 33121004,
                     "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/5/53/Skill_Sharp_Eyes.png/revision/latest?cb=20100612140300"],
-                    "animations": ["https://media0.giphy.com/media/VGQmhZsAn04EOXy17A/giphy.gif"],
+                    "animations": ["https://media0.giphy.com/media/Q8zdhDxRpUffg4iLlF/giphy.gif"],
                     "type": "Party Buff"
                 },
                 {
                     "id": 33121007,
                     "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/a/a1/Skill_Maple_Warrior.png/revision/latest?cb=20100602085809"],
-                    "animations": ["https://media2.giphy.com/media/Ln2dA9s2NwnNTfFAQN/giphy.gif"],
+                    "animations": ["https://media0.giphy.com/media/X4Fqk6I4IYLS91Vt1N/giphy.gif"],
                     "type": "Party Buff"
                 },
                 {
                     "id": 33121008,
                     "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/3/30/Skill_Hero%27s_Will.png/revision/latest?cb=20100602090848"],
-                    "animations": ["https://media3.giphy.com/media/L1X8NZhTb58Ef8lGRA/giphy.gif"],
+                    "animations": ["https://media3.giphy.com/media/9LwQIpkphq7PeO6Io0/giphy.gif"],
                     "type": "Buff",
                     "desc": "Removes certain abnormal status effects and become immune to Abnormal Status for a few seconds"
                 },
@@ -540,7 +543,7 @@
                 {
                     "id": 33121054,
                     "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/4/46/Skill_Silent_Rampage.png/revision/latest?cb=20180921232551"],
-                    "animations": ["https://media2.giphy.com/media/YksvTbZ5pgSh4Jdqml/giphy.gif"],
+                    "animations": ["https://media3.giphy.com/media/o1m0aHXurFgXORxMUk/giphy.gif"],
                     "type": "Buff",
                     "reqLev": 140
                 },
@@ -569,7 +572,7 @@
                 {
                     "id": 32121053,
                     "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/b/b1/Skill_For_Liberty.png/revision/latest?cb=20121111231355"],
-                    "animations": ["https://orangemushroom.files.wordpress.com/2012/11/will-of-liberty-effect.gif?w=600"],
+                    "animations": ["https://media1.giphy.com/media/Ar37NFQOKIImPzkDt8/giphy.gif"],
                     "type": "Buff",
                     "reqLev": 190
                 }
@@ -583,7 +586,7 @@
                     "shortDesc": "MP Cost: 1000, summons 7 jaguars from among the ones you've tamed (excluding your current jaguar) for 40 sec\\nApplies 87% Final Damage to the skills of summoned jaguars\\nWhen the skill is activated while jaguars are summoned, they will be re-summoned at your location. Jaguars can be re-summoned once every 10 seconds\\nCooldown: 125 sec\\n[Passive Effect - ATT Power: +55]",
                     "id": 400021002,
                     "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/1/10/Skill_Jaguar_Storm.png/revision/latest?cb=20161125062545"],
-                    "animations": ["https://orangemushroom.files.wordpress.com/2016/07/jaguar-storm-effect.gif?w=600"],
+                    "animations": ["https://media1.giphy.com/media/3Ll2bM9uIvMne60LjH/giphy.gif"],
                     "type": "Summon",
                     "desc": "Summons additional Jaguars that you've captured to fight alongside you",
                     "details": [
@@ -596,7 +599,7 @@
                     "shortDesc": "MP Cost: 1000, grants invincibility for 12 sec.\\n[Primary Attack] Max Enemies Hit: 15, Damage: 2000%, Number of Attacks: 12. Primary attack occurs 3 times. \\n[Final Attack] Unleashes 15 attacks for 3600% damage that have Critical Rate +100% and ignore 100% additional enemy Defense.\\nFinal Attack can be triggered immediately by using the skill before the Primary Attacks are complete, and 100% chance for Another Bite debuff to be at max stack.\\nIf not mounted, causes you to mount your jaguar. Invincible while mounting.\\nCooldown: 150 sec",
                     "id": 400021030,
                     "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/2/22/Skill_Primal_Fury.png/revision/latest?cb=20170609033041"],
-                    "animations": ["https://media1.giphy.com/media/d5qp4HTyIbzDDtS7On/giphy.gif"],
+                    "animations": ["https://media4.giphy.com/media/LHqUhxhySfBy5BnhHA/giphy.gif"],
                     "type": "Attack",
                     "desc": "Unleashes a devastating large area attack before dealing a final attack",
                     "details": [
@@ -610,13 +613,26 @@
                     "shortDesc": "MP Cost: 500, upon explosion deals Damage: 1200%, Max Enemies Hit: 8, Number of Attacks: 6\\nNo casting action while Wild Arrow Blast is active.\\n1 grenade is prepared every 4.5 sec. Can have up to 8 grenades\\nCooldown: 0.5 sec",
                     "id": 400021067,
                     "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/e/e5/Skill_Primal_Grenade.png/revision/latest?cb=20181115065337"],
-                    "animations": ["https://orangemushroom.files.wordpress.com/2018/06/wild-grenade-effect.gif?w=329&h=405", "https://orangemushroom.files.wordpress.com/2018/06/wild-grenade-effect-grenade.gif?w=263&h=147"],
-                    "type": "Key-down Attack",
+                    "animations": ["https://media1.giphy.com/media/hkT9oLs1mItV1a3yC6/giphy.gif"],
+                    "type": "Attack",
                     "desc": "Launches grenades that detonate when it hits an enemy",
                     "details": [
                         "If the grenade does not hit an enemy, it will bounce and detonate after a short delay",
                         "When used with <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/7/71/Skill_Wild_Arrow_Blast.png/revision/latest?cb=20110515144423' alt='Skill Wild Arrow Blast'> there is no casting action meaning you can continue to move and use <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/7/71/Skill_Wild_Arrow_Blast.png/revision/latest?cb=20110515144423' alt='Skill Wild Arrow Blast'> while casting Primal Grenade",
                         "1 grenade is prepared every 4.5 secs and you can hold up to 8 grenades at once"
+                    ]
+                },
+                {
+                    "name": "Wild Arrow Blast Type X",
+                    "shortDesc": "",
+                    "id": 400021067,
+                    "icons": ["https://orangemushroom.files.wordpress.com/2020/06/wild-vulcan-type-x.png?w=600"],
+                    "animations": ["https://media2.giphy.com/media/XOucrbayvxMNBmdE12/giphy.gif"],
+                    "type": "Key-down Attack",
+                    "desc": "Fires a continuous barrage of arrows forward",
+                    "details": [
+                        "You can move while casting",
+                        "Attack has increased %Ignore DEF"
                     ]
                 }
             ]
@@ -645,17 +661,17 @@
             {
                 "name": "Jaguar Storm - 5th Job",
                 "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/1/10/Skill_Jaguar_Storm.png/revision/latest?cb=20161125062545"],
-                "animations": ["https://orangemushroom.files.wordpress.com/2016/07/jaguar-storm-effect.gif?w=600"]
+                "animations": ["https://media1.giphy.com/media/3Ll2bM9uIvMne60LjH/giphy.gif"]
             },
             {
                 "name": "Primal Fury - 5th Job",
                 "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/2/22/Skill_Primal_Fury.png/revision/latest?cb=20170609033041"],
-                "animations": ["https://media1.giphy.com/media/d5qp4HTyIbzDDtS7On/giphy.gif"]
+                "animations": ["https://media4.giphy.com/media/LHqUhxhySfBy5BnhHA/giphy.gif"]
             },
             {
                 "name": "Primal Grenade - 5th Job",
                 "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/e/e5/Skill_Primal_Grenade.png/revision/latest?cb=20181115065337"],
-                "animations": ["https://orangemushroom.files.wordpress.com/2018/06/wild-grenade-effect-grenade.gif?w=263&h=147"]
+                "animations": ["https://media1.giphy.com/media/hkT9oLs1mItV1a3yC6/giphy.gif"]
             }
         ]
     },

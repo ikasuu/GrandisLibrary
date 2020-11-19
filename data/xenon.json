@@ -340,7 +340,7 @@
                     {
                         "id": 36110005,
                         "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/c/c2/Skill_Triangulation.png/revision/latest?cb=20121217232554"],
-                        "animations": ["https://orangemushroom.files.wordpress.com/2012/12/triangle-formation-effect.gif?w=600"],
+                        "animations": ["https://media1.giphy.com/media/ScXcBcCDZnwVvGnrqg/giphy.gif"],
                         "type": "Passive",
                         "desc": "While attacking, you have a chance to attach 'Airframes'. Once 3 Airframes are attached to an enemy, the stacks will be consumed and will deal damage to that enemy",
                         "details": [
@@ -565,7 +565,7 @@
                 {
                     "id": 36121054,
                     "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/6/6b/Skill_Amaranth_Generator.png/revision/latest?cb=20190525013034"],
-                    "animations": ["https://orangemushroom.files.wordpress.com/2012/12/amaranth-generator-effect.gif?w=335&h=385"],
+                    "animations": ["https://media4.giphy.com/media/3e76FdX97GHJRVIRRF/giphy.gif"],
                     "type": "Buff",
                     "desc": "While active, Skills that will not consume your <img width='32' height='32' class='' src='https://vignette.wikia.nocookie.net/maplestory/images/e/e6/Skill_Supply_Surplus.png/revision/latest?cb=20121223163505' alt='Skill Supply Surplus'> Supply Surplus",
                     "details": [
@@ -584,7 +584,7 @@
                 {
                     "id": 36121052,
                     "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/6/6e/Skill_Orbital_Cataclysm.png/revision/latest?cb=20190525013054"],
-                    "animations": ["https://orangemushroom.files.wordpress.com/2012/12/meltdown-explosion-effect.gif"],
+                    "animations": ["https://media0.giphy.com/media/yEd2I5HDyqRFEmjJHB/giphy.gif"],
                     "type": "Attack",
                     "desc": "Fires a powerful laser cannon that deals a devastating attack",
                     "details": [
@@ -685,7 +685,7 @@
             {
                 "name": "Orbital Cataclysm - Hyper Skill",
                 "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/6/6e/Skill_Orbital_Cataclysm.png/revision/latest?cb=20190525013054"],
-                "animations": ["https://orangemushroom.files.wordpress.com/2012/12/meltdown-explosion-effect.gif"]
+                "animations": ["https://media0.giphy.com/media/yEd2I5HDyqRFEmjJHB/giphy.gif"]
             },
             {
                 "name": "Omega Blaster - 5th Job",

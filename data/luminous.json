@@ -443,7 +443,7 @@
                 {
                     "id": 27121054,
                     "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/b/b5/Skill_Equalize.png/revision/latest?cb=20120819004929"],
-                    "animations": ["https://orangemushroom.files.wordpress.com/2012/08/memorize-effect.gif"],
+                    "animations": ["https://media4.giphy.com/media/R4r75RlgdS9Xv84RfE/giphy.gif"],
                     "type": "Buff",
                     "desc": "Instantly puts you into Equilibrium mode",
                     "reqLev": 140
@@ -459,7 +459,7 @@
                 {
                     "id": 27121053,
                     "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/8/8c/Skill_Heroic_Memories_%28Luminous%29.png/revision/latest?cb=20121015211503"],
-                    "animations": ["https://orangemushroom.files.wordpress.com/2012/08/heros-oath-effect4.gif"],
+                    "animations": ["https://media0.giphy.com/media/7mwErwbDHzmlzOgRGE/giphy.gif"],
                     "type": "Buff",
                     "reqLev": 190
                 }

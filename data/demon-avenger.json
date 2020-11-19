@@ -425,7 +425,7 @@
                 {
                     "id": 31221054,
                     "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/5/50/Skill_Forbidden_Contract.png/revision/latest?cb=20121129090257"],
-                    "animations": ["https://media2.giphy.com/media/ThAagEfASEhTzQhLh4/giphy.gif"],
+                    "animations": ["https://media2.giphy.com/media/OmusqCaRhefxib6uUd/giphy.gif"],
                     "type": "Buff",
                     "reqLev": 140
                 },
@@ -443,7 +443,7 @@
                 {
                     "id": 31221053,
                     "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/c/c0/Skill_Demonic_Fortitude.png/revision/latest?cb=20160111212529"],
-                    "animations": ["https://media2.giphy.com/media/Za8xsjAxuTe0OcFMmr/giphy.gif"],
+                    "animations": ["https://media4.giphy.com/media/ZZTzpzS6I8L0Q0ZmYU/giphy.gif"],
                     "type": "Buff",
                     "reqLev": 190
                 }

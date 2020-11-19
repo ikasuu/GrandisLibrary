@@ -259,13 +259,13 @@
                         "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/8/80/Skill_Adrenaline_Rush.png/revision/latest?cb=20160110015041"],
                         "animations": ["https://media0.giphy.com/media/l8eubWVB69lPOIAjoP/giphy.gif"],
                         "type": "Passive",
-                        "desc": "At 1000 Combos, you enter an Adrenaline state where you gain increased %Damage of skills",
+                        "desc": "At 1000 Combos, you enter an Adrenaline state where your skills are enhanced and gain increased %p Damage",
                         "details": [
-                            "<strong>[Passive]</strong>: Permanently increases your %p Damage of skills",
                             "Additionally attacks have increased hits per attack and maximum number of enemies hit",
                             "<img src='https://orangemushroom.files.wordpress.com/2015/11/smash-wave.png?w=600' alt='Smash Wave' /> will shoot out three projectiles",
                             "<img src='https://vignette.wikia.nocookie.net/maplestory/images/2/25/Skill_Final_Charge.png/revision/latest?cb=20160624032813' alt='Skill Final Charge' width='32' height='32' /> will leave an ice trail that freezes enemies",
-                            "<img src='https://vignette.wikia.nocookie.net/maplestory/images/c/cc/Skill_Final_Blow.png/revision/latest?cb=20160624050128' alt='Skill Final Blow' width='32' height='32' /> will shoot out a shockwave in front of you"
+                            "<img src='https://vignette.wikia.nocookie.net/maplestory/images/c/cc/Skill_Final_Blow.png/revision/latest?cb=20160624050128' alt='Skill Final Blow' width='32' height='32' /> will shoot out a shockwave in front of you",
+                            "<strong>[Passive]</strong>: Permanently increases your %p Damage of skills"
                         ]
                     },
                     {
@@ -479,7 +479,7 @@
                 {
                     "id": 21121053,
                     "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/1/1d/Skill_Heroic_Memories_%28Aran%29.png/revision/latest?cb=20121015211332"],
-                    "animations": ["https://orangemushroom.files.wordpress.com/2015/11/heroes-oath-effect.gif?w=600"],
+                    "animations": ["https://media3.giphy.com/media/k2zTy2N3AYAhLYR7ZO/giphy.gif"],
                     "type": "Buff",
                     "reqLev": 190
                 }

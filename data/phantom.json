@@ -453,7 +453,7 @@
                 {
                     "id": 24121053,
                     "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/3/3c/Skill_Heroic_Memories_%28Phantom%29.png/revision/latest?cb=20121015211455"],
-                    "animations": ["https://orangemushroom.files.wordpress.com/2012/08/heros-oath-effect3.gif?w=600"],
+                    "animations": ["https://media0.giphy.com/media/pS4dTlENlIyPd62P2j/giphy.gif"],
                     "type": "Buff",
                     "reqLev": 190
                 }
@@ -473,7 +473,7 @@
                     "details": [
                         "You take reduced damage while this skill is active",
                         "Will not trigger <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/d/d5/Skill_Carte_Blanche.png/revision/latest?cb=20111226180521' alt='Skill Carte Blanche'><img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/3/3e/Skill_Carte_Noir.png/revision/latest?cb=20111226182327' alt='Skill Carte Noir'>",
-                        "At the end of the skill, you will draw a card that buffs all party members:<ul><li><strong><img src='https://orangemushroom.files.wordpress.com/2016/07/red-cross.png?w=600' alt='Red Cross' /> [Red Cross]: </strong>Recovers %HP/MP over time</li><li><strong><img src='https://orangemushroom.files.wordpress.com/2016/07/tree-of-life.png?w=600' alt='Tree of Life' /> [Tree of Life]: </strong>Increases %Damage Reduction and Abnormal Status Resistance<ul><li>Includes %Max HP damage</li></ul></li><li><strong><img src='https://orangemushroom.files.wordpress.com/2016/07/hourglass.png?w=600' alt='Hourglass' /> [Hourglass]: </strong>Reduces active cooldowns by 20% (except 5th Job skills & skills that ignore cooldown resets)</li><li><strong><img src='https://orangemushroom.files.wordpress.com/2016/07/sharp-sword.png?w=600' alt='Sharp Sword' /> [Three Swords]: </strong>Increases %Final Damage</li><li><strong><img src='https://orangemushroom.files.wordpress.com/2016/07/joker.png?w=600' alt='Joker' /> [Crescent Moon]: </strong>Gain all buffs simultaneously</li><li>You are invincible while drawing the card</li></ul>"
+                        "At the end of the skill, you will draw a card that buffs all party members:<ul><li><strong><img src='https://orangemushroom.files.wordpress.com/2016/07/red-cross.png?w=600' alt='Red Cross' /> [Red Cross]: </strong>Recovers %HP/MP over time</li><li><strong><img src='https://orangemushroom.files.wordpress.com/2016/07/tree-of-life.png?w=600' alt='Tree of Life' /> [Tree of Life]: </strong>Increases %Damage Reduction (including %Max HP attacks) and Abnormal Status Resistance</li><li><strong><img src='https://orangemushroom.files.wordpress.com/2016/07/hourglass.png?w=600' alt='Hourglass' /> [Hourglass]: </strong>Reduces active cooldowns by 20% (except 5th Job skills & skills that ignore cooldown resets)</li><li><strong><img src='https://orangemushroom.files.wordpress.com/2016/07/sharp-sword.png?w=600' alt='Sharp Sword' /> [Three Swords]: </strong>Increases %Final Damage</li><li><strong><img src='https://orangemushroom.files.wordpress.com/2016/07/joker.png?w=600' alt='Joker' /> [Crescent Moon]: </strong>Gain all buffs simultaneously</li><li>You are invincible while drawing the card</li></ul>"
                     ]
                 },
                 {
