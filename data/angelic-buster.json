@@ -115,11 +115,16 @@
                 {
                     "id": 60011218,
                     "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/2/27/Skill_Grappling_Heart.png/revision/latest?cb=20120803112053"],
-                    "type": "Active"
+                    "type": "Active",
+                    "desc": "",
+                    "details": [
+                        "Pressing the Jump Key while launching up will cancel the grapple early"
+                    ],
                 },
                 {
                     "id": 60011220,
                     "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/a/a5/Skill_Day_Dreamer.png/revision/latest?cb=20120807132355"],
+                    "animations": ["https://media4.giphy.com/media/tUjzmJHEaVjS4xi3GS/giphy.gif"],
                     "type": "Active",
                     "desc": "",
                     "details": [
@@ -129,7 +134,8 @@
                 {
                     "id": 60011222,
                     "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/2/28/Skill_Dress-Up.png/revision/latest?cb=20120803112112"],
-                    "type": "Special Active",
+                    "animations": ["https://media2.giphy.com/media/ZMtHIKR4lXVBFmUqki/giphy.gif"],
+                    "type": "Active Transform",
                     "desc": "Switches between your normal form and transformed form",
                     "details": [
                         "Using attacks will automatically transform you"
@@ -142,6 +148,7 @@
                     "shortDesc": "MP Cost: 30, Attack Power and Magic ATT: +4%, Duration: 40 min",
                     "maxLevel": 1,
                     "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/d/d4/Skill_Exclusive_Spell_%28Nova%29.png/revision/latest?cb=20171217080447"],
+                    "animations": ["https://media2.giphy.com/media/R0UHlI4FfAdRSmzRtL/giphy.gif"],
                     "type": "Buff",
                     "desc": "",
                     "reqLev": "Req 200",
@@ -163,7 +170,7 @@
                     {
                         "id": 65001001,
                         "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/9/90/Skill_Feather_Hop.png/revision/latest?cb=20120731153250"],
-                        "animations": ["https://orangemushroom.files.wordpress.com/2012/07/magical-shift-effect.gif?w=600"],
+                        "animations": ["https://media3.giphy.com/media/VfKpaxOzCWA4SQJ5GE/giphy.gif"],
                         "type": "Active",
                         "desc": "Double jump skill",
                         "details": [
@@ -174,7 +181,7 @@
                     {
                         "id": 65001002,
                         "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/b/b6/Skill_Melody_Cross.png/revision/latest?cb=20120731153256"],
-                        "animations": ["https://orangemushroom.files.wordpress.com/2012/07/lyrical-cross-effect.gif?w=600"],
+                        "animations": ["https://media4.giphy.com/media/cXv8JOwUkA8UScoLCY/giphy.gif"],
                         "type": "Buff",
                         "desc": "Increases Attack Speed (by 1 stage)",
                         "details": [
@@ -202,14 +209,14 @@
                     {
                         "id": 65101001,
                         "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/8/89/Skill_Pink_Pummel.png/revision/latest?cb=20150605180008"],
-                        "animations": ["https://orangemushroom.files.wordpress.com/2012/08/pink-scud-effect.png?w=600"],
+                        "animations": ["https://media1.giphy.com/media/tY3GBd2akIkcvIag6U/giphy.gif"],
                         "type": "Attack",
                         "desc": "Dashes forward while pushing back enemies"
                     },
                     {
                         "id": 65101002,
                         "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/e/e2/Skill_Power_Transfer.png/revision/latest?cb=20120731154757"],
-                        "animations": ["https://orangemushroom.files.wordpress.com/2012/07/power-transfer-effect.gif?w=224&h=235"],
+                        "animations": ["https://media4.giphy.com/media/aqslRNd7mdBJFqNV83/giphy.gif"],
                         "type": "Buff"
                     },
                     {
@@ -253,14 +260,14 @@
                     {
                         "id": 65111002,
                         "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/3/3d/Skill_Heavenly_Crash.png/revision/latest?cb=20160529034915"],
-                        "animations": ["https://orangemushroom.files.wordpress.com/2012/07/land-crash-effect.gif?w=600&h=293"],
+                        "animations": ["https://media0.giphy.com/media/RrC8r9rmRCIUE5tfVo/giphy.gif"],
                         "type": "Attack",
                         "desc": "Smashes a hammer creating a shockwave that launches enemies into the air"
                     },
                     {
                         "id": 65111004,
                         "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/2/22/Skill_Iron_Blossom.png/revision/latest?cb=20120731160132"],
-                        "animations": ["https://orangemushroom.files.wordpress.com/2012/07/iron-lotus-effect.gif?w=600"],
+                        "animations": ["https://media1.giphy.com/media/9sc2Cs9kdYZViBxUCf/giphy.gif"],
                         "type": "Buff"
                     },
                     {
@@ -312,7 +319,7 @@
                 {
                     "id": 65121003,
                     "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/c/c0/Skill_Soul_Resonance.png/revision/latest?cb=20120731161843"],
-                    "animations": ["https://orangemushroom.files.wordpress.com/2012/07/soul-resonance-effect.gif?w=600&h=527"],
+                    "animations": ["https://media0.giphy.com/media/EJUrtg7y2v8034oNUR/giphy.gif"],
                     "type": "Key-down Attack",
                     "desc": "Create a vortex that damages enemies within it",
                     "details": [
@@ -324,7 +331,7 @@
                 {
                     "id": 65121004,
                     "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/4/44/Skill_Star_Gazer.png/revision/latest?cb=20120731161847"],
-                    "animations": ["https://orangemushroom.files.wordpress.com/2012/07/soul-gaze-effect.gif?w=600"],
+                    "animations": ["https://media0.giphy.com/media/cytoTqZ29R3HY8W5Lq/giphy.gif"],
                     "type": "Buff"
                 },
                 {
@@ -340,13 +347,13 @@
                 {
                     "id": 65121009,
                     "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/7/7d/Skill_Nova_Warrior_%28Angelic_Buster%29.png/revision/latest?cb=20150610051435"],
-                    "animations": ["https://orangemushroom.files.wordpress.com/2012/08/nova-warrior-effect.gif?w=600"],
+                    "animations": ["https://media1.giphy.com/media/1bfqHJUqM2kiKH2XMb/giphy.gif"],
                     "type": "Party Buff"
                 },
                 {
                     "id": 65121010,
                     "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/3/30/Skill_Nova_Temperance.png/revision/latest?cb=20171212091230"],
-                    "animations": ["https://orangemushroom.files.wordpress.com/2012/07/nova-heros-will-effect.gif?w=226&h=226"],
+                    "animations": ["https://media1.giphy.com/media/OubCLEOZUNkpBnvTJy/giphy.gif"],
                     "type": "Buff",
                     "desc": "Removes certain abnormal status effects and become immune to Abnormal Status for a few seconds"
                 },
@@ -423,7 +430,7 @@
                 {
                     "id": 65121054,
                     "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/2/2d/Skill_Pretty_Exaltation.png/revision/latest?cb=20120819034017"],
-                    "animations": ["https://orangemushroom.files.wordpress.com/2012/08/soul-exalt-effect.gif?w=315&h=287"],
+                    "animations": ["https://media1.giphy.com/media/R0bmwODahkNwbLyJGS/giphy.gif"],
                     "type": "Buff",
                     "reqLev": 140
                 },
@@ -441,7 +448,7 @@
                 {
                     "id": 65121053,
                     "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/a/a5/Skill_Final_Contract.png/revision/latest?cb=20121015213134"],
-                    "animations": ["https://orangemushroom.files.wordpress.com/2012/08/final-contract-effect.gif?w=337&h=340"],
+                    "animations": ["https://media0.giphy.com/media/e8epjVU09WGxc8EzB1/giphy.gif"],
                     "type": "Buff",
                     "reqLev": 190
                 }
@@ -455,7 +462,7 @@
                     "shortDesc": "Summons an orb that grants 6 sec of invincibility, the orb can last up to 30 sec and explodes used again, Max Enemies Hit: 15, Damage: 1100%, Number of Attacks: 12.\\nAll attack skills except Soul Buster further enhance orb invincibility duration and powers, up to 2 stages, with each stage increasing the Final Damage by 100%, and the invincibility duration by 2 sec.\\nCooldown: 120 sec",
                     "id": 400021002,
                     "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/a/a6/Skill_Sparkle_Burst.png/revision/latest?cb=20161125062715"],
-                    "animations": ["https://orangemushroom.files.wordpress.com/2016/07/energy-burst-effect.gif?w=1000&h=", "https://orangemushroom.files.wordpress.com/2016/07/energy-burst-effect-explode.gif?w=1000&h="],
+                    "animations": ["https://media4.giphy.com/media/TF3PchDrHWarxQDY6l/giphy.gif"],
                     "type": "Attack",
                     "desc": "Creates an orb that grants brief invincibility when activated. At the end of the duration or when the Skill Key is pressed again, the orb will explode damaging nearby enemies",
                     "details": [
@@ -467,7 +474,7 @@
                     "shortDesc": "Installs 3 spotlights that shine on you for 30 sec. Each spotlight deals 800% damage 3 times to up to 15 enemies within its area.\\nWhile you are within the spotlight, you gain Status Resistance +25, Critical Rate +15%, Knockback Resistance +20%, and Final Damage +5%.\\nYou receive a separate bonus for each spotlight, up to 3 buffs.\\nCooldown: 120 sec",
                     "id": 400021030,
                     "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/a/aa/Skill_Superstar_Spotlight.png/revision/latest?cb=20170609033219"],
-                    "animations": ["https://orangemushroom.files.wordpress.com/2016/12/spotlight-light-effect.gif?w=1000&h="],
+                    "animations": ["https://media0.giphy.com/media/tP3byNppXgJAsnabEI/giphy.gif"],
                     "type": "Attack",
                     "desc": "3 Spotlights appear on the screen, shining light at your location. The spotlights will deal damage to enemies inside it and provides a stacking buff if you are in it",
                     "details": [
@@ -480,7 +487,7 @@
                     "shortDesc": "Duration: 35 sec. When successfully recharged, uses Twinkle Star or Magical Balloon. Max Enemies Hit: 6, Damage: 1200%, Number of Attacks: 5. Not used if in the middle of another action.\\nAcquire 1 Magical Bubble if Twinkle Star or Magical Balloon land successfully, and up to 8 can be held at a time.\\nUse the skill once more to cast Shiny Bubble Breath. Duration: 3 sec, Max Enemies Hit: 10, Damage: 500%, Number of Attacks: 8.\nAll Magical Bubbles will be consumed upon use of Shiny Bubble Breath. Duration is increased by 0.4 sec for every bubble. Can be used once while summoned. Skill ends only after all Bubbles are used up, even if the summon duration ends beforehand.\\nCooldown: 120 sec",
                     "id": 400021067,
                     "icons": ["https://orangemushroom.files.wordpress.com/2018/06/mascot-familiar.png?w=600"],
-                    "animations": ["https://orangemushroom.files.wordpress.com/2018/06/mascot-familiar-effect-twinkle-star.gif?w=1000&h=", "https://orangemushroom.files.wordpress.com/2018/06/mascot-familiar-effect-magical-balloon.gif?w=1000&h=", "https://orangemushroom.files.wordpress.com/2018/06/mascot-familiar-effect-shiny-bubble-breath.gif?w=1000&h="],
+                    "animations": ["https://media1.giphy.com/media/TOxQcjHUDrdrU3Mu5v/giphy.gif"],
                     "type": "Summon",
                     "desc": "When summoned, whenever your battery recharges, Mighty Mascot will attack",
                     "details": [
@@ -529,17 +536,17 @@
             {
                 "name": "Sparkle Burst - 5th Job",
                 "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/a/a6/Skill_Sparkle_Burst.png/revision/latest?cb=20161125062715"],
-                "animations": ["https://orangemushroom.files.wordpress.com/2016/07/energy-burst-effect.gif?w=1000&h="]
+                "animations": ["https://media4.giphy.com/media/TF3PchDrHWarxQDY6l/giphy.gif"]
             },
             {
                 "name": "Superstar Spotlight - 5th Job",
                 "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/a/aa/Skill_Superstar_Spotlight.png/revision/latest?cb=20170609033219"],
-                "animations": ["https://orangemushroom.files.wordpress.com/2016/12/spotlight-light-effect.gif?w=1000&h="]
+                "animations": ["https://media0.giphy.com/media/tP3byNppXgJAsnabEI/giphy.gif"]
             },
             {
                 "name": "Mighty Mascot - 5th Job",
                 "icons": ["https://orangemushroom.files.wordpress.com/2018/06/mascot-familiar.png?w=600"],
-                "animations": ["https://orangemushroom.files.wordpress.com/2018/06/mascot-familiar-effect-shiny-bubble-breath.gif?w=1000&h="]
+                "animations": ["https://media1.giphy.com/media/TOxQcjHUDrdrU3Mu5v/giphy.gif"]
             }
         ]
     },

@@ -114,6 +114,7 @@
                 {
                     "id": 60021217,
                     "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/b/b3/Skill_Back_to_HQ.png"],
+                    "animations": ["https://media3.giphy.com/media/jRxHOv78fkTmRIFZ9T/giphy.gif"],
                     "type": "Active"
                 },
                 {
@@ -123,6 +124,7 @@
                     "shortDesc": "MP Cost: 30, Attack Power and Magic ATT: +4%, Duration: 40 min",
                     "maxLevel": 1,
                     "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/d/d4/Skill_Exclusive_Spell_%28Nova%29.png/revision/latest?cb=20171217080447"],
+                    "animations": ["https://media2.giphy.com/media/R0UHlI4FfAdRSmzRtL/giphy.gif"],
                     "type": "Buff",
                     "desc": "",
                     "reqLev": "Req 200",
@@ -220,14 +222,14 @@
                     {
                         "id": 64101003,
                         "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/8/81/Skill_Weapon_Booster_%28Cadena%29.png/revision/latest?cb=20171212083659"],
-                        "animations": ["https://orangemushroom.files.wordpress.com/2017/06/weapon-booster-effect.gif?w=600"],
+                        "animations": ["https://media3.giphy.com/media/0uA1Ms2TxRS3ZiLJ9c/giphy.gif"],
                         "type": "Buff",
                         "desc": "Increases Attack Speed (by 2 stages)"
                     },
                     {
                         "id": 64100004,
                         "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/4/42/Skill_Muscle_Memory.png/revision/latest?cb=20171212083708"],
-                        "animations": ["https://orangemushroom.files.wordpress.com/2017/06/weapon-variety-i-effect.gif?w=600"],
+                        "animations": ["https://media2.giphy.com/media/DtIEg85hNTSZDLUZiH/giphy.gif"],
                         "type": "Passive",
                         "desc": "Whenever you use a new Summon weapon skill, you gain a stacking %Final Damage buff",
                         "details": [
@@ -372,12 +374,13 @@
                 {
                     "id": 64121004,
                     "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/c/cb/Skill_Nova_Warrior_%28Cadena%29.png/revision/latest?cb=20171212091307"],
-                    "animations": ["https://orangemushroom.files.wordpress.com/2017/06/novas-warrior-effect.gif?w=600"],
+                    "animations": ["https://media0.giphy.com/media/mL5BWodEyOyv4jhKBz/giphy.gif"],
                     "type": "Party Buff"
                 },
                 {
                     "id": 64121005,
                     "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/3/30/Skill_Nova_Temperance.png/revision/latest?cb=20171212091230"],
+                    "animations": ["https://media1.giphy.com/media/OubCLEOZUNkpBnvTJy/giphy.gif"],
                     "type": "Buff",
                     "desc": "Removes certain abnormal status effects and become immune to Abnormal Status for a few seconds "
                 },
@@ -473,14 +476,14 @@
                 {
                     "id": 64121054,
                     "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/8/85/Skill_Shadowdealer%27s_Elixir.png/revision/latest?cb=20171212200808"],
-                    "animations": ["https://orangemushroom.files.wordpress.com/2017/06/merchants-secret-elixir-effect.gif?w=600"],
+                    "animations": ["https://media3.giphy.com/media/JFKOz6cNfzzr2gFPII/giphy.gif"],
                     "type": "Buff",
                     "reqLev": 140
                 },
                 {
                     "id": 64121052,
                     "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/6/68/Skill_Chain_Arts_Crush.png/revision/latest?cb=20171212200800"],
-                    "animations": ["https://orangemushroom.files.wordpress.com/2017/06/chain-arts-crash-effect.gif?w=1000&h="],
+                    "animations": ["https://media4.giphy.com/media/IiSINpfCN0K4aBPBpe/giphy.gif"],
                     "type": "Attack",
                     "desc": "Chains crash down from the sky, damaging nearby enemies",
                     "reqLev": 160
@@ -488,7 +491,7 @@
                 {
                     "id": 64121053,
                     "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/6/63/Skill_Veteran_Shadowdealer.png/revision/latest?cb=20171212200816"],
-                    "animations": ["https://orangemushroom.files.wordpress.com/2017/06/professional-agent-effect.gif?w=600"],
+                    "animations": ["https://media4.giphy.com/media/p8BpXo6GmdZ5uNIESs/giphy.gif"],
                     "type": "Buff",
                     "desc": "Doubles the effects of <img src='https://vignette.wikia.nocookie.net/maplestory/images/3/31/Skill_Muscle_Memory_II.png/revision/latest?cb=20171212091434' alt='Skill Muscle Memory II'/> Muscle Memory and creates an additional attack whenever you summon a weapon or land a hit on an enemy",
                     "reqLev": 190
@@ -503,7 +506,7 @@
                     "shortDesc": "MP Cost: 1000, Duration: 60 sec. Creates giant chains that travel along an arbitrary path inflicting 500% damage 6 times to up to 10 enemies.\\nChain Cooldown: 0.6 sec\\nCooldown: 155 sec",
                     "id": 400021002,
                     "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/6/6e/Skill_Chain_Arts_Void_Strike.png/revision/latest?cb=20171212201659"],
-                    "animations": ["https://orangemushroom.files.wordpress.com/2017/07/chain-arts-fury-effect-background.gif?w=340&h=191"],
+                    "animations": ["https://media4.giphy.com/media/pTl3FxiFuuNJqzR4mA/giphy.gif"],
                     "type": "Attack",
                     "desc": "Chains lash across the map damaging enemies in its path",
                     "details": [
@@ -515,7 +518,7 @@
                     "shortDesc": "MP Cost: 1000. The cannon gathers energy for 10 sec, periodically inflicting 450% damage 5 times to up to 8 enemies at set intervals.\\nAfter amassing enough energy, it creates a supernova that deals 1500% damage 8 times to up to 15 enemies.\\nCooldown: 25 sec",
                     "id": 400021030,
                     "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/3/3e/Skill_Apocalypse_Cannon.png/revision/latest?cb=20171212201647"],
-                    "animations": ["https://orangemushroom.files.wordpress.com/2017/07/a-d-ordnance-effect-charging.gif?w=1000&h="],
+                    "animations": ["https://media2.giphy.com/media/DCXsifIZ3kU3FCJUbJ/giphy.gif"],
                     "type": "Summon",
                     "desc": "Summons a cannon that periodically deals damage while charging up to fire an energy ball",
                     "details": [
@@ -527,7 +530,7 @@
                     "shortDesc": "MP Cost: 250, at a certain interval deals Damage: 600%, Max Enemies Hit: 8, Number of Attacks: 4. Upon attack, 100% chance to Slow enemies for 6 sec\\nAttack speed gradually decreases based on time",
                     "id": 400021067,
                     "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/8/86/Skill_Chain_Arts_Maelstrom.png/revision/latest?cb=20181115065213"],
-                    "animations": ["https://orangemushroom.files.wordpress.com/2018/06/chain-arts-maelstrom-effect.gif?w=600"],
+                    "animations": ["https://media2.giphy.com/media/KBHyQcLmOYWAFRfpLJ/giphy.gif"],
                     "type": "Passive Attack",
                     "desc": "Creates (at max 1) a tornado of chains that deals damage but slows down gradually dealing damage slower until it expires",
                     "details": [
@@ -573,19 +576,19 @@
                 "animations": ["https://orangemushroom.files.wordpress.com/2017/06/summon-slashing-knife-effect.gif?w=600"]
             },
             {
-                "name": "Summon Spiked Bat - 4th Job",
-                "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/a/a2/Skill_Summon_Spiked_Bat.png/revision/latest?cb=20171212091213"],
-                "animations": ["https://orangemushroom.files.wordpress.com/2017/06/summon-beating-needle-bat-effect-4.gif?w=596&h=545"]
-            },
-            {
                 "name": "Chain Arts: Beatdown - 4th Job",
                 "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/d/d0/Skill_Chain_Arts_Beatdown.png/revision/latest?cb=20171212091301"],
                 "animations": ["https://orangemushroom.files.wordpress.com/2017/06/chain-arts-takedown-effect-consecutive-3.gif?w=596&h=504"]
             },
             {
+                "name": "Chain Arts: Void Strike - 5th Job",
+                "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/6/6e/Skill_Chain_Arts_Void_Strike.png/revision/latest?cb=20171212201659"],
+                "animations": ["https://media4.giphy.com/media/pTl3FxiFuuNJqzR4mA/giphy.gif"]
+            },
+            {
                 "name": "Chain Arts: Maelstrom - 5th Job",
                 "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/8/86/Skill_Chain_Arts_Maelstrom.png/revision/latest?cb=20181115065213"],
-                "animations": ["https://orangemushroom.files.wordpress.com/2018/06/chain-arts-maelstrom-effect.gif?w=600"]
+                "animations": ["https://media2.giphy.com/media/KBHyQcLmOYWAFRfpLJ/giphy.gif"]
             }
         ]
     },
