@@ -99,8 +99,7 @@
                 "Beginner", [{
                     "id": 60001216,
                     "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/5/56/Skill_Realign_Defender_Mode.png/revision/latest?cb=20120717143137"],
-                    "type": "Toggle Buff",
-                    "desc": ""
+                    "type": "Toggle Buff"
                 },
                 {
                     "id": 60001217,
@@ -530,7 +529,7 @@
                     "id": 61121053,
                     "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/2/2c/Skill_Final_Trance.png/revision/latest?cb=20120819014545"],
                     "animations": ["https://orangemushroom.files.wordpress.com/2012/08/final-trans-effect.gif?w=600"],
-                    "type": "Buff / Transform ",
+                    "type": "Buff / Transform",
                     "desc": "Immediately transforms you into <img src='https://vignette.wikia.nocookie.net/maplestory/images/6/69/Skill_Final_Form.png/revision/latest?cb=20120711072949' alt='Skill Final Form'/> Final Form",
                     "reqLev": 190
                 }
@@ -541,7 +540,7 @@
             "fifthMain": [
                 {
                     "name": "Nova Guardians",
-                    "shortDesc": " MP Cost: 1000, Duration: 42 sec, summons 3 Kaisers with limited movement range. After Kaisers are summoned, use the skill again to bring them to your location. Can be used once every 10 seconds.\\nKaiser VI - Attacks up to 10 enemies for 825% damage 4 times.\\nKaiser XV - Attacks up to 10 enemies for 500% damage 6 times.\\nKaiser XXVII - Attacks up to 10 enemies for 1775% damage 2 times.\\n.Cooldown: 120 sec.",
+                    "shortDesc": "MP Cost: 1000, Duration: 42 sec, summons 3 Kaisers with limited movement range. After Kaisers are summoned, use the skill again to bring them to your location. Can be used once every 10 seconds.\\nKaiser VI - Attacks up to 10 enemies for 825% damage 4 times.\\nKaiser XV - Attacks up to 10 enemies for 500% damage 6 times.\\nKaiser XXVII - Attacks up to 10 enemies for 1775% damage 2 times.\\n.Cooldown: 120 sec.",
                     "id": 400021002,
                     "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/3/36/Skill_Nova_Guardians.png/revision/latest?cb=20161125062712"],
                     "animations": ["https://orangemushroom.files.wordpress.com/2016/07/guardian-of-nova-effect-6th.gif?w=1000&h=", "https://orangemushroom.files.wordpress.com/2016/07/guardian-of-nova-15th.gif?w=1000&h=", "https://orangemushroom.files.wordpress.com/2016/07/guardian-of-nova-effect-27th.gif?w=1000&h="],
@@ -554,7 +553,7 @@
                 },
                 {
                     "name": "Bladefall",
-                    "shortDesc": " MP Cost: 1000, each blade strikes for 1000% damage 4 times and creates a pool of magma where it lands after 2 sec.\\nThe magma hits up to 12 enemies dealing 1400% damage 6 times and increases up to 2000% in proportion to the time the blade remained in the ground after landing.\\nIgnores Draco Surge's cooldown 3 time(s).\\nCooldown: 30 sec\\nFinal Form: Tempest Blades and magma's attack counts increase by 1.",
+                    "shortDesc": "MP Cost: 1000, each blade strikes for 1000% damage 4 times and creates a pool of magma where it lands after 2 sec.\\nThe magma hits up to 12 enemies dealing 1400% damage 6 times and increases up to 2000% in proportion to the time the blade remained in the ground after landing.\\nIgnores Draco Surge's cooldown 3 time(s).\\nCooldown: 30 sec\\nFinal Form: Tempest Blades and magma's attack counts increase by 1.",
                     "id": 400021030,
                     "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/6/60/Skill_Bladefall.png/revision/latest?cb=20170609033036"],
                     "animations": ["https://orangemushroom.files.wordpress.com/2016/12/will-of-sword-strike-final-trans-1-effect.gif?w=1000&h="],
