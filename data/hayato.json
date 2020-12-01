@@ -639,7 +639,7 @@
                 },
                 {
                     "name": "Battoujutsu Ultimate Will - God of Blades",
-                    "shortDesc": "Sword Energy Cost: 150, Max Enemies Hit: 10, Number of Attacks: 8, Damage: 650%, Attack Duration: 30 sec, Sword Energy Absorbed: 8 for each enemy defeated.\\nDeals 1050% damage when attacking 1 enemy and absorbs 10 Sword Energy per attack\\nBefore disappearing, deals a final blow for 1800% damage and recovers Sword Energy, Max Sword Energy Recovered: 800\\nCooldown: 120 sec ",
+                    "shortDesc": "Sword Energy Cost: 150, Max Enemies Hit: 10, Number of Attacks: 8, Damage: 650%, Attack Duration: 30 sec, Sword Energy Absorbed: 8 for each enemy defeated.\\nDeals 1050% damage when attacking 1 enemy and absorbs 10 Sword Energy per attack\\nBefore disappearing, deals a final blow for 1800% damage and recovers Sword Energy, Max Sword Energy Recovered: 800\\nCooldown: 120 sec",
                     "id": 400021067,
                     "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/c/cf/Skill_Battoujutsu_Ultimate_Will_-_God_of_Blades.png/revision/latest?cb=20181115065212"],
                     "animations": ["https://media.giphy.com/media/ifLpFxmWJVZNcAknp4/giphy.gif"],
