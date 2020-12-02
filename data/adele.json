@@ -569,11 +569,11 @@
                     "icons": ["https://orangemushroom.files.wordpress.com/2019/12/ruin.png?w=600"],
                     "animations": ["https://media1.giphy.com/media/mEggpFiv8PoTIVA7LS/giphy.gif"],
                     "type": "Attack",
-                    "desc": "Summons a giant sword that rains down from the sky dealing damage while coming down and after it lands "
+                    "desc": "Summons a giant sword that rains down from the sky dealing damage while coming down and after it lands"
                 },
                 {
                     "name": "Infinity Blade",
-                    "shortDesc": " MP Cost: 1000, invincible during casting and disarmament\\nDuration: 30 sec, creates 18 aether swords that attack 2 times with 700% damage\\nOn successful hits, 5% chance to create an aether crystal.\\nCooldown 180 sec",
+                    "shortDesc": "MP Cost: 1000, invincible during casting and disarmament\\nDuration: 30 sec, creates 18 aether swords that attack 2 times with 700% damage\\nOn successful hits, 5% chance to create an aether crystal.\\nCooldown 180 sec",
                     "id": 400021030,
                     "icons": ["https://orangemushroom.files.wordpress.com/2019/12/infinite.png?w=600"],
                     "animations": ["https://media3.giphy.com/media/SYjfpPWRpR4JE20qqQ/giphy.gif"],

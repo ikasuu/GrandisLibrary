@@ -215,7 +215,8 @@
                         "type": "Active Utility",
                         "desc": "Launches you up into the air",
                         "details": [
-                            "Holding the Skill Key will allow you to glide after using the Skill"
+                            "Holding the Skill Key will allow you to glide after using the skill",
+                            "Can be used in the air"
                         ]
                     },
                     {
@@ -371,6 +372,16 @@
                         ]
                     },
                     {
+                        "id": 5221021,
+                        "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/5/51/Skill_Quickdraw.png/revision/latest?cb=20140419012051"],
+                        "animations": ["https://media0.giphy.com/media/2SRnCJE1zuCOtMP0jP/giphy.gif"],
+                        "type": "Buff",
+                        "desc": "When used, your next attack gains increased %Final Damage",
+                        "details": [
+                            "<strong>[Passive]</strong>: Your attacks have a chance to automatically activate Quickdraw"
+                        ]
+                    },
+                    {
                         "id": 5221000,
                         "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/a/a1/Skill_Maple_Warrior.png/revision/latest?cb=20100602085809"],
                         "animations": ["https://media0.giphy.com/media/X4Fqk6I4IYLS91Vt1N/giphy.gif"],
@@ -424,16 +435,6 @@
                         "desc": "Your shot-firing attacks deal an additional explosive attack",
                         "details": [
                             "Additionally increases %Gun Mastery, and grants flat Attack"
-                        ]
-                    },
-                    {
-                        "id": 5221021,
-                        "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/5/51/Skill_Quickdraw.png/revision/latest?cb=20140419012051"],
-                        "animations": ["https://media0.giphy.com/media/2SRnCJE1zuCOtMP0jP/giphy.gif"],
-                        "type": "Buff",
-                        "desc": "When used, your next attack gains increased %Final Damage",
-                        "details": [
-                            "<strong>[Passive]</strong>: Your attacks have a chance to automatically activate Quickdraw"
                         ]
                     }]
             ]
@@ -532,7 +533,8 @@
                     "desc": "Wildy fires bullets in all directions",
                     "details": [
                         "Continuously pressing the Skill Key will increase the duration of Bullet Barrage",
-                        "You can use mobility skills while casting"
+                        "You can use mobility skills while casting",
+                        "Pressing the Skill Key again will cancel the attack"
                     ]
                 },
                 {
