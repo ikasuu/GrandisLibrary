@@ -105,6 +105,7 @@
                 "Beginner", [{
                     "id": 150001016,
                     "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/1/19/Skill_Shelter_Return.png/revision/latest?cb=20171217081458"],
+                    "animations": ["https://media4.giphy.com/media/49msk5vNCYY2eyVNog/giphy.gif"],
                     "type": "Active",
                     "desc": "Teleports to Illium's hideout"
                 },
@@ -120,6 +121,7 @@
                     "shortDesc": "MP Cost: 30, Attack Power and Magic ATT: +4%, Duration: 40 min",
                     "maxLevel": 1,
                     "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/9/94/Skill_Exclusive_Spell_%28Illium%29.png/revision/latest?cb=20171217080729"],
+                    "animations": ["https://media1.giphy.com/media/QoWk1BQlvp7LLxIP7Q/giphy.gif"],
                     "type": "Buff",
                     "desc": "",
                     "reqLev": "Req 200",
@@ -178,7 +180,7 @@
                     {
                         "id": 152000007,
                         "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/9/9c/Skill_Lucent_Brand.png/revision/latest?cb=20171217213746"],
-                        "animations": ["https://orangemushroom.files.wordpress.com/2017/07/bless-mark-effect.gif?w=600"],
+                        "animations": ["https://media4.giphy.com/media/P1ITMDOgDZvbwc0bWi/giphy.gif"],
                         "type": "Passive",
                         "desc": "When <img class='lzyPlcHld lzyTrns lzyLoaded' src='https://vignette.wikia.nocookie.net/maplestory/images/a/a4/Skill_Radiant_Orb.png/revision/latest?cb=20171217213710' alt='Skill Radiant Orb' width='32' height='32' data-preserve-html-node='true' data-image-key='Skill_Radiant_Orb.png' data-image-name='Skill Radiant Orb.png' data-src='https://vignette.wikia.nocookie.net/maplestory/images/a/a4/Skill_Radiant_Orb.png/revision/latest?cb=20171217213710' /> hits an enemy, you gain a stacking Attack and Magic Attack buff",
                         "details": [
@@ -257,7 +259,7 @@
                     {
                         "id": 152100011,
                         "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/a/a7/Skill_Aegis_of_Light.png/revision/latest?cb=20180122080228"],
-                        "animations": ["https://orangemushroom.files.wordpress.com/2017/07/divine-shield-effect.gif?w=600"],
+                        "animations": ["https://media1.giphy.com/media/QFoKZty3v15mmciy1O/giphy.gif"],
                         "type": "Passive",
                         "desc": "Consumes a stack of <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/9/9c/Skill_Lucent_Brand.png/revision/latest?cb=20171217213746' alt='Skill Lucent Brand'> to absorb some damage taken",
                         "details": [
@@ -267,7 +269,7 @@
                     {
                         "id": 152100012,
                         "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/6/6c/Skill_Umbral_Brand.png/revision/latest?cb=20180122080232"],
-                        "animations": ["https://orangemushroom.files.wordpress.com/2017/07/curse-mark-effect.gif?w=600"],
+                        "animations": ["https://media1.giphy.com/media/1ODeEPsV4WwiuUoFdg/giphy.gif"],
                         "type": "Passive",
                         "desc": "Enemies hit by <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/a/a1/Skill_Reaction_-_Domination.png/revision/latest?cb=20180122080232' alt='Skill Reaction - Domination'> will gain a stacking debuff",
                         "details": [
@@ -352,7 +354,7 @@
                     },
                     {
                         "id": 152110013,
-                        "icons": [""],
+                        "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/2/26/Skill_Endless_Research.png/revision/latest?cb=20180122081434"],
                         "type": "Passive"
                     }]
                 ],
@@ -429,13 +431,13 @@
                 {
                     "id": 152121009,
                     "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/3/31/Skill_Hero_of_the_Flora_%28Illium%29.png/revision/latest?cb=20180122082849"],
-                    "animations": ["https://media.giphy.com/media/eJjFXkAcd0wlTjxjqg/giphy.gif"],
+                    "animations": ["https://media0.giphy.com/media/4YdIGXeYJYG0BVSC0o/giphy.gif"],
                     "type": "Party Buff"
                 },
                 {
                     "id": 152121010,
                     "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/1/1a/Skill_Floran_Hero%27s_Will_%28Illium%29.png/revision/latest?cb=20180122082849"],
-                    "animations": ["https://media.giphy.com/media/WqLLCYHcrHlUy8mvuL/giphy.gif"],
+                    "animations": ["https://media0.giphy.com/media/qqemDDp2c9kDdHAlbO/giphy.gif"],
                     "type": "Buff",
                     "desc": "Removes certain abnormal status effects and become immune to Abnormal Status for a few seconds"
                 },
@@ -524,13 +526,17 @@
                 {
                     "id": 152121043,
                     "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/3/31/Skill_Crystalline_Bulwark.png/revision/latest?cb=20180122180555"],
-                    "animations": ["https://media.giphy.com/media/ZEm6CNjlhoVad5dfvM/giphy.gif"],
+                    "animations": ["https://media4.giphy.com/media/en9dkbhs7VcF3BN302/giphy.gif"],
                     "type": "Buff",
                     "desc": "While active, you and your party members become invulnerable based on how many Lucent Brand stacks you have currently active",
                     "reqLev": 140
                 },
                 {
                     "id": 152121041,
+                    "offline": true,
+                    "name": "Longinus Zone",
+                    "shortDesc": "MP Cost: 200, Max Enemies Hit: 12, Damage: 1500%, Number of Attacks: 3, Explosions: 4\\nInvulnerable while casting\\nCooldown: 120 sec",
+                    "maxLevel": 1,
                     "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/5/5f/Skill_Longinus_Zone.png/revision/latest?cb=20180122180601"],
                     "animations": ["https://orangemushroom.files.wordpress.com/2017/07/longinus-zone-effect.gif?w=600"],
                     "type": "Attack",
@@ -543,7 +549,7 @@
                 {
                     "id": 152121042,
                     "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/b/b8/Skill_Divine_Wrath_%28Illium%29.png/revision/latest?cb=20180122180557"],
-                    "animations": ["https://orangemushroom.files.wordpress.com/2017/07/race-of-god-effect.gif?w=600"],
+                    "animations": ["https://media0.giphy.com/media/oBdTwXnzzMI91d3fUF/giphy.gif"],
                     "type": "Buff",
                     "reqLev": 190
                 }
@@ -557,7 +563,7 @@
                     "shortDesc": "MP Cost: 30, DoT: 1500%, Number of Attacks: 3, Max Enemies Hit: 15, damage increased by 20% when attacking a boss\\nCooldown: 180 sec",
                     "id": 400021002,
                     "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/5/53/Skill_Crystal_Ignition.png/revision/latest?cb=20171209213945"],
-                    "animations": ["https://orangemushroom.files.wordpress.com/2017/07/crystal-ignition-effect.gif?w=600"],
+                    "animations": ["https://media3.giphy.com/media/bGxMXxB38vVUsrKePb/giphy.gif"],
                     "type": "Key-down Attack",
                     "desc": " Fires a beam of light forward",
                     "details": [
@@ -570,7 +576,6 @@
                     "shortDesc": "Max Enemies Hit: 15, Damage: 2000%, Boss Damage: +20%, Number of Attacks: 5\\nCooldown: 1 sec",
                     "id": 400021030,
                     "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/9/98/Skill_Reaction_-_Spectral_Blast.png/revision/latest?cb=20171209214003"],
-                    "animations": ["https://media1.giphy.com/media/daTjzOzYPuoYoKz0rU/giphy.gif"],
                     "type": "Passive Attack",
                     "desc": "When <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/5/53/Skill_Crystal_Ignition.png/revision/latest?cb=20171209213945' alt='Skill Crystal Ignition'> hits your <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/0/0f/Skill_Deploy_Crystal.png/revision/latest?cb=20180122080230' alt='Skill Deploy Crystal'> orb, it splits and creates three beams of light in front of you",
                     "details": [
@@ -582,7 +587,7 @@
                     "shortDesc": "MP Cost: 200, Duration: 40 sec, Max Enemies Hit: 12, DoT: 2000%, Number of Attacks: 6\\nIf Crystal Charges exceed 3 while preparing attack, Final Damage is multiplied by 2.\\nCooldown: 180 sec",
                     "id": 400021030,
                     "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/8/81/Skill_Templar_Knight.png/revision/latest?cb=20171209214012"],
-                    "animations": ["https://orangemushroom.files.wordpress.com/2017/07/gram-holder-effect-move.gif?w=1000&h="],
+                    "animations": ["https://media4.giphy.com/media/w4FsL0hKDCWiVWNbOz/giphy.gif"],
                     "type": "Summon",
                     "desc": "Summons a giant robot that charges up and periodically releases a projectile forward",
                     "details": [
@@ -595,7 +600,7 @@
                     "shortDesc": "MP Cost: 500, uses 1 crystal shard\\nA crystalline spirit forms near the mytocrystal for 30 sec. Only 75% of Final Damage for the Reaction skill the spirit activates is applied, but if it's the 5th skill, 100% is applied. Not affected by cooldown reset.\\nUsing Wings of Glory will disperse the crystalline spirit. Each spirit dispersed in the remaining time increases damage by 30%.\\nPrepares 1 crystal shard every 20 sec up to 2 shards.\\nCooldown: 2.5 sec\\n[Passive Effect: Magic ATT: +55]",
                     "id": 400021067,
                     "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/f/fc/Skill_Crystalline_Spirit.png/revision/latest?cb=20181115065213"],
-                    "animations": ["https://orangemushroom.files.wordpress.com/2018/06/soul-of-crystal-effect-summon.gif?w=300&h=300&crop=1"],
+                    "animations": ["https://media4.giphy.com/media/SJub9yDV6hJgYtw2G3/giphy.gif"],
                     "type": "Summon",
                     "desc": "Summons an additional orb <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/0/0f/Skill_Deploy_Crystal.png/revision/latest?cb=20180122080230' alt='Skill Deploy Crystal'>",
                     "details": [
@@ -654,7 +659,7 @@
             {
                 "name": "Crystal Ignition - 5th Job",
                 "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/5/53/Skill_Crystal_Ignition.png/revision/latest?cb=20171209213945"],
-                "animations": ["https://orangemushroom.files.wordpress.com/2017/07/crystal-ignition-effect.gif?w=600"]
+                "animations": ["https://media3.giphy.com/media/bGxMXxB38vVUsrKePb/giphy.gif"]
             }
         ]
     },
