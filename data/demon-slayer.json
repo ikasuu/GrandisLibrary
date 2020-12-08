@@ -105,7 +105,7 @@
         ],
         "extraContent": {
             "title": "Demon Fury",
-            "content": "<p><img src='https://i.imgur.com/HSQV5rh.png' /></p><p>Demon Slayers do not use MP and instead use Demon Fury (DF) for their skills. You will gain more DF every time you Job Advance (excluding 5th Job)</p>"
+            "content": "<p><img src='https://i.imgur.com/HSQV5rh.png' /></p><p>Demon Slayers do not use MP and instead use Demon Fury (DF) for their skills. DF will slowly regenerate on its own and whenever you hit an enemy with <img src='https://vignette.wikia.nocookie.net/maplestory/images/e/e6/Skill_Demon_Lash.png/revision/latest?cb=20110812075039' alt='Skill Demon Lash'/> Demon Lash. Your max DF will increase every time you Job Advance (excluding 5th Job)</p>"
         }
     },
     "skill": {
