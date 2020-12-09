@@ -1,101 +1,113 @@
 {
-    "class": "Kinesis",
+    "class": "Zero",
     "content": {
-        "classGroup": "Other (FriendStory)",
-        "jobGroup": "Magician",
-        "mainStat": "INT",
-        "secondaryStat": "LUK",
-        "legion": "Grants flat INT",
+        "classGroup": "Other (Child of God)",
+        "jobGroup": "Warrior",
+        "mainStat": "STR",
+        "secondaryStat": "DEX",
+        "legion": "Increases %EXP Obtained from monsters",
         "equipment": [
-            {"weapon": ["psyLimiter"]},
-            {"secondary": ["chessPiece"]}
+            {"weapon": ["longSword"]},
+            {"secondary": ["heavySword"]}
         ],
         "classType": [
-            "Crowd Control",
-            "Utility",
-            "Multi-target"
+            "Combo - Dual Character",
+            "Multi-target",
+            "Mobile"
 
         ],
         "prosCons": {
             "pros": [
-                "Does not use MP as a resource",
-                "Mage with <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/7/78/Skill_Kinetic_Step.png/revision/latest?cb=20160121224618' alt='Skill Kinetic Step'> double jump",
-                "Has a bind skill <img src='https://vignette.wikia.nocookie.net/maplestory/images/6/65/Skill_Mental_Shock.png/revision/latest?cb=20160121223430' alt='Skill Mental Shock' width='32' height='32'> Mental Shock (Hyper Skill)",
-                "Has an iFrame skill <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/4/46/Skill_Mental_Tempest.png/revision/latest?cb=20160121221534' alt='Skill Mental Tempest'> Mental Tempest (Hyper Skill)",
-                "100% Knockback Resistance",
-                "Great Link Skill that provides %Crit Damage"
+                "You get to play as both a male and a female<ul><li>You can decorate both characters separately</li></ul>",
+                "Has lots of mobility and good mobbing",
+                "Has several iFrames from <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/5/53/Skill_Time_Holding.png/revision/latest?cb=20140108010045' alt='Skill Time Holding'> Time Holding, <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/5/55/Skill_Immune_Barrier.png/revision/latest?cb=20140107033613' alt='Skill Immune Barrier'> Immune Barrier, <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/6/6b/Skill_Rewind.png/revision/latest?cb=20140108010045' alt='Skill Rewind'> Rewind and <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/6/60/Skill_Twin_Blades_of_Time.png/revision/latest?cb=20170609033222' alt='Skill Twin Blades of Time'> Twin Blades of Time",
+                "Special weapon that upgrades based on your level (up until Absolab)",
+                "Has a revive skill, <img src='https://vignette.wikia.nocookie.net/maplestory/images/6/6b/Skill_Rewind.png/revision/latest?cb=20140108010045' alt='Skill Rewind'/> Rewind",
+                "Legion bonus provides %Bonus EXP"
             ],
             "cons": [
-                "Bossing is difficult against mobile bosses",
-                "Slight micromanaging with PP resource"
-                
+                "Hard to control due to the amount of mobility from skills",
+                "Can only be created certain times a year",
+                "Comboing attacks may be tricky to get a hang of"
             ]
         },
         "baseStats": [
-            "Excludes Hyper Skill Passives, <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/1/17/Skill_Mind_Tremor.png/revision/latest?cb=20160414184833' alt='Skill Mind Tremor'> Mind Tremor debuff, <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/5/50/Skill_Mind_Break.png/revision/latest?cb=20160414191540' alt='Skill Mind Break'> Mind Break buff, and buffs with cooldowns",
+            "Excludes Hyper Skill Passives and buffs with cooldowns",
             [
-                "<strong>Max HP</strong>: +50%",
-                "<strong>Avoidability</strong>: +32%",
-                "<strong>Magic Attack</strong>: +10%",
-                "<strong>Crit Rate</strong>: +40%",
-                "<strong>Crit Damage</strong>: +30% + (up to 4% from <img src=https://vignette.wikia.nocookie.net/maplestory/images/c/cc/Skill_Judgment_%28Kinesis%29.png/revision/latest?cb=20160610024748' alt='Skill Judgement'/> Link Skill)",
-                "<strong>Damage</strong>: +40%",
-                "<strong>Final Damage</strong>: +20%",
-                "<strong>Attack Speed</strong>: 4",
-                "<strong>Knockback Resistance</strong>: +100%",
-                "<strong>Ignore DEF</strong>: +25%",
-                "<strong>Damage Reduction (Regular Monsters): </strong>+15%",
-                "<strong>Buff Duration</strong>: +20%",
-                "<strong>Abnormal Status Resistance</strong>: 50"
+                "<strong>Max HP</strong>: +15%",
+                "<strong>Crit Rate</strong>: +(up to 20% from <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/f/f8/Skill_Doubletime.png/revision/latest?cb=20140108010044' alt='Skill Doubletime'> Doubletime)<div style='text-indent: 40px'><strong>[Alpha]</strong>: +40%</div><div style='text-indent: 40px'><strong>[Beta]</strong>: +15%</div>",
+                "<strong>Crit Damage</strong>: +0%<div style='text-indent: 40px'><strong>[Alpha]</strong>: +40%</div>",
+                "<strong>Damage</strong>: +(up to 10% from <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/f/f8/Skill_Doubletime.png/revision/latest?cb=20140108010044' alt='Skill Doubletime'> Doubletime)",
+                "<strong>Boss Damage</strong>: +0%<div style='text-indent: 40px'><strong>[Beta]</strong>: +30%</div>",
+                "<strong>Final Damage</strong>: +25%",
+                "<strong>Knockback Resistance</strong>: +0%<div style='text-indent: 40px'><strong>[Beta]: </strong>+100%</div>",
+                "<strong>Attack Speed</strong>: 3 [Alpha], 6 [Beta] (additional -1 stage while <img src='https://vignette.wikia.nocookie.net/maplestory/images/9/9c/Skill_Divine_Speed.png/revision/latest?cb=20140107015542' alt='Skill Divine Speed' width='32' height='32'> Divine Speed is active)",
+                "<strong>Damage Reduction (Regular Monsters)</strong>: +15%",
+                "<strong>Ignore DEF</strong>: +10%<div style='text-indent: 40px'><strong>[Alpha]</strong>: +30%</div>",
+                "<strong>Abnormal Status Resistance</strong>: (10 while <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/2/20/Skill_Divine_Force.png/revision/latest?cb=20140107015534' alt='Skill Divine Force'> Divine Force is active)<div style='text-indent: 40px'><strong>[Alpha]: </strong>+10</div><div style='text-indent: 40px'><strong>[Beta] </strong>+40</div>"
             ]
         ],
         "buffInfo": {
-            "active": "<img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/8/85/Skill_Mental_Shield.png/revision/latest?cb=20160414183307' alt='Skill Mental Shield'>(Toggle), <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/8/8e/Skill_ESP_Booster.png/revision/latest?cb=20160121225140' alt='Skill ESP Booster'>, <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/4/46/Skill_President%27s_Orders.png/revision/latest?cb=20160414191639' alt='Skill President's Orders'>",
-            "summons": "<img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/4/4d/Skill_Psychic_Drain.png/revision/latest?cb=20160414184635' alt='Skill Psychic Drain'>(5s cd), <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/1/17/Skill_Mind_Tremor.png/revision/latest?cb=20160414184833' alt='Skill Mind Tremor'>(10s cd), <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/3/31/Skill_Ultimate_-_Trainwreck.png/revision/latest?cb=20160414043519' alt='Skill Ultimate - Trainwreck'>, <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/8/82/Skill_Psychic_Tornado.png/revision/latest?cb=20161125062713' alt='Skill Psychic Tornado'>(120s cd), <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/e/e5/Skill_Ultimate_-_Mind_Over_Matter.png/revision/latest?cb=20181015053357' alt='Skill Ultimate - Mind Over Matter'>(90s cd), <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/2/2f/Skill_Ultimate_-_Psychic_Shockwave.png/revision/latest?cb=20181115065416' alt='Skill Ultimate - Psychic Shockwave'>(Passive), <img src='https://orangemushroom.files.wordpress.com/2020/06/law-of-gravity.png?w=600' alt='Skill Law of Gravity'>(60s cd)",
-            "buffCd": "<img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/5/50/Skill_Mind_Break.png/revision/latest?cb=20160414191540' alt='Skill Mind Break'>(30s cd), <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/0/0c/Skill_Mental_Overdrive.png/revision/latest?cb=20160121224027' alt='Skill Mental Overdrive'>(210s cd)",
-            "buffFifth": "<img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/8/8a/Skill_Otherworld_Goddess%27s_Blessing.png/revision/latest?cb=20191116025124' alt='Skill Otherworld Goddess's Blessing'>(120s cd), <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/6/67/Skill_Mana_Overload.png/revision/latest?cb=20161018183739' alt='Skill Mana Overload'>(59 - 30s cd), <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/0/0e/Skill_Ethereal_Form.png/revision/latest?cb=20171203075802' alt='Skill Ethereal Form'>(60s cd)",
-            "binds": "<img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/6/65/Skill_Mental_Shock.png/revision/latest?cb=20160121223430' alt='Skill Mental Shock'>(210s cd)",
-            "iFrame": "<img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/1/16/Skill_Ultimate_-_Deep_Impact.png/revision/latest?cb=20160414184636' alt='Skill Ultimate - Deep Impact'>, <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/4/46/Skill_Mental_Tempest.png/revision/latest?cb=20160121221534' alt='Skill Mental Tempest'>(120s cd), <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/0/0e/Skill_Ethereal_Form.png/revision/latest?cb=20171203075802' alt='Skill Ethereal Form'>(60s cd)"
+            "active": "[ <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/2/20/Skill_Divine_Force.png/revision/latest?cb=20140107015534' alt='Skill Divine Force'> / <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/9/9c/Skill_Divine_Speed.png/revision/latest?cb=20140107015542' alt='Skill Divine Speed'> ](Toggle), <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/5/58/Skill_Rhinne%27s_Protection.png/revision/latest?cb=20140107015644' alt='Skill Rhinne's Protection'>",
+            "summons": "<img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/2/22/Skill_Time_Distortion.png/revision/latest?cb=20140108010045' alt='Skill Time Distortion'>(240s cd), <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/8/8e/Skill_Advanced_Throwing_Weapon.png/revision/latest?cb=20140107033511' alt='Skill Advanced Throwing Weapon'>, [ <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/a/a5/Skill_Shadow_Flash_%28Alpha%29.png/revision/latest?cb=20181115065338' alt='Skill Shadow Flash (Alpha)'> / <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/2/20/Skill_Shadow_Flash_%28Beta%29.png/revision/latest?cb=20181115065338' alt='Skill Shadow Flash (Beta)'> ](40s cd)",
+            "buffCd": "<img src='https://vignette.wikia.nocookie.net/maplestory/images/5/53/Skill_Time_Holding.png/revision/latest?cb=20140108010045' alt='Skill Time Holding' width='32' height='32'>(180s cd), <img src='https://vignette.wikia.nocookie.net/maplestory/images/6/6b/Skill_Rewind.png/revision/latest?cb=20140108010045' alt='Skill Rewind' width='32' height='32'>(1800s cd)",
+            "buffFifth": "<img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/7/7f/Skill_Transcendent_Rhinne%27s_Prayer.png/revision/latest?cb=20191122065038' alt='Skill Transcendent Rhinne's Prayer'>(240s cd), <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/3/3a/Skill_Weapon_Aura.png/revision/latest?cb=20161204065742' alt='Skill Weapon Aura'>(180s cd), <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/7/77/Skill_Impenetrable_Skin.png/revision/latest?cb=20171201185329' alt='Skill Impenetrable Skin'>(240s cd)",
+            "binds": "<img src='https://vignette.wikia.nocookie.net/maplestory/images/9/94/Skill_Critical_Bind.png/revision/latest?cb=20140107033513' alt='Skill Critical Bind' width='32' height='32'>(35s cd), <img src='https://vignette.wikia.nocookie.net/maplestory/images/9/97/Skill_Chrono_Break.png/revision/latest?cb=20161125062540' alt='Skill Chrono Break' width='32' height='32'>(240s cd)",
+            "iFrame": "<img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/5/53/Skill_Time_Holding.png/revision/latest?cb=20140108010045' alt='Skill Time Holding'>(180s cd) ,<img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/6/6b/Skill_Rewind.png/revision/latest?cb=20140108010045' alt='Skill Rewind'>(1800s cd revive), <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/5/55/Skill_Immune_Barrier.png/revision/latest?cb=20140107033613' alt='Skill Immune Barrier'>, <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/6/60/Skill_Twin_Blades_of_Time.png/revision/latest?cb=20170609033222' alt='Skill Twin Blades of Time'>(120s cd)"
         },
         "linkSkill": {
-            "id": 80000188,
-            "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/c/cc/Skill_Judgment_%28Kinesis%29.png/revision/latest?cb=20160610024748"],
-            "type": "Passive"
+            "id": 80000110,
+            "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/6/60/Skill_Rhinne%27s_Blessing.png/revision/latest?cb=20140107015609"],
+            "type": "Passive",
+            "desc": "",
+            "details": [
+                "This skill is leveled up by completing the Zero storyline"
+            ]
+        },
+        "howToCreate": {
+            "image": ["https://i.imgur.com/cWrtkSq.png",[499,374]],
+            "npc": [
+                ["",""]
+
+            ],
+            "info": [
+                "Zero character creation only occurs for a limited time. Zero character creations are normally announced for major updates and can happen several times a year. In order to create a Zero though, you must have a character that is above Lv. 100"
+            ]
         },
         "buildPath": {
             "build": [
-                ["1st Job", "<img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/7/78/Skill_Kinetic_Step.png/revision/latest?cb=20160121224618' alt='Skill Kinetic Step'> -> <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/b/b7/Skill_Mental_Fortitude.png/revision/latest?cb=20160104074900' alt='Skill Mental Fortitude'> -> <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/8/8e/Skill_ESP_Booster.png/revision/latest?cb=20160121225140' alt='Skill ESP Booster'> -> <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/8/80/Skill_Psychic_Force.png/revision/latest?cb=20151230223927' alt='Skill Psychic Force'> -> <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/0/0e/Skill_Ultimate_-_Metal_Press.png/revision/latest?cb=20160414182622' alt='Skill Ultimate - Metal Press'> -> <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/6/6c/Skill_Kinetic_Crash.png/revision/latest?cb=20160414181903' alt='Skill Kinetic Crash'>"],
-                ["2nd Job", "<img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/3/35/Skill_Mental_Strength.png/revision/latest?cb=20160414184634' alt='Skill Mental Strength'> -> <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/a/ae/Skill_ESP_Mastery.png/revision/latest?cb=20160129014554' alt='Skill ESP Mastery'> -> <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/3/37/Skill_Pure_Power.png/revision/latest?cb=20170902165622' alt='Skill Pure Power'> -> <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/9/9c/Skill_Psychic_Armor.png/revision/latest?cb=20160414184634' alt='Skill Psychic Armor'> -> <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/4/4d/Skill_Psychic_Drain.png/revision/latest?cb=20160414184635' alt='Skill Psychic Drain'> -> <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/1/16/Skill_Ultimate_-_Deep_Impact.png/revision/latest?cb=20160414184636' alt='Skill Ultimate - Deep Impact'> -> <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/c/c8/Skill_Psychic_Blast.png/revision/latest?cb=20160414184635' alt='Skill Psychic Blast'> -> <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/e/ed/Skill_Kinetic_Piledriver.png/revision/latest?cb=20160414184633' alt='Skill Kinetic Piledriver'>"],
-                ["3rd Job", "<img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/2/20/Skill_Kinetic_Jaunt.png/revision/latest?cb=20160414185437' alt='Skill Kinetic Jaunt'> -> <img src='https://i.imgur.com/27mKU5n.png'> -> <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/8/8e/Skill_Transcendence.png/revision/latest?cb=20160414185953' alt='Skill Transcendence'> -> <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/0/0e/Skill_Psychic_Reinforcement.png/revision/latest?cb=20170902170238' alt='Skill Psychic Reinforcement'> -> <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/8/87/Skill_Psychic_Bulwark.png/revision/latest?cb=20160414185227' alt='Skill Psychic Bulwark'> -> <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/c/c7/Skill_Kinetic_Combo.png/revision/latest?cb=20160414184959' alt='Skill Kinetic Combo'> -> <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/5/57/Skill_Third_Eye_%28Kinesis%29.png/revision/latest?cb=20160414185638' alt='Skill Third Eye (Kinesis)'> -> <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/3/31/Skill_Ultimate_-_Trainwreck.png/revision/latest?cb=20160414043519' alt='Skill Ultimate - Trainwreck'> -> <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/1/17/Skill_Mind_Tremor.png/revision/latest?cb=20160414184833' alt='Skill Mind Tremor'> -> <img width='33' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/0/0c/Skill_Psychic_Assault.png/revision/latest?cb=20160414180805' alt='Skill Psychic Assault'> -> <img width='33' height='33' src='https://vignette.wikia.nocookie.net/maplestory/images/2/2d/Skill_Psychic_Grab.png/revision/latest?cb=20160414175749' alt='Skill Psychic Grab'>"],
-                ["4th Job", "<img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/3/3d/Skill_Mastery.png/revision/latest?cb=20160414192329' alt='Skill Mastery'> -> <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/6/67/Skill_Mind_Scrambler.png/revision/latest?cb=20160414192253' alt='Skill Mind Scrambler'> -> <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/7/7b/Skill_Supreme_Concentration.png/revision/latest?cb=20160414192120' alt='Skill Supreme Concentration'> -> <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/a/a0/Skill_Awakening.png/revision/latest?cb=20160414192030' alt='Skill Awakening'> -> <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/3/35/Skill_Telepath_Tactics.png/revision/latest?cb=20170902170506' alt='Skill Telepath Tactics'> -> <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/9/93/Skill_Critical_Rush.png/revision/latest?cb=20160414192204' alt='Skill Critical Rush'> -> <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/4/46/Skill_President%27s_Orders.png/revision/latest?cb=20160414191639' alt='Skill President's Orders'> -> <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/1/12/Skill_Psychic_Clutch.png/revision/latest?cb=20160414045005' alt='Skill Psychic Clutch'> -> <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/0/01/Skill_Psychic_Charger.png/revision/latest?cb=20160414191729' alt='Skill Psychic Charger'> -> <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/b/b2/Skill_Mind_Quake.png/revision/latest?cb=20160414191546' alt='Skill Mind Quake'> -> <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/5/58/Skill_Ultimate_-_B.P.M..png/revision/latest?cb=20160414191401' alt='Skill Ultimate - B.P.M.'> -> <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/5/50/Skill_Mind_Break.png/revision/latest?cb=20160414191540' alt='Skill Mind Break'> -> <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/1/15/Skill_Clear_Mind.png/revision/latest?cb=20160414191911' alt='Skill Clear Mind'>"]
+                ["Transcendant", "<img src='https://vignette.wikia.nocookie.net/maplestory/images/2/22/Skill_Time_Distortion.png/revision/latest?cb=20140108010045' alt='Skill Time Distortion' width='32' height='32' />(Lv. 110) -> <img src='https://vignette.wikia.nocookie.net/maplestory/images/5/53/Skill_Time_Holding.png/revision/latest?cb=20140108010045' alt='Skill Time Holding' width='32' height='32' />(Lv. 120) -> <img src='https://vignette.wikia.nocookie.net/maplestory/images/6/6b/Skill_Rewind.png/revision/latest?cb=20140108010045' alt='Skill Rewind' width='32' height='32' />(Lv. 140) -> <img src='https://vignette.wikia.nocookie.net/maplestory/images/a/a2/Skill_Shadow_Rain.png/revision/latest?cb=20140108010045' alt='Skill Shadow Rain' width='32' height='32' />(Lv. 160) -> <img src='https://vignette.wikia.nocookie.net/maplestory/images/5/5d/Skill_Focused_Time.png/revision/latest?cb=20140108010044' alt='Skill Focused Time' width='32' height='32' />(Lv. 200)"],
+                ["Alpha & Beta", "<p><strong>(Lv. 100)</strong> [ <img src='https://vignette.wikia.nocookie.net/maplestory/images/7/71/Skill_Moon_Strike.png/revision/latest?cb=20140107031720' alt='Skill Moon Strike' width='32' height='32' />, <img src='https://vignette.wikia.nocookie.net/maplestory/images/5/5e/Skill_Piercing_Thrust.png/revision/latest?cb=20140107031721' alt='Skill Piercing Thrust' width='32' height='32' />, <img src='https://vignette.wikia.nocookie.net/maplestory/images/4/4a/Skill_Shadow_Strike.png/revision/latest?cb=20140107031816' alt='Skill Shadow Strike' width='32' height='32' />, <img src='https://vignette.wikia.nocookie.net/maplestory/images/d/da/Skill_Long_Sword_Mastery.png/revision/latest?cb=20140107031720' alt='Skill Long Sword Mastery' width='32' height='32' /> | <img src='https://vignette.wikia.nocookie.net/maplestory/images/9/96/Skill_Rising_Slash_%28Zero%29.png/revision/latest?cb=20140107033613' alt='Skill Rising Slash (Zero)' width='32' height='32' />, <img src='https://vignette.wikia.nocookie.net/maplestory/images/5/5d/Skill_Air_Raid.png/revision/latest?cb=20140107033512' alt='Skill Air Raid' width='32' height='32' />, <img src='https://vignette.wikia.nocookie.net/maplestory/images/d/d6/Skill_Heavy_Sword_Mastery.png/revision/latest?cb=20140107033612' alt='Skill Heavy Sword Mastery' width='32' height='32' /> ]<br /><strong>(Lv. 105)</strong> [ n/a | <img src='https://vignette.wikia.nocookie.net/maplestory/images/0/0d/Skill_Flash_Cut.png/revision/latest?cb=20140107033514' alt='Skill Flash Cut' width='32' height='32' /> ]<br /><strong>(Lv. 110)</strong> [ <img src='https://vignette.wikia.nocookie.net/maplestory/images/6/6f/Skill_Flash_Assault.png/revision/latest?cb=20140107031719' alt='Skill Flash Assault' width='32' height='32' />, <img src='https://vignette.wikia.nocookie.net/maplestory/images/d/dd/Skill_Time_Generator.png/revision/latest?cb=20140107031817' alt='Skill Time Generator' width='32' height='32' /> | <img src='https://vignette.wikia.nocookie.net/maplestory/images/1/14/Skill_Throwing_Weapon.png/revision/latest?cb=20140107033614' alt='Skill Throwing Weapon' width='32' height='32' />, <img src='https://vignette.wikia.nocookie.net/maplestory/images/5/5d/Skill_Solid_Body.png/revision/latest?cb=20140107033613' alt='Skill Solid Body' width='32' height='32' /> ]<br /><strong>(Lv. 115)</strong> [ <img src='https://vignette.wikia.nocookie.net/maplestory/images/5/51/Skill_Spin_Cutter.png/revision/latest?cb=20140107031816' alt='Skill Spin Cutter' width='32' height='32' /> | <img src='https://vignette.wikia.nocookie.net/maplestory/images/5/53/Skill_Spin_Driver.png/revision/latest?cb=20140107033613' alt='Skill Spin Driver' width='32' height='32' /> ]<br /><strong>(Lv. 120)</strong> [ <img src='https://vignette.wikia.nocookie.net/maplestory/images/2/23/Skill_Rolling_Cross.png/revision/latest?cb=20140107031816' alt='Skill Rolling Cross' width='32' height='32' />  | n/a ]<br /><strong>(Lv. 125)</strong> [ n/a | <img src='https://vignette.wikia.nocookie.net/maplestory/images/e/e5/Skill_Wheel_Wind.png/revision/latest?cb=20140107033614' alt='Skill Wheel Wind' width='32' height='32' /> ]<br /><strong>(Lv. 130)</strong> [ <img src='https://vignette.wikia.nocookie.net/maplestory/images/4/4a/Skill_Rolling_Assault.png/revision/latest?cb=20140107031815' alt='Skill Rolling Assault' width='32' height='32' />, <img src='https://vignette.wikia.nocookie.net/maplestory/images/b/b5/Skill_Reinforce_Body.png/revision/latest?cb=20140107031721' alt='Skill Reinforce Body' width='32' height='32' /> | <img src='https://vignette.wikia.nocookie.net/maplestory/images/3/3a/Skill_Armor_Split.png/revision/latest?cb=20140107033512' alt='Skill Armor Split' width='32' height='32' /> ]<br /><strong>(Lv. 135)</strong> [ n/a | <img src='https://vignette.wikia.nocookie.net/maplestory/images/2/24/Skill_Giga_Crash.png/revision/latest?cb=20140107033612' alt='Skill Giga Crash' width='32' height='32' /> ]<br /><strong>(Lv. 140)</strong> [ <img src='https://vignette.wikia.nocookie.net/maplestory/images/1/13/Skill_Wind_Cutter.png/revision/latest?cb=20140107031817' alt='Skill Wind Cutter' width='32' height='32' /> | <img src='https://vignette.wikia.nocookie.net/maplestory/images/3/33/Skill_Falling_Star.png/revision/latest?cb=20140107033513' alt='Skill Falling Star' width='32' height='32' /> ]<br /><strong>(Lv. 145)</strong> [ <img src='https://vignette.wikia.nocookie.net/maplestory/images/6/69/Skill_Wind_Striker.png/revision/latest?cb=20140107031817' alt='Skill Wind Striker' width='32' height='32' /> | <img src='https://vignette.wikia.nocookie.net/maplestory/images/6/6f/Skill_Earth_Break.png/revision/latest?cb=20140107033513' alt='Skill Earth Break' width='32' height='32' /> ]<br /><strong>(Lv. 150)</strong> [ <img src='https://vignette.wikia.nocookie.net/maplestory/images/9/95/Skill_Storm_Break.png/revision/latest?cb=20140107031817' alt='Skill Storm Break' width='32' height='32' />, <img src='https://vignette.wikia.nocookie.net/maplestory/images/0/0f/Skill_Advanced_Spin_Cutter.png/revision/latest?cb=20140107031718' alt='Skill Advanced Spin Cutter' width='32' height='32' /> | <img src='https://vignette.wikia.nocookie.net/maplestory/images/3/35/Skill_Air_Riot.png/revision/latest?cb=20140107033512' alt='Skill Air Riot' width='32' height='32' /> ]<br /><strong>(Lv. 155)</strong> [ n/a | <img src='https://vignette.wikia.nocookie.net/maplestory/images/8/8e/Skill_Advanced_Throwing_Weapon.png/revision/latest?cb=20140107033511' alt='Skill Advanced Throwing Weapon' width='32' height='32' /> ]<br /><strong>(Lv. 160)</strong> [ <img src='https://vignette.wikia.nocookie.net/maplestory/images/2/2a/Skill_Grand_Rolling_Cross.png/revision/latest?cb=20140107031719' alt='Skill Grand Rolling Cross' width='32' height='32' />, <img src='https://vignette.wikia.nocookie.net/maplestory/images/c/cb/Skill_Divine_Leer.png/revision/latest?cb=20140107031718' alt='Skill Divine Leer' width='32' height='32' /> | n/a ]<br /><strong>(Lv. 165)</strong> [ n/a | <img src='https://vignette.wikia.nocookie.net/maplestory/images/9/96/Skill_Advanced_Wheel_Wind.png/revision/latest?cb=20140107033511' alt='Skill Advanced Wheel Wind' width='32' height='32' />, <img src='https://vignette.wikia.nocookie.net/maplestory/images/5/55/Skill_Immune_Barrier.png/revision/latest?cb=20140107033613' alt='Skill Immune Barrier' width='32' height='32' /> ]<br /><strong>(Lv. 170)</strong> [ <img src='https://vignette.wikia.nocookie.net/maplestory/images/4/43/Skill_Advanced_Rolling_Assault.png/revision/latest?cb=20140107031718' alt='Skill Advanced Rolling Assault' width='32' height='32' /> | <img src='https://vignette.wikia.nocookie.net/maplestory/images/a/a7/Skill_Advanced_Earth_Break.png/revision/latest?cb=20140107033511' alt='Skill Advanced Earth Break' width='32' height='32' /> ]<br /><strong>(Lv. 180)</strong> [ <img src='https://vignette.wikia.nocookie.net/maplestory/images/9/9c/Skill_Advanced_Storm_Break.png/revision/latest?cb=20140107031718' alt='Skill Advanced Storm Break' width='32' height='32' /> | n/a ]<br /><strong>(Lv. 185)</strong> [ n/a | <img src='https://vignette.wikia.nocookie.net/maplestory/images/9/94/Skill_Critical_Bind.png/revision/latest?cb=20140107033513' alt='Skill Critical Bind' width='32' height='32' /> ]</p>"]
             ],
             "details": [
-                "Put one SP into each skill first",
+                "Alpha and Beta unlock new skills as you level up and will be able to max everything",
+                "Put one SP into each skill first that is available",
                 "For any skills that have prerequisites, follow them first before following build path",
-                "4th Job skills require <img src='https://static.wikia.nocookie.net/maplestory/images/8/8d/Use_Mastery_Book_20.png' alt='Use Mastery Book 20.png' width='32' height='29' /><img src='https://static.wikia.nocookie.net/maplestory/images/e/e1/Use_Mastery_Book_30.png' alt='Use Mastery Book 30.png' width='32' height='29' /> Mastery Books to reach Master Level"
+                "Some of Alpha and Beta's skills will require <img src='https://static.wikia.nocookie.net/maplestory/images/8/8d/Use_Mastery_Book_20.png' alt='Use Mastery Book 20.png' width='32' height='29' /><img src='https://static.wikia.nocookie.net/maplestory/images/e/e1/Use_Mastery_Book_30.png' alt='Use Mastery Book 30.png' width='32' height='29' /> Mastery Books to reach Master Level"
             ]
         },
         "hyperBuild": {
-            "recommended": "<ul><li><img src='https://vignette.wikia.nocookie.net/maplestory/images/1/15/Skill_Psychic_Grab_-_Boss_Point.png/revision/latest?cb=20160121083834' alt='Skill Psychic Grab - Boss Point' width='32' height='32'> <img src='https://vignette.wikia.nocookie.net/maplestory/images/d/d5/Skill_Psychic_Grab_-_Reinforce.png/revision/latest?cb=20160121084624' alt='Skill Psychic Grab - Reinforce' width='32' height='32'> Psychic Grab - Boss Point and Reinforce</li><li><img src='https://vignette.wikia.nocookie.net/maplestory/images/c/cf/Skill_Mind_Tremor_-_Overwhelm.png/revision/latest?cb=20160121215330' alt='Skill Mind Tremor - Overwhelm' width='32' height='32'> <img src='https://vignette.wikia.nocookie.net/maplestory/images/1/12/Skill_Mind_Tremor_-_Reinforce.png/revision/latest?cb=20160121215726' alt='Skill Mind Tremor - Reinforce' width='32' height='32'> Mind Tremor - Overwhelm, Reinforce</li><li><img src='https://vignette.wikia.nocookie.net/maplestory/images/a/a6/Skill_Mind_Break_-_Enhance.png/revision/latest?cb=20160121221042' alt='Skill Mind Break - Enhance' width='32' height='32'> Mind Break - Enhance</li></ul>" 
+            "recommended": "" 
         },
         "nodeInfo": {
-            "recommended": "<img width='33' height='33' src='https://vignette.wikia.nocookie.net/maplestory/images/2/2d/Skill_Psychic_Grab.png/revision/latest?cb=20160414175749' alt='Skill Psychic Grab'> <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/5/58/Skill_Ultimate_-_B.P.M..png/revision/latest?cb=20160414191401' alt='Skill Ultimate - B.P.M.'> <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/0/0e/Skill_Ultimate_-_Metal_Press.png/revision/latest?cb=20160414182622' alt='Skill Ultimate - Metal Press'> <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/3/31/Skill_Ultimate_-_Trainwreck.png/revision/latest?cb=20160414043519' alt='Skill Ultimate - Trainwreck'> <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/c/c7/Skill_Kinetic_Combo.png/revision/latest?cb=20160414184959' alt='Skill Kinetic Combo'> <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/5/50/Skill_Mind_Break.png/revision/latest?cb=20160414191540' alt='Skill Mind Break'>",
-            "possible": "<img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/8/80/Skill_Psychic_Force.png/revision/latest?cb=20151230223927' alt='Skill Psychic Force'> <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/6/6c/Skill_Kinetic_Crash.png/revision/latest?cb=20160414181903' alt='Skill Kinetic Crash'> <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/e/ed/Skill_Kinetic_Piledriver.png/revision/latest?cb=20160414184633' alt='Skill Kinetic Piledriver'> <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/1/16/Skill_Ultimate_-_Deep_Impact.png/revision/latest?cb=20160414184636' alt='Skill Ultimate - Deep Impact'> <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/4/4d/Skill_Psychic_Drain.png/revision/latest?cb=20160414184635' alt='Skill Psychic Drain'> <img width='33' height='33' src='https://vignette.wikia.nocookie.net/maplestory/images/2/2d/Skill_Psychic_Grab.png/revision/latest?cb=20160414175749' alt='Skill Psychic Grab'> <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/3/31/Skill_Ultimate_-_Trainwreck.png/revision/latest?cb=20160414043519' alt='Skill Ultimate - Trainwreck'> <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/c/c7/Skill_Kinetic_Combo.png/revision/latest?cb=20160414184959' alt='Skill Kinetic Combo'> <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/5/50/Skill_Mind_Break.png/revision/latest?cb=20160414191540' alt='Skill Mind Break'> <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/5/58/Skill_Ultimate_-_B.P.M..png/revision/latest?cb=20160414191401' alt='Skill Ultimate - B.P.M.'> <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/4/46/Skill_Mental_Tempest.png/revision/latest?cb=20160121221534' alt='Skill Mental Tempest'> <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/6/65/Skill_Mental_Shock.png/revision/latest?cb=20160121223430' alt='Skill Mental Shock'> <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/0/0e/Skill_Ultimate_-_Metal_Press.png/revision/latest?cb=20160414182622' alt='Skill Ultimate - Metal Press'>"
+            "recommended": "<p><img src='https://vignette.wikia.nocookie.net/maplestory/images/5/5e/Skill_Piercing_Thrust.png/revision/latest?cb=20140107031721' alt='Skill Piercing Thrust' width='32' height='32'> <img src='https://vignette.wikia.nocookie.net/maplestory/images/2/23/Skill_Rolling_Cross.png/revision/latest?cb=20140107031816' alt='Skill Rolling Cross' width='32' height='32'> <img src='https://vignette.wikia.nocookie.net/maplestory/images/1/13/Skill_Wind_Cutter.png/revision/latest?cb=20140107031817' alt='Skill Wind Cutter' width='32' height='32'></p><p><strong>Options:</strong></p><ol><li>Choose 1 combo skill you do not utilize (recommended to be <strong>Pierce Thrust</strong> as it's only required in Lotus, <em>credits to almog12497</em>) and enhance the other 6 skills into 2 sets of perfect trios</li><li>Utilize 5 nodes (total of 15 skills) to encompass all 7 skills twice (total of 14 skills)</li></ol>",
+            "possible": "<img src='https://vignette.wikia.nocookie.net/maplestory/images/7/71/Skill_Moon_Strike.png/revision/latest?cb=20140107031720' alt='Skill Moon Strike' width='32' height='32'> <img src='https://vignette.wikia.nocookie.net/maplestory/images/5/5e/Skill_Piercing_Thrust.png/revision/latest?cb=20140107031721' alt='Skill Piercing Thrust' width='32' height='32'> <img src='https://vignette.wikia.nocookie.net/maplestory/images/6/6f/Skill_Flash_Assault.png/revision/latest?cb=20140107031719' alt='Skill Flash Assault' width='32' height='32'> <img src='https://vignette.wikia.nocookie.net/maplestory/images/5/51/Skill_Spin_Cutter.png/revision/latest?cb=20140107031816' alt='Skill Spin Cutter' width='32' height='32'> <img src='https://vignette.wikia.nocookie.net/maplestory/images/2/23/Skill_Rolling_Cross.png/revision/latest?cb=20140107031816' alt='Skill Rolling Cross' width='32' height='32'> <img src='https://vignette.wikia.nocookie.net/maplestory/images/4/4a/Skill_Rolling_Assault.png/revision/latest?cb=20140107031815' alt='Skill Rolling Assault' width='32' height='32'> <img src='https://vignette.wikia.nocookie.net/maplestory/images/1/13/Skill_Wind_Cutter.png/revision/latest?cb=20140107031817' alt='Skill Wind Cutter' width='32' height='32'> <img src='https://vignette.wikia.nocookie.net/maplestory/images/6/69/Skill_Wind_Striker.png/revision/latest?cb=20140107031817' alt='Skill Wind Striker' width='32' height='32'> <img src='https://vignette.wikia.nocookie.net/maplestory/images/9/95/Skill_Storm_Break.png/revision/latest?cb=20140107031817' alt='Skill Storm Break' width='32' height='32'> <img src='https://vignette.wikia.nocookie.net/maplestory/images/a/a2/Skill_Shadow_Rain.png/revision/latest?cb=20140108010045' alt='Skill Shadow Rain' width='32' height='32'><ul><li>Nodes provide boosts for both Alpha and Beta's skills</li></ul>"
         },
         "moreInfo": [
-            "http://maplestory.nexon.net/game/classes-and-jobs/5548/kinesis",
-            "https://maplestory.fandom.com/wiki/Kinesis"
+            "http://maplestory.nexon.net/game/classes-and-jobs/3377/zero",
+            "https://maplestory.fandom.com/wiki/Zero",
+            "https://youtu.be/ArGmjBAih0k"
         ],
         "credits": [
             ["Skill Icons", "OrangeMushroom"],
             ["Skill Animations", "Ikasuu"],
-            ["Boost Nodes Build", "maplefinale"],
+            ["Boost Nodes Build", "almog12497"],
             ["Common 5th Job Skills Animations", "OrangeMushroom"],
             ["5th Job Skills Animations", "KyoWantsCute"]
         ],
         "extraContent": {
-            "title": "Psychic Points",
-            "content": "<p><img src='https://i.imgur.com/j7UXdNT.png' alt='Psychic Points'/></p><p>Kinesis does not use MP and instead uses Psychic Points (PP) for special Ultimate skills. PP is generated by using most non-Ultimate skills. Your PP capacity will increase every time you Job Advance (excluding 5th Job)</p>"
+            "title": "Alpha and Beta",
+            "content": "<p>Zero does not use MP and instead use Time Force (TF) which quickly regenerates</p><p>With Zero, you control two characters Alpha and Beta. Both Alpha and Beta have their own HP and TF. Using attacks of the opposite character will swap you between Alpha and Beta. As well, both characters can be decorated differently and wear clothing specific to their gender. Non-gender specific clothing can be equipped by both at the same time if desired</p><p>Zero's weapon is also special in which it upgrades for free every 10 levels up to Lv. 170. Within the Mirror World, monsters will drop Weapon Points (WP) that can be used to reroll a weapon's Bonus Stats and Potential</p>"
         }
     },
     "skill": {
@@ -448,97 +460,6 @@
                 }]
             ]
         ],
-        "hyper":{
-            "hyperPassive": [
-                {
-                    "id": 142120033,
-                    "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/1/15/Skill_Psychic_Grab_-_Boss_Point.png/revision/latest?cb=20160121083834"],
-                    "type": "Passive",
-                    "reqLev": 140
-                },
-                {
-                    "id": 142120034,
-                    "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/d/d5/Skill_Psychic_Grab_-_Reinforce.png/revision/latest?cb=20160121084624"],
-                    "type": "Passive",
-                    "reqLev": 150
-                },
-                {
-                    "id": 142120035,
-                    "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/a/ac/Skill_Psychic_Grab_-_Steel_Skin.png/revision/latest?cb=20160121085438"],
-                    "type": "Passive",
-                    "desc": "",
-                    "details": [
-                        "Grants a %DEF buff when used"
-                    ],
-                    "reqLev": 180
-                },
-                {
-                    "id": 142120036,
-                    "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/c/cf/Skill_Mind_Tremor_-_Overwhelm.png/revision/latest?cb=20160121215330"],
-                    "type": "Passive",
-                    "reqLev": 140
-                },
-                {
-                    "id": 142120037,
-                    "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/1/12/Skill_Mind_Tremor_-_Reinforce.png/revision/latest?cb=20160121215726"],
-                    "type": "Passive",
-                    "reqLev": 165
-                },
-                {
-                    "id": 142120038,
-                    "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/7/7a/Skill_Mind_Tremor_-_Persist.png/revision/latest?cb=20160121220058"],
-                    "type": "Passive",
-                    "reqLev": 180
-                },
-                {
-                    "id": 142120039,
-                    "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/e/ec/Skill_Mind_Break_-_Reinforce.png/revision/latest?cb=20160121220412"],
-                    "type": "Passive",
-                    "reqLev": 150
-                },
-                {
-                    "id": 142120040,
-                    "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/a/a3/Skill_Mind_Break_-_Cooldown_Cutter.png/revision/latest?cb=20160121220710"],
-                    "type": "Passive",
-                    "reqLev": 165
-                },
-                {
-                    "id": 142120041,
-                    "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/a/a6/Skill_Mind_Break_-_Enhance.png/revision/latest?cb=20160121221042"],
-                    "type": "Passive",
-                    "reqLev": 190
-                }
-            ],
-            "hyperActive": [
-                {
-                    "id": 142121030,
-                    "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/4/46/Skill_Mental_Tempest.png/revision/latest?cb=20160121221534"],
-                    "animations": ["https://orangemushroom.files.wordpress.com/2015/07/ever-psychic-effect.gif"],
-                    "type": "Attack",
-                    "desc": "Unleashes a barrage of your Ultimate attacks before releasing a deadly final blow",
-                    "details": [
-                        "The final blow has increased %Ignore DEF",
-                        "You are invincible while casting and you instantly gain max PP"
-                    ],
-                    "reqLev": 140
-                },
-                {
-                    "id": 142121031,
-                    "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/6/65/Skill_Mental_Shock.png/revision/latest?cb=20160121223430"],
-                    "animations": ["https://orangemushroom.files.wordpress.com/2015/07/psychometry-effect.gif?w=600"],
-                    "type": "Bind Attack",
-                    "desc": "Unleashes a shockwave that binds nearby enemies",
-                    "reqLev": 160
-                },
-                {
-                    "id": 142121032,
-                    "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/0/0c/Skill_Mental_Overdrive.png/revision/latest?cb=20160121224027"],
-                    "animations": ["https://orangemushroom.files.wordpress.com/2015/07/psychic-over-effect.gif?w=600"],
-                    "type": "Buff",
-                    "reqLev": 190
-                }
-            ]
-        },
         "fifth": {
             "fifthCommon": ["otherworldGoddessBlessing", "manaOverload", "etherealForm"],
             "fifthMain": [
@@ -638,5 +559,5 @@
             }
         ]
     },
-    "meta": "Kinesis is an INT Mage class part of the FriendStory class group. Kinesis does not use MP as a resource and instead has PP (Psychic Points) that skills consume. Kinesis charges his PP using special attacks and as well has a Double Jump skill instead of a Teleport like most Mages do"
+    "meta": "Zero is a STR warrior class that is not part of any class grouping. With Zero, you control two characters Alpha and Beta. Using different attacks will swap you between Alpha and Beta"
 }
