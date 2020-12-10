@@ -31,7 +31,7 @@
             ]
         },
         "baseStats": [
-            "Excludes Hyper Skill Passives, Link Skills, and buffs with cooldowns",
+            "Excludes Hyper Skill Passives, Link Skills, <img src='https://vignette.wikia.nocookie.net/maplestory/images/1/18/Skill_Final_Cut.png/revision/latest?cb=20110505124740' alt='Skill Final Cut'/> Final Cut, and buffs with cooldowns",
             [
                 "<strong>Max HP</strong>: +20%",
                 "<img src='https://vignette.wikia.nocookie.net/maplestory/images/b/bb/Skill_Shadow_Meld.png/revision/latest?cb=20120221174546' alt='Skill Shadow Meld' width='32' height='32' /> Dodge Chance</strong>: +30%",

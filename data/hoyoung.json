@@ -120,7 +120,7 @@
                     "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/8/8e/Skill_Exclusive_Spell_%28Hoyoung%29.png/revision/latest?cb=20191116140414"],
                     "type": "Buff",
                     "desc": "",
-                    "reqLev": "Req 200",
+                    "reqLev": "Req. 200",
                     "details": [
                         "Affects all nearby players",
                         "Has a cooldown (2 hrs)"

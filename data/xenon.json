@@ -497,7 +497,7 @@
                     "id": 36120016,
                     "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/f/f2/Skill_Multilateral_VI.png/revision/latest?cb=20130517123557"],
                     "type": "Upgraded Passive",
-                    "reqLev": "Req 200",
+                    "reqLev": "Req. 200",
                     "desc": "Grants special bonuses once you've reached a certain amount of stats"
                 }]
             ]

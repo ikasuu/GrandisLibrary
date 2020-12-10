@@ -129,7 +129,7 @@
                     "animations": ["https://media0.giphy.com/media/wIeX9ADXDixIsaZYuA/giphy.gif"],
                     "type": "Buff",
                     "desc": "",
-                    "reqLev": "Req 200",
+                    "reqLev": "Req. 200",
                     "details": [
                         "Affects all nearby players",
                         "Has a cooldown (2 hrs)"

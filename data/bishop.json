@@ -29,7 +29,7 @@
             ]
         },
         "baseStats": [
-            "Excludes Hyper Skill Passives, Link Skills, <img src='https://vignette.wikia.nocookie.net/maplestory/images/6/62/Skill_Magic_Guard_%28Magician%29.png/revision/latest?cb=20130706124158' alt='Skill Magic Guard (Magician)' width='32' height='32' /> Magic Guard and buffs with cooldowns",
+            "Excludes Hyper Skill Passives, Link Skills, <img src='https://vignette.wikia.nocookie.net/maplestory/images/6/62/Skill_Magic_Guard_%28Magician%29.png/revision/latest?cb=20130706124158' alt='Skill Magic Guard (Magician)' width='32' height='32' /> Magic Guard, <img src='https://vignette.wikia.nocookie.net/maplestory/images/c/c1/Skill_Holy_Symbol_-_Item_Drop.png/revision/latest?cb=20140412230104' alt='Skill Holy Symbol - Item Drop'/> Holy Symbol - Item Drop, and buffs with cooldowns",
             [
                 "<strong>Crit Rate</strong>: +70% (+5% with Wand)",
                 "<strong>Crit Damage</strong>: +13%",
@@ -39,7 +39,8 @@
                 "<strong>Attack Speed</strong>: [Wand] 4, [Staff] 6 ( additional -1 stage with <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/b/bc/Skill_Righteously_Indignant.png/revision/latest?cb=20120918154038' alt='Skill Righteously Indignant'> Righteously Indignant active)",
                 "<strong>Damage Reduction (Regular Monsters)</strong>: +25%",
                 "<strong>Buff Duration</strong>: +50%",
-                "<strong>Ignore DEF</strong>: +20% (additional 20% with <img src='https://vignette.wikia.nocookie.net/maplestory/images/b/bc/Skill_Righteously_Indignant.png/revision/latest?cb=20120918154038' alt='Skill Righteously Indignant' width='32' height='32' /> Righteously Indignant active)"
+                "<strong>Ignore DEF</strong>: +20% (additional 20% with <img src='https://vignette.wikia.nocookie.net/maplestory/images/b/bc/Skill_Righteously_Indignant.png/revision/latest?cb=20120918154038' alt='Skill Righteously Indignant' width='32' height='32' /> Righteously Indignant active)",
+                "<strong>EXP Rate (From Monsters)</strong>: +50%"
             ]
         ],
         "buffInfo": {
