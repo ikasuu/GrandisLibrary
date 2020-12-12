@@ -353,8 +353,11 @@
                     "id": 1221016,
                     "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/6/60/Skill_Guardian.png/revision/latest?cb=20140410052756"],
                     "animations": ["https://media0.giphy.com/media/2wcFTyYs5d8XQUreDs/giphy.gif"],
-                    "type": "Active",
-                    "desc": "Revives one party member closest to you and makes both you and your party member invulnerable for a short time"
+                    "type": "Party Revive",
+                    "desc": "Revives one party member closest to you and makes both you and your party member invulnerable for a short time",
+                    "details": [
+                        "Still consumes a Death Count for bosses even if revived but buffs are kept"
+                    ]
                 },
                 {
                     "id": 1220018,
