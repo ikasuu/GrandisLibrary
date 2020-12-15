@@ -562,6 +562,19 @@
                         "The ship and assault both deal damage",
                         "If either <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/c/c9/Skill_Nautilus_Strike.png/revision/latest?cb=20110608083744' alt='Skill Nautilus Strike'> or <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/0/02/Skill_Nautilus_Assault.png/revision/latest?cb=20181115065337' alt='Skill Nautilus Assault'> are used, there is a short cooldown (8 secs) before either can activated unless they are already on cooldown"
                     ]
+                },
+                {
+                    "name": "Death Trigger",
+                    "shortDesc": "MP Cost: 750. Fires up to 7 shots, which attack up to 7 enemies with 1150% damage 11 time(s).\\ncooldown: 45 sec",
+                    "id": 400051040,
+                    "icons": ["https://orangemushroom.files.wordpress.com/2020/06/death-trigger.png?w=600"],
+                    "animations": ["https://media1.giphy.com/media/MQPJkGiM0cPRcIieea/giphy.gif"],
+                    "type": "Attack",
+                    "desc": "Fires several bullets that ricochets to multiple enemies",
+                    "details": [
+                        "If there is an enemy affected by the <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/a/ab/Skill_Parrotargetting.png/revision/latest?cb=20111228021645' alt='Skill Parrotargetting'> debuff, all bullets will target that enemy",
+                        "Unaffected by Damage Reflect"
+                    ]
                 }
             ]
         },

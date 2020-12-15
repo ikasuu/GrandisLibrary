@@ -559,6 +559,19 @@
                     "details": [
                         "At the end of its range, the angel lingers dealing damage and buffing party members<ul><li><strong>[Buff]: </strong>Increases %Damage</li><li>Pressing the Skill Key again will cause the angel to disappear</li></ul>"
                     ]
+                },
+                {
+                    "name": "Divine Punishment",
+                    "shortDesc": "MP Cost per Attack: 40, Consumes 1 holy light per sec.\\nAttacks up to 6 enemies to the front, for 300% damage, 5 times. While Righteously Indignant is active, increases the number of attacks by 5..\\n1 holy light is prepared every 8.5 sec, and you can hold up to 8 at a time.\\nCooldown: 1.5 sec",
+                    "id": 400021070,
+                    "icons": ["https://orangemushroom.files.wordpress.com/2020/06/divine-punishment.png?w=600"],
+                    "animations": ["https://media1.giphy.com/media/ZHfg0SXUAcrQreCMbj/giphy.gif"],
+                    "type": "Key-down Attack",
+                    "desc": "Rains down angelic arrows from above",
+                    "details": [
+                        "This skill has a special resource called Divine Light which are prepared every 8.5 seconds and you can hold up to 8 at a time<ul><li>Costs 1 Divine Light per second to cast</li></ul>",
+                        "Deals increased number of hits per attack if <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/b/bc/Skill_Righteously_Indignant.png/revision/latest?cb=20120918154038' alt='Skill Righteously Indignant'> is active"
+                    ]
                 }
             ]
         },

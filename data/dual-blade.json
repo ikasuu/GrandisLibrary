@@ -536,6 +536,21 @@
                     "details": [
                         "Attack has 100% Ignore DEF"
                     ]
+                },
+                {
+                    "name": "Haunted Edge",
+                    "shortDesc": "MP Cost: 750, Cooldown: 14 sec, all attacks of Haunted Edge ignores 30% of enemy defense\\nHaunted Edge-Asura: Max Enemies Hit: 8, Damage: 550%, Number of Attacks: 6, Max Sword Winds: 6, Sword Wind Damage: 750%, Number of Sword Wind Attacks: 3, Final Damage of sword wind reduces by 50% when one enemy is hit by several sword winds\\nHaunted Edge-Yaksa: Chase Cut Activation: 5, Max Enemies Hit: 2, Damage: 400%, Number of Attacks: 4",
+                    "id": 400041042,
+                    "icons": ["https://orangemushroom.files.wordpress.com/2020/06/haunted-edge.png?w=600"],
+                    "animations": ["https://media4.giphy.com/media/J6HLpBWTus9GdmFFJ7/giphy.gif"],
+                    "type": "Passive Attack",
+                    "desc": "Periodically, when using <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/3/33/Skill_Blade_Fury.png/revision/latest?cb=20140414050921' alt='Skill Blade Fury'> or <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/d/de/Skill_Phantom_Blow.png/revision/latest?cb=20140414050926' alt='Skill Phantom Blow'>, an additional burst attack will trigger",
+                    "details": [
+                        "<img src='https://vignette.wikia.nocookie.net/maplestory/images/3/33/Skill_Blade_Fury.png/revision/latest?cb=20140414050921' alt='Skill Blade Fury' width='32' height='32'> <strong>[Sura]: </strong>Slashes around you and creates homing blade winds<ul><li>Blade winds are unaffected by <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/6/62/Skill_Mirror_Image.png/revision/latest?cb=20110505120034' alt='Skill Mirror Image'></li><li>Enemies hit by multiple Sword Winds, each additional Sword Wind deals reduced %Final Damage</li></ul>",
+                        "<img src='https://vignette.wikia.nocookie.net/maplestory/images/d/de/Skill_Phantom_Blow.png/revision/latest?cb=20140414050926' alt='Skill Phantom Blow' width='32' height='32'> <strong>[Rakshasa]: </strong>Slashes violently forward",
+                        "Attacks have increased %Ignore DEF",
+                        "Unaffected by Damage Reflect"
+                    ]
                 }
             ]
         },

@@ -496,10 +496,24 @@
                     "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/4/4a/Skill_Grand_Guardian.png/revision/latest?cb=20181115065214"],
                     "animations": ["https://media0.giphy.com/media/6P9wXg8Sa4WZ065Fxa/giphy.gif"],
                     "type": "Key-down Attack",
-                    "desc": "When held, deals damage and becomes bigger after some time passes which will increase the attack speed and %Damage ",
+                    "desc": "When held, deals damage and becomes bigger after some time passes which will increase the attack speed and %Damage",
                     "details": [
                         "Consumes %Max HP while casting",
                         "Attack has 100% Ignore DEF and is a guaranteed Critical Hit <ul> <li>Additionally increases your %Damage Reduction while casting (including %Max HP attacks)</li> </ul>"
+                    ]
+                },
+                {
+                    "name": "Mighty Mjolnir",
+                    "shortDesc": "MP Cost: 500, sets 1 enemy as the target and deals 450% damage 6 time(s). Additional Critical Rate: 50%. Tracks down a total of 4 enemies as targets, including the first attack.\\nA shockwave occurs after attacking the tracked target, dealing additional attacks up to 6 enemies, with 500% damage, 9 time(s).\\n1 Hammer will be prepared every 15 sec, and you can hold up to 2.\\nCooldown: 2.5 sec",
+                    "id": 400011072,
+                    "icons": ["https://orangemushroom.files.wordpress.com/2020/06/mighty-mjolnir.png?w=600"],
+                    "animations": ["https://media4.giphy.com/media/RX5OleQKhMVCk6SqTk/giphy.gif"],
+                    "type": "Attack",
+                    "desc": "Throws a mighty hammer that homes towards targets while targeting the enemy with the highest Max HP",
+                    "details": [
+                        "When the hammer hits an enemy, it creates a shockwave that damages nearby enemies",
+                        "You can control the direction of where the hammer is thrown by pressing the Skill Key and any Arrow Key",
+                        "You gain one hammer every 15 secs and can store up to 2 at a time"
                     ]
                 }
             ]

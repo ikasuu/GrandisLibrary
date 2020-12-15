@@ -533,6 +533,19 @@
                         "You cannot be knocked back while casting",
                         "For each <img src='https://vignette.wikia.nocookie.net/maplestory/images/3/31/Skill_Shadower_Instinct.png/revision/latest?cb=20111125122137' alt='Skill Shadower Instinct' /> Body Count gained, the cooldown is decreased slightly"
                     ]
+                },
+                {
+                    "name": "Slash Shadow Formation",
+                    "shortDesc": "MP Cost: 1200, Max Enemies Hit: 6, Damage: 850%, Number of Attacks: 8, allies appear 12 times then the leader appears\\nLeader: Chase Cut Activation: 4, Max Enemies Hit: 8, Damage: 1250%, Number of Attacks: 15\\nCooldown: 90 sec",
+                    "id": 400041042,
+                    "icons": ["https://orangemushroom.files.wordpress.com/2020/06/demon-slashing-shadow-formation.png?w=600"],
+                    "animations": ["https://media4.giphy.com/media/xoVf8yTQGYuZzupwA1/giphy.gif"],
+                    "type": "Attack",
+                    "desc": "Over a few seconds, shadows appear and slashes through enemies around you before dealing a devastating final blow",
+                    "details": [
+                        "When used with <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/1/19/Skill_Assassinate.png/revision/latest?cb=20141205044044' alt='Skill Assassinate'> or <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/6/6d/Skill_Boomerang_Stab.png/revision/latest?cb=20120729122353' alt='Skill Boomerang Stab'>, there is not casting animation and can be used at the same time",
+                        "Unaffected by Damage Reflect and <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/c/ce/Skill_Shadow_Partner.png/revision/latest?cb=20110504073955' alt='Skill Shadow Partner'>"
+                    ]
                 }
             ]
         },
