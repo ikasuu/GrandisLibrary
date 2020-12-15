@@ -128,12 +128,14 @@
                 {
                     "id": 110001510,
                     "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/f/f3/Skill_Critter_Select.png/revision/latest?cb=20140126155035"],
+                    "animations": ["https://media2.giphy.com/media/AXcSprKuKeNk3OwHpB/giphy.gif"],
                     "type": "Special Active",
                     "desc": "Allows you to change between each animal stance"
                 },
                 {
                     "id": 110001514,
                     "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/a/a9/Skill_Homeward_Bound.png/revision/latest?cb=20140126155109"],
+                    "animations": ["https://media1.giphy.com/media/JBCRFF1XsOiU99QssA/giphy.gif"],
                     "type": "Active"
                 },
                 {
@@ -155,14 +157,14 @@
                 {
                     "id": 110001511,
                     "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/3/32/Skill_Maple_Guardian.png/revision/latest?cb=20140217150807"],
-                    "animations": ["https://media0.giphy.com/media/hVxMdGUW6e45ZtiEoB/giphy.gif"],
+                    "animations": ["https://media1.giphy.com/media/JhJzu7Fci6btFAuXKk/giphy.gif"],
                     "type": "Party Buff",
                     "reqLev": 120
                 },
                 {
                     "id": 110001512,
                     "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/9/95/Skill_Beastly_Resolve.png/revision/latest?cb=20140217150915"],
-                    "animations": ["https://media2.giphy.com/media/Zb5MKjbJWC7M79XJj6/giphy.gif"],
+                    "animations": ["https://media2.giphy.com/media/XCa9brFCddpmZfibwo/giphy.gif"],
                     "type": "Buff",
                     "desc": "Removes certain abnormal status effects and become immune to Abnormal Status for a few seconds",
                     "reqLev": 150
@@ -265,7 +267,7 @@
                     {
                         "id": 112001009,
                         "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/e/eb/Skill_Bear_Assault.png/revision/latest?cb=20140214224049"],
-                        "animations": ["https://media2.giphy.com/media/Y2tVJy4zc0055PXqVy/giphy.gif"],
+                        "animations": ["https://media4.giphy.com/media/eRFtZQ6lqd9Zou0iaN/giphy.gif"],
                         "type": "Toggle Buff",
                         "reqLev": "90 + 140 SP"
                     },
@@ -280,7 +282,7 @@
                     {
                         "id": 112000016,
                         "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/8/8d/Skill_Bear_Reborn.png/revision/latest?cb=20140214224050"],
-                        "animations": ["https://media1.giphy.com/media/fTz2WJjNevbzQyGhUb/giphy.gif"],
+                        "animations": ["https://media2.giphy.com/media/yYwqWuAYhkHEQm75nA/giphy.gif"],
                         "type": "Passive Revive",
                         "desc": "When hit by a fatal attack, you will be revived",
                         "details": [
@@ -481,6 +483,9 @@
                         "animations": ["https://media2.giphy.com/media/h2TFMtUBfgqLfWh0H8/giphy.gif"],
                         "type": "Active",
                         "desc": "Increases the jump distance of <img width='32' height='32' class='Skill Guardian Leap' src='https://vignette.wikia.nocookie.net/maplestory/images/2/25/Skill_Guardian_Leap.png/revision/latest?cb=20140126155000' alt='Skill Guardian Leap'> and allows you to jump an extra time",
+                        "details": [
+                            "Can be assigned a Key Slot or activated by pressing jump twice"
+                        ],
                         "reqLev": 30
                     },
                     {
@@ -521,7 +526,7 @@
                     {
                         "id": 112111007,
                         "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/a/ac/Skill_Hawk_Flock.png/revision/latest?cb=20140401051640"],
-                        "animations": ["https://media2.giphy.com/media/SsfwITkwqASjVBf0nz/giphy.gif"],
+                        "animations": ["https://media3.giphy.com/media/3C1ZHpBIdbkyV8lhxJ/giphy.gif"],
                         "type": "Party Buff",
                         "reqLev": "48 + 27 SP"
                     },
@@ -567,7 +572,7 @@
                     {
                         "id": 112111006,
                         "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/7/74/Skill_Raptor_Talons.png/revision/latest?cb=20140401051734"],
-                        "animations": ["https://media1.giphy.com/media/RLQZGBK9hs6lLTOYpU/giphy.gif"],
+                        "animations": ["https://media3.giphy.com/media/lTOZDoTUzVO1SYLonG/giphy.gif"],
                         "type": "Buff",
                         "desc": "Grants flat Magic Attack and causes your attacks to apply a damaging bleeding debuff",
                         "reqLev": "83 + 82 SP"
@@ -583,7 +588,7 @@
                     {
                         "id": 112111009,
                         "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/6/62/Skill_Bird%27s-Eye_View.png/revision/latest?cb=20140401051638"],
-                        "animations": ["https://media1.giphy.com/media/UQn0eMx033bTSAzTPj/giphy.gif"],
+                        "animations": ["https://media1.giphy.com/media/ERTIcOB6qfqumpPbrm/giphy.gif"],
                         "type": "Party Buff",
                         "reqLev": "94 + 126 SP"
                     },
@@ -596,7 +601,7 @@
                     {
                         "id": 112111008,
                         "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/1/12/Skill_Razor_Beak.png/revision/latest?cb=20140401051735"],
-                        "animations": ["https://media0.giphy.com/media/hTOLv3hIDHLNMzE2YT/giphy.gif"],
+                        "animations": ["https://media3.giphy.com/media/NFQKuPQn4IrvNUJZh9/giphy.gif"],
                         "type": "Party Buff",
                         "reqLev": "104 + 145 SP"
                     },
@@ -675,7 +680,7 @@
                     {
                         "id": 112121010,
                         "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/8/84/Skill_Meow_Cure.png/revision/latest?cb=20140403174456"],
-                        "animations": ["https://media1.giphy.com/media/lNQWHB3lIlEC66DEvj/giphy.gif"],
+                        "animations": ["https://media0.giphy.com/media/UAUQfTOOmtjzQBuTut/giphy.gif"],
                         "type": "Party Active",
                         "desc": "Cures party members of Abnormal Statuses",
                         "reqLev": "79 + 70 SP"
@@ -691,7 +696,7 @@
                     {
                         "id": 112121006,
                         "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/8/84/Skill_Meow_Card.png/revision/latest?cb=20140403174538"],
-                        "animations": ["https://media1.giphy.com/media/KCdXa0IdKmJDsyE5QY/giphy.gif"],
+                        "animations": ["https://media2.giphy.com/media/D5gD2rQDHmEOQYcYQL/giphy.gif"],
                         "type": "Party Buff",
                         "desc": "Provides a random buff based on a card chosen",
                         "details": [
@@ -727,7 +732,7 @@
                     {
                         "id": 112121011,
                         "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/6/61/Skill_Meow_Revive.png/revision/latest?cb=20140403174649"],
-                        "animations": ["https://media0.giphy.com/media/fUHFflTtC0JRSKQ1a3/giphy.gif"],
+                        "animations": ["https://media2.giphy.com/media/S8WyeSjOMCIuK3qk1j/giphy.gif"],
                         "type": "Party Revive",
                         "desc": "Revives all KO'd party members within range",
                         "details": [
@@ -841,7 +846,7 @@
                 {
                     "id": 112121056,
                     "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/c/ce/Skill_Team_Roar.png/revision/latest?cb=20140404210641"],
-                    "animations": ["https://media0.giphy.com/media/RJcB3gpaYbaodSKN6x/giphy.gif"],
+                    "animations": ["https://media3.giphy.com/media/pRhbNGAeQY1Mdsd2TS/giphy.gif"],
                     "type": "Buff / Party Buff",
                     "desc": "While active, grants invincibility to yourself and increases %Damage for your party",
                     "reqLev": 140
