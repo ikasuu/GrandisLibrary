@@ -471,6 +471,20 @@
                     "details": [
                         "The barrier has a special resource called 'Elemental'. 1 Elemental is consumed per each 1% Max HP taken as damage while also blocking the attack. Once the barrier reaches 0 Elemental, you will no longer block attacks but the buff will still be active<ul><li>The amount of Elemental that Gale Barrier increases with Skill Level</li></ul>"
                     ]
+                },
+                {
+                    "name": "Vortex Sphere",
+                    "shortDesc": "MP Cost: 750. Creates a Vortex Sphere, which moves on a collision course with the enemy. The sphere periodically attacks up to 10 enemies, for 800% damage, 6 times.\\nCollision occurs up to 20 times for each enemy.\\nCooldown: 35 sec",
+                    "id": 400041037,
+                    "icons": ["https://orangemushroom.files.wordpress.com/2020/07/vortex-sphere.png?w=600"],
+                    "animations": ["https://media3.giphy.com/media/S9CF1G8A8ssxj4yyRN/giphy.gif"],
+                    "type": "Attack",
+                    "desc": "Fires a damaging orb that slowly travels forward while pulling in enemies",
+                    "details": [
+                        "Each enemy can only be hit up to 20 times by the orb",
+                        "Unaffected by Damage Reflect",
+                        "<strong>[Note]</strong>: The actual skill should be green in color instead of blue"
+                    ]
                 }
             ]
         },

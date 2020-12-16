@@ -496,6 +496,20 @@
                         "If there are no enemies marked, the enemy with the highed Max HP will be targeted",
                         "All hits from this skill are critical hits"
                     ]
+                },
+                {
+                    "name": "Rift Break",
+                    "shortDesc": "MP Cost: 1000, Max Enemies Hit: 10, Damage: 800%, Number of Attacks: 7, Max Chase Cut or Teleport: 7\\nCooldown: 30 sec, cooldown is reduced by 3.5 sec per remaining teleports",
+                    "id": 400031028,
+                    "icons": ["https://orangemushroom.files.wordpress.com/2020/06/rift-break.png?w=600"],
+                    "animations": ["https://media2.giphy.com/media/gyZW0xYCyfmnrWLg3O/giphy.gif"],
+                    "type": "Attack",
+                    "desc": "Instantly teleports to enemies and damages surrounding enemies at that location",
+                    "details": [
+                        "Up to 7 teleports will be activated<ul><li>Pressing the Skill Key early will stop the attack and reduce the cooldown based on how many teleports remain</li></ul>",
+                        "You can direct where the teleport will go by using the Arrow Keys<ul><li>Pressing the Down Arrow Key will teleport you to the furthest enemy in range</li></ul>",
+                        "Unaffected by Damage Reflect"
+                    ]
                 }
             ]
         },

@@ -495,6 +495,21 @@
                     "details": [
                         "The trident deals damage as it launches up and after it launches up"
                     ]
+                },
+                {
+                    "name": "Lightning Spear Multistrike",
+                    "shortDesc": "MP Cost: 1000, Duration: 60 sec, Max Combo Attacks: 12\\nCombo Attack: Max Enemies Hit: 4, Damage: 750%, Number of Attacks: 5. When hit, Max Lightnings: 3, Max Enemies Hit: 3, Damage: 1000%, Number of Attacks: 4. Lightning activates in different places.\\nFinal combo attacks up to 7 enemies with 1200% damage 7 times. When hit, activates large lightning that attacks up to 8 eneemies with 1450% damage 6 times\\nCooldown: 120 sec",
+                    "id": 400051044,
+                    "icons": ["https://orangemushroom.files.wordpress.com/2020/06/spear-lightning-chain.png?w=600"],
+                    "animations": ["https://media4.giphy.com/media/VdStVzbYIK5yp4dcUx/giphy.gif"],
+                    "type": "Attack",
+                    "desc": "Strikes violently around you and causes lightning to strike from above",
+                    "details": [
+                        "Can be linked with all skills except <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/3/33/Skill_Thunder.png/revision/latest?cb=20130122080037' alt='Skill Thunder'>",
+                        "Can be used up to 12 times before going on cooldown",
+                        "The final strike deals increased %Damage",
+                        "Unaffected by Damage Reflect"
+                    ]
                 }
             ]
         },

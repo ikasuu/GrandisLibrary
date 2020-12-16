@@ -565,7 +565,7 @@
                 },
                 {
                     "name": "Death Trigger",
-                    "shortDesc": "MP Cost: 750. Fires up to 7 shots, which attack up to 7 enemies with 1150% damage 11 time(s).\\ncooldown: 45 sec",
+                    "shortDesc": "MP Cost: 750. Fires up to 7 shots, which attack up to 7 enemies with 1150% damage 11 time(s).\\nCooldown: 45 sec",
                     "id": 400051040,
                     "icons": ["https://orangemushroom.files.wordpress.com/2020/06/death-trigger.png?w=600"],
                     "animations": ["https://media1.giphy.com/media/MQPJkGiM0cPRcIieea/giphy.gif"],

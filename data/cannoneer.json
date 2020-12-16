@@ -502,7 +502,7 @@
                 },
                 {
                     "name": "Poolmaker",
-                    "shortDesc": "MP Cost: 1000. Strikes that attack up to 8 enemies for 1400% damage, 3 time(s), occur 20 time(s) each.\\nSupply: Duration: 20 sec. When used, you'll gain a +27% damage increase buff, with a duration of 20, sec after recovering 17% of max HP. Only up to 2 supplies can exist on the map at a time.\\nCooldown: 60 sec",
+                    "shortDesc": "MP Cost: 1000. Strikes that attack up to 8 enemies for 1400% damage, 3 time(s), occur 20 time(s) each.\\nSupply: Duration: 20 sec. When used, you'll gain a +27% damage increase buff, with a duration of 20 sec after recovering 17% of max HP. Only up to 2 supplies can exist on the map at a time.\\nCooldown: 60 sec",
                     "id": 400051038,
                     "icons": ["https://orangemushroom.files.wordpress.com/2020/06/pool-maker.png?w=600"],
                     "animations": ["https://media1.giphy.com/media/imkTUMhENgwTTWWXqD/giphy.gif"],
