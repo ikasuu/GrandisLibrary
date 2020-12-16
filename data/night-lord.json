@@ -79,7 +79,7 @@
                 ["4th Job", "<img src='https://vignette.wikia.nocookie.net/maplestory/images/a/ab/Skill_Night_Lord%27s_Mark.png/revision/latest?cb=20140416115641' alt='Skill Night Lord' width='32' height='32' /> -> <img src='https://vignette.wikia.nocookie.net/maplestory/images/9/90/Skill_Claw_Expert.png/revision/latest?cb=20111125110117' alt='Skill Claw Expert' width='32' height='32' /> -> <img src='https://vignette.wikia.nocookie.net/maplestory/images/d/da/Skill_Showdown.png/revision/latest?cb=20140416120248' alt='Skill Showdown' width='32' height='32' /> -> <img src='https://vignette.wikia.nocookie.net/maplestory/images/4/4a/Skill_Shadow_Shifter.png/revision/latest?cb=20110504131514' alt='Skill Shadow Shifter' width='33' height='33' /> -> <img src='https://vignette.wikia.nocookie.net/maplestory/images/0/02/Skill_Dark_Harmony.png/revision/latest?cb=20160709065939' alt='Skill Dark Harmony' width='32' height='32' /> -> <img src='https://vignette.wikia.nocookie.net/maplestory/images/0/06/Skill_Toxic_Venom_%28Night_Lord%29.png/revision/latest?cb=20111125110107' alt='Skill Toxic Venom (Night Lord)' width='32' height='33' /> -> <img src='https://vignette.wikia.nocookie.net/maplestory/images/a/a1/Skill_Maple_Warrior.png/revision/latest?cb=20100602085809' alt='Skill Maple Warrior' width='32' height='32' /> -> <img src='https://vignette.wikia.nocookie.net/maplestory/images/c/c9/Skill_Sudden_Raid.png/revision/latest?cb=20111125110226' alt='Skill Sudden Raid' width='32' height='32' /> -> <img src='https://vignette.wikia.nocookie.net/maplestory/images/7/74/Skill_Quad_Star_%28Night_Lord%29.png/revision/latest?cb=20111125110124' alt='Skill Quad Star (Night Lord)' width='32' height='32' /> -> <img src='https://vignette.wikia.nocookie.net/maplestory/images/3/35/Skill_Frailty_Curse.png/revision/latest?cb=20111125110214' alt='Skill Frailty Curse' width='32' height='32' /> -> <img src='https://vignette.wikia.nocookie.net/maplestory/images/3/30/Skill_Hero%27s_Will.png/revision/latest?cb=20100602090848' alt='Skill Hero' width='32' height='32' />"]
             ],
             "details": [
-                "Put one SP into each skill first",
+                "Put one SP into each skill first and then max each skill in this order",
                 "For any skills that have prerequisites, follow them first before following build path",
                 "4th Job skills require <img src='https://static.wikia.nocookie.net/maplestory/images/8/8d/Use_Mastery_Book_20.png' alt='Use Mastery Book 20.png' width='32' height='29' /><img src='https://static.wikia.nocookie.net/maplestory/images/e/e1/Use_Mastery_Book_30.png' alt='Use Mastery Book 30.png' width='32' height='29' /> Mastery Books to reach Master Level"
             ]
@@ -99,7 +99,7 @@
             ["Skill Icons", "MapleWikia"],
             ["Skill Animations", "Ikasuu"],
             ["Boost Nodes Build", "ballistictiger"],
-            ["Common 5th Job Skills Animations", "OrangeMushroom"]
+            ["5th Job Skills Animations", "KyoWantsCute"]
         ],
         "extraContent": {
             "title": "Dark Sight",

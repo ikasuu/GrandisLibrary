@@ -78,7 +78,7 @@
                 ["4th Job", "<img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/b/bb/Skill_Equinox_Cycle.png/revision/latest?cb=20130411163314' alt='Skill Equinox Cycle'> -> <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/0/0b/Skill_Unpredictable.png/revision/latest?cb=20130411163330' alt='Skill Unpredictable'> -> <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/e/e2/Skill_Master_of_the_Sword.png/revision/latest?cb=20130411163337' alt='Skill Master of the Sword'> -> <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/9/93/Skill_Student_of_the_Blade.png/revision/latest?cb=20130411163324' alt='Skill Student of the Blade'> -> <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/6/67/Skill_Soul_Pledge.png/revision/latest?cb=20160627044655' alt='Skill Soul Pledge'> -> <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/f/fa/Skill_Solar_Pierce.png/revision/latest?cb=20130411163117' alt='Skill Solar Pierce'> -> <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/7/79/Skill_Speeding_Sunset.png/revision/latest?cb=20130411163057' alt='Skill Speeding Sunset'> -> <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/8/87/Skill_Call_of_Cygnus.png/revision/latest?cb=20130210014951' alt='Skill Call of Cygnus'> -> <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/3/3f/Skill_Impaling_Rays.png/revision/latest?cb=20130411163121' alt='Skill Impaling Rays'>"]
             ],
             "details": [
-                "Put one SP into each skill first",
+                "Put one SP into each skill first and then max each skill in this order",
                 "For any skills that have prerequisites, follow them first before following build path",
                 "To obtain <img src='https://vignette.wikia.nocookie.net/maplestory/images/8/87/Skill_Call_of_Cygnus.png/revision/latest?cb=20130210014951' alt='Skill Call of Cygnus'/> Call of Cygnus, you need to complete a series of quests in 4th Job"
             ]
@@ -100,7 +100,7 @@
             ["Skill Animations", "Ikasuu"],
             ["Hyper Passive Build + Pros and Cons","raviddog"],
             ["Boost Nodes Build","moosical"],
-            ["Common 5th Job Skills Animation", "OrangeMushroom"]
+            ["5th Job Skills Animations", "KyoWantsCute"]
         ],
         "extraContent": {
             "title": "Combat Stances",
@@ -468,7 +468,7 @@
                 {
                     "id": 11121052,
                     "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/b/b7/Skill_Styx_Crossing.png/revision/latest?cb=20130411164238"],
-                    "animations": ["https://orangemushroom.files.wordpress.com/2013/04/the-ultimate-strongest-skill.gif?w=600"],
+                    "animations": ["https://media2.giphy.com/media/wgH7tmNZUQScPtMdO6/giphy.gif"],
                     "type": "Key-down Attack",
                     "desc": "Charge up and release a devastating strike in front of you",
                     "details": [
@@ -562,7 +562,7 @@
             {
                 "name": "Styx Crossing - 4th Job",
                 "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/b/b7/Skill_Styx_Crossing.png/revision/latest?cb=20130411164238"],
-                "animations": ["https://orangemushroom.files.wordpress.com/2013/04/the-ultimate-strongest-skill.gif?w=600"]
+                "animations": ["https://media2.giphy.com/media/wgH7tmNZUQScPtMdO6/giphy.gif"]
             },
             {
                 "name": "Celestial Dance - 5th Job",

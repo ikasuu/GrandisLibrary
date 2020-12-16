@@ -77,7 +77,7 @@
                 ["4th Job", "<img src='https://vignette.wikia.nocookie.net/maplestory/images/1/12/Skill_Barricade_Mastery_%28Dark_Knight%29.png/revision/latest?cb=20130706031857' alt='Skill Barricade Mastery (Dark Knight)' width='32' height='32' /> -> <img src='https://vignette.wikia.nocookie.net/maplestory/images/1/16/Skill_Final_Pact.png/revision/latest?cb=20130706031852' alt='Skill Final Pact' width='32' height='32' /> -> <img src='https://vignette.wikia.nocookie.net/maplestory/images/3/34/Skill_Dark_Impale.png/revision/latest?cb=20110422073014' alt='Skill Dark Impale' width='32' height='32' /> -> <img src='https://vignette.wikia.nocookie.net/maplestory/images/6/6e/Skill_Power_Stance_%28Warrior%29.png/revision/latest?cb=20130705121921' alt='Skill Power Stance (Warrior)' width='32' height='32' /> -> <img src='https://vignette.wikia.nocookie.net/maplestory/images/a/a1/Skill_Maple_Warrior.png/revision/latest?cb=20100602085809' alt='Skill Maple Warrior' width='32' height='32' /> -> <img src='https://vignette.wikia.nocookie.net/maplestory/images/f/fb/Skill_Magic_Crash_%28Warrior%29.png/revision/latest?cb=20130705121916' alt='Skill Magic Crash (Warrior)' width='32' height='32' /> -> <img src='https://vignette.wikia.nocookie.net/maplestory/images/e/ea/Skill_Sacrifice.png/revision/latest?cb=20130706031844' alt='Skill Sacrifice' width='32' height='32' /> -> <img src='https://vignette.wikia.nocookie.net/maplestory/images/7/70/Skill_Gungnir%27s_Descent.png/revision/latest?cb=20130706031829' alt='Skill Gungnir' width='32' height='32' /> -> <img src='https://vignette.wikia.nocookie.net/maplestory/images/1/18/Skill_Revenge_of_the_Evil_Eye.png/revision/latest?cb=20110422073005' alt='Skill Revenge of the Evil Eye' width='32' height='32' /> -> <img src='https://vignette.wikia.nocookie.net/maplestory/images/3/30/Skill_Hero%27s_Will.png/revision/latest?cb=20100602090848' alt='Skill Hero' width='32' height='32' />"]
             ],
             "details": [
-                "Put one SP into each skill first",
+                "Put one SP into each skill first and then max each skill in this order",
                 "For any skills that have prerequisites, follow them first before following build path",
                 "4th Job skills require <img src='https://static.wikia.nocookie.net/maplestory/images/8/8d/Use_Mastery_Book_20.png' alt='Use Mastery Book 20.png' width='32' height='29' /><img src='https://static.wikia.nocookie.net/maplestory/images/e/e1/Use_Mastery_Book_30.png' alt='Use Mastery Book 30.png' width='32' height='29' /> Mastery Books to reach Master Level"
             ]
@@ -97,7 +97,6 @@
         "credits": [
             ["Skill Icons", "MapleWikia"],
             ["Hyper Passive Build","Enbon"],
-            ["Common 5th Job Skill Animations", "OrangeMushroom"],
             ["5th Job Skill Animation", "KyoWantsCute"]
         ]
     },
@@ -470,7 +469,7 @@
                     "shortDesc": "MP Cost: 1000, Evil Eye appears in front of you, attacking up to 10 enemies 2 times, dealing 375% damage for 3 sec.\\nCooldown: 20 sec",
                     "id": 400011054,
                     "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/8/8e/Skill_Radiant_Evil.png/revision/latest?cb=20170609033041"],
-                    "animations": ["https://orangemushroom.files.wordpress.com/2016/12/beholder-impact-effect1.gif"],
+                    "animations": ["https://media3.giphy.com/media/vzkRfpmEWmaAKHPC9M/giphy.gif"],
                     "type": "Evil Eye Summon",
                     "desc": "<img src='https://vignette.wikia.nocookie.net/maplestory/images/a/a1/Skill_Evil_Eye.png/revision/latest?cb=20130705103844' alt='Skill Evil Eye' width='32' height='32' /> transforms into a giant version that pulsates, damaging nearby enemies",
                     "details": [
@@ -514,6 +513,11 @@
                 "animations": ["https://media3.giphy.com/media/ywcuqxvB8ccQLw5r9i/giphy.gif"]
             },
             {
+                "name": "La Mancha Spear - 3rd Job",
+                "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/5/52/Skill_La_Mancha_Spear.png/revision/latest?cb=20130705114418"],
+                "animations": ["https://media3.giphy.com/media/lSE0ol4bO6Fk83db3d/giphy.gif"]
+            },
+            {
                 "name": "Gungnir's Descent - 4th Job",
                 "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/7/70/Skill_Gungnir%27s_Descent.png/revision/latest?cb=20130706031829"],
                 "animations": ["https://orangemushroom.files.wordpress.com/2013/07/gungnir-descent-effect.gif"]
@@ -531,7 +535,7 @@
             {
                 "name": "Radiant Evil - 5th Job",
                 "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/8/8e/Skill_Radiant_Evil.png/revision/latest?cb=20170609033041"],
-                "animations": ["https://orangemushroom.files.wordpress.com/2016/12/beholder-impact-effect1.gif"]
+                "animations": ["https://media3.giphy.com/media/vzkRfpmEWmaAKHPC9M/giphy.gif"]
             },
             {
                 "name": "Calamitous Cyclone - 5th Job",

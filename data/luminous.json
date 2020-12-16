@@ -64,7 +64,7 @@
                 ["4th Job", "<img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/8/86/Skill_Darkness_Mastery.png/revision/latest?cb=20120624201244' alt='Skill Darkness Mastery'> -> <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/e/e2/Skill_Magic_Mastery_%28Luminous%29.png/revision/latest?cb=20120624201105' alt='Skill Magic Mastery (Luminous)'> -> <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/b/bc/Skill_Arcane_Pitch.png/revision/latest?cb=20120624200932' alt='Skill Arcane Pitch'> -> <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/1/1d/Skill_Dark_Crescendo.png/revision/latest?cb=20120624200818' alt='Skill Dark Crescendo'> -> <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/a/a1/Skill_Maple_Warrior.png/revision/latest?cb=20100602085809' alt='Skill Maple Warrior'> -> <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/e/e5/Skill_Reflection.png/revision/latest?cb=20120624200131' alt='Skill Reflection'> -> <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/2/2c/Skill_Apocalypse.png/revision/latest?cb=20120624200409' alt='Skill Apocalypse'> -> <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/4/43/Skill_Ender.png/revision/latest?cb=20120624200643' alt='Skill Ender'> -> <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/0/03/Skill_Morning_Star.png/revision/latest?cb=20120624200226' alt='Skill Morning Star'> -> <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/3/30/Skill_Hero%27s_Will.png/revision/latest?cb=20100602090848' alt='Skill Hero's Will'>"]
             ],
             "details": [
-                "Put one SP into each skill first",
+                "Put one SP into each skill first and then max each skill in this order",
                 "For any skills that have prerequisites, follow them first before following build path",
                 "4th Job skills require <img src='https://static.wikia.nocookie.net/maplestory/images/8/8d/Use_Mastery_Book_20.png' alt='Use Mastery Book 20.png' width='32' height='29' /><img src='https://static.wikia.nocookie.net/maplestory/images/e/e1/Use_Mastery_Book_30.png' alt='Use Mastery Book 30.png' width='32' height='29' /> Mastery Books to reach Master Level 20 &amp; 30"
             ]
@@ -83,9 +83,8 @@
         "credits": [
             ["Skill Icons", "MapleWiki"],
             ["Skill Animations", "Ikasuu"],
-            ["Hyper Passive Build", "KyoWantsCute"],
-            ["Boost Nodes Build", "maplefinale"],
-            ["Common 5th Job Skills Animation", "OrangeMushroom"]
+            ["Hyper Passive Build + 5th Job Skills Animations", "KyoWantsCute"],
+            ["Boost Nodes Build", "maplefinale"]
         ],
         "extraContent": {
             "title": "Equilibrium",

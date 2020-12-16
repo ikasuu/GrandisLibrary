@@ -70,7 +70,7 @@
                 ["4th Job", "<img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/9/90/Skill_Dragon%27s_Eye.png/revision/latest?cb=20200121135758' alt='Skill Dragon's Eye'> -> <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/e/ec/Skill_Enlightenment.png/revision/latest?cb=20200125205000' alt='Skill Enlightenment'> -> <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/f/f7/Skill_Advanced_Ritual_Fan_Mastery.png/revision/latest?cb=20200209073626' alt='Skill Advanced Ritual Fan Mastery'> -> <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/c/c0/Skill_Anima_Warrior.png/revision/latest?cb=20200209075005' alt='Skill Anima Warrior'> -> <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/e/ea/Skill_Humanity_Gold-Banded_Cudgel.png/revision/latest?cb=20200209075730' alt='Skill Humanity Gold-Banded Cudgel'> -> <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/1/1e/Skill_Heaven_Consuming_Flames.png/revision/latest?cb=20191122144051' alt='Skill Heaven Consuming Flames'> -> <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/2/26/Skill_Talisman_Warp_Gate.png/revision/latest?cb=20200209075700' alt='Skill Talisman Warp Gate'> -> <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/e/e9/Skill_Thousand-Ton_Stone.png/revision/latest?cb=20200209075714' alt='Skill Thousand-Ton Stone'> -> <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/8/80/Skill_Scroll_Butterfly_Dream.png/revision/latest?cb=20200209075543' alt='Skill Scroll Butterfly Dream'> -> <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/5/5e/Skill_Scroll_Star_Vortex.png/revision/latest?cb=20200209075612' alt='Skill Scroll Star Vortex'> -> <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/e/e1/Skill_Anima_Hero%27s_Will.png/revision/latest?cb=20200121141511' alt='Skill Anima Hero's Will'>"]
             ],
             "details": [
-                "Put one SP into each skill first",
+                "Put one SP into each skill first and then max each skill in this order",
                 "For any skills that have prerequisites, follow them first before following build path",
                 "4th Job skills require <img src='https://static.wikia.nocookie.net/maplestory/images/8/8d/Use_Mastery_Book_20.png' alt='Use Mastery Book 20.png' width='32' height='29' /><img src='https://static.wikia.nocookie.net/maplestory/images/e/e1/Use_Mastery_Book_30.png' alt='Use Mastery Book 30.png' width='32' height='29' /> Mastery Books to reach Master Level"
             ]
@@ -89,8 +89,7 @@
         "credits": [
             ["Skill Icons", "OrangeMushroom"],
             ["Skill Animations", "Ikasuu"],
-            ["Hyper Passive Build + Boost Nodes Build", "iSlingGunz"],
-            ["Common 5th Job Skills Animations", "OrangeMushroom"]
+            ["Hyper Passive Build + Boost Nodes Build", "iSlingGunz"]
         ],
         "extraContent": {
             "title": "Talisman Energy and Scroll Energy",
@@ -559,7 +558,7 @@
                     "shortDesc": "MP Cost: 1000, For 30 sec, create 12 clone(s) when attacking, Each clone attacks for 800%p more damage than Talisman: Clone 2 times\\nClone creation has a 1.5 sec cooldown\\nCooldown: 200 sec",
                     "id": 400021002,
                     "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/0/0e/Skill_Sage_Clone_Rampage.png/revision/latest?cb=20200209184816"],
-                    "animations": ["https://orangemushroom.files.wordpress.com/2019/07/sage-teachings-hyper-clone-rampage-effect.gif?w=600"],
+                    "animations": ["https://media1.giphy.com/media/Ey543LglFZoALsYdv8/giphy.gif"],
                     "type": "Buff Attack",
                     "desc": "Can only be used while <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/e/e4/Skill_Talisman_Clone.png/revision/latest?cb=20191120081044' alt='Skill Talisman Clone'> is active. While <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/0/0e/Skill_Sage_Clone_Rampage.png/revision/latest?cb=20200209184816' alt='Skill Sage Clone Rampage'> is active, the number of clones created is increased and are more powerful"
                 },
@@ -568,7 +567,7 @@
                     "shortDesc": "Scroll Energy Cost: 900, Duration: 57 sec, Max Enemies Hit: 12, Damage: 1800%, Number of Attacks: 8\\nWhen you reach attribute combo stage 3, its next attack is a roar that periodically deals 700% damage 4 times.\\nTiger's attacks have a cooldown of 3 sec\\nCooldown: 200 sec",
                     "id": 400021030,
                     "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/6/6c/Skill_Scroll_Tiger_of_Songyu.png/revision/latest?cb=20200209184922"],
-                    "animations": ["https://orangemushroom.files.wordpress.com/2019/07/scroll-summon-mountain-spirit-effect-3.gif?w=1000&h=", "https://orangemushroom.files.wordpress.com/2019/07/scroll-summon-mountain-spirit-effect-4.gif?w=1000&h="],
+                    "animations": ["https://media2.giphy.com/media/W39BGDj6NNCyc2QraB/giphy.gif"],
                     "type": "Scroll Summon",
                     "desc": "Summons a tiger that attacks nearby enemies",
                     "details": [
@@ -581,7 +580,7 @@
                     "shortDesc": "MP Cost: 1000, Duration: 30 sec, Damage: +70%\\nThe gods strike once per 12 successful attacks, hitting up to 10 enemies for 1700% damage 8 times, Cooldown: 1.5 sec\\nUsing the skill again will immediately end its effects and summon the gods at once, creating 6 shockwave(s) that attacks up to 15 enemies for 2000% damage 12 times.\\nYou are invincible while summoning the gods. It negates attack ignore and attack reflection effects.\\nCooldown: 200 sec",
                     "id": 400021067,
                     "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/b/b3/Skill_Sage_Wrath_of_Gods.png/revision/latest?cb=20200209184818"],
-                    "animations": ["https://orangemushroom.files.wordpress.com/2019/07/coming-of-the-superpowered-gods-effect-5.gif?w=1000&h="],
+                    "animations": ["https://media3.giphy.com/media/va9ESeq0IsDLyZVXZV/giphy.gif"],
                     "type": "Summon",
                     "desc": "Summons giant gods that periodically attacks enemies",
                     "details": [
@@ -637,7 +636,7 @@
             {
                 "name": "Scroll: Tiger of Songyu - 5th Job",
                 "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/6/6c/Skill_Scroll_Tiger_of_Songyu.png/revision/latest?cb=20200209184922"],
-                "animations": ["https://orangemushroom.files.wordpress.com/2019/07/scroll-summon-mountain-spirit-effect-3.gif?w=1000&h="]
+                "animations": ["https://media2.giphy.com/media/W39BGDj6NNCyc2QraB/giphy.gif"]
             }
         ]
     },

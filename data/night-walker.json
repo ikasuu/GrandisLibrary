@@ -76,7 +76,7 @@
                 ["4th Job", "<img src='https://vignette.wikia.nocookie.net/maplestory/images/b/b4/Skill_Vitality_Siphon.png/revision/latest?cb=20181214202415' alt='Skill Vitality Siphon' width='32' height='32' /> -> <img src='https://vignette.wikia.nocookie.net/maplestory/images/8/8d/Skill_Adaptive_Darkness_III.png/revision/latest?cb=20141101231528' alt='Skill Adaptive Darkness III' width='32' height='32' /> -> <img src='https://vignette.wikia.nocookie.net/maplestory/images/9/90/Skill_Claw_Expert.png/revision/latest?cb=20111125110117' alt='Skill Claw Expert' width='32' height='32' /> -> <img src='https://vignette.wikia.nocookie.net/maplestory/images/a/af/Skill_Bat_Affinity_III.png/revision/latest?cb=20141026181252' alt='Skill Bat Affinity III' width='32' height='32' /> -> <img src='https://vignette.wikia.nocookie.net/maplestory/images/7/7e/Skill_Shadow_Slip.png/revision/latest?cb=20141101231547' alt='Skill Shadow Slip' width='32' height='32' /> ->  <img src='https://vignette.wikia.nocookie.net/maplestory/images/8/87/Skill_Call_of_Cygnus.png/revision/latest?cb=20130210014951' alt='Skill Call of Cygnus' width='32' height='32' /> -> <img src='https://vignette.wikia.nocookie.net/maplestory/images/1/1d/Skill_Dark_Blessing.png/revision/latest?cb=20141101231515' alt='Skill Dark Blessing' width='32' height='32' /> -> <img src='https://vignette.wikia.nocookie.net/maplestory/images/1/13/Skill_Shadow_Stitch.png/revision/latest?cb=20141101231511' alt='Skill Shadow Stitch' width='32' height='32' /> -> <img src='https://vignette.wikia.nocookie.net/maplestory/images/8/8d/Skill_Dark_Omen.png/revision/latest?cb=20141101231446' alt='Skill Dark Omen' width='32' height='32' /> -> <img src='https://vignette.wikia.nocookie.net/maplestory/images/8/86/Skill_Quintuple_Star.png/revision/latest?cb=20141101231438' alt='Skill Quintuple Star' width='32' height='32' />"]
             ],
             "details": [
-                "Put one SP into each skill first",
+                "Put one SP into each skill first and then max each skill in this order",
                 "For any skills that have prerequisites, follow them first before following build path",
                 "To obtain <img src='https://vignette.wikia.nocookie.net/maplestory/images/8/87/Skill_Call_of_Cygnus.png/revision/latest?cb=20130210014951' alt='Skill Call of Cygnus'/> Call of Cygnus, you need to complete a series of quests in 4th Job"
             ]
@@ -93,10 +93,11 @@
             "https://maplestory.fandom.com/wiki/Night_Walker"
         ],
         "credits": [
-            ["Skill Icons", "MapleWiki"],
+            ["Skill Icons + Attribute Info", "MapleWiki"],
+            ["Skill Animations", "Ikasuu"],
             ["Hyper Passive Build", "Scaraset"],
             ["Boost Nodes Build","Knofbath"],
-            ["Skill Animations", "OrangeMushroom"]
+            ["5th Job Skills Animations", "KyoWantsCute"]
         ],
         "extraContent": {
             "title": "Dark Sight + Dark Attribute & Throwing Star Attacks",
@@ -200,7 +201,7 @@
                     {
                         "id": 14001027,
                         "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/b/be/Skill_Shadow_Bat.png/revision/latest?cb=20160107224744"],
-                        "animations": ["https://orangemushroom.files.wordpress.com/2014/05/shadow-bats-effect.gif?w=600"],
+                        "animations": ["https://media1.giphy.com/media/4cI1TzquDNwE7BR9Aw/giphy.gif"],
                         "type": "Toggle Attack",
                         "desc": "When toggled, a Shadow Bat is summoned every 3 times you hit an enemy with a Throwing Star skill (up to 2 Shadow Bats). When a Shadow Bat is active, Throwing Star skills have a chance to trigger the Shadow Bat to seek and attack an enemy",
                         "details": [
@@ -280,7 +281,7 @@
                     {
                         "id": 14111022,
                         "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/3/31/Skill_Shadow_Spark.png/revision/latest?cb=20141031031951"],
-                        "animations": ["https://orangemushroom.files.wordpress.com/2014/05/stardust-effect.gif?w=600"],
+                        "animations": ["https://media4.giphy.com/media/uVOe5G2mO0kJANOjM4/giphy.gif"],
                         "type": "Attack",
                         "desc": "Throws a Throwing Star that pierces through enemies before exploding"
                     },
@@ -370,7 +371,7 @@
                 {
                     "id": 14121003,
                     "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/8/8d/Skill_Dark_Omen.png/revision/latest?cb=20141101231446"],
-                    "animations": ["https://orangemushroom.files.wordpress.com/2014/05/darkness-omen-effect.gif?w=600"],
+                    "animations": ["https://media1.giphy.com/media/c6xCNDd5U0onabCCUt/giphy.gif"],
                     "type": "Summon",
                     "desc": "Summons a stationary pack of bats that attack enemies in an area",
                     "details": [
@@ -381,7 +382,7 @@
                 {
                     "id": 14121004,
                     "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/1/13/Skill_Shadow_Stitch.png/revision/latest?cb=20141101231511"],
-                    "animations": ["https://orangemushroom.files.wordpress.com/2014/05/shadow-stitch-effect.gif?w=600"],
+                    "animations": ["https://media4.giphy.com/media/YfFAVXTdNVel2fxE7N/giphy.gif"],
                     "type": "Key-down Bind Attack",
                     "desc": "While holding down the skill, you extend a creeping shadow that binds enemies when released",
                     "details": [
@@ -504,7 +505,7 @@
                 {
                     "id": 14121052,
                     "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/2/24/Skill_Dominion.png/revision/latest?cb=20141101231709"],
-                    "animations": ["https://orangemushroom.files.wordpress.com/2014/05/dominion-effect.gif?w=600"],
+                    "animations": ["https://media0.giphy.com/media/DsTW08naOQkF6sRiqU/giphy.gif"],
                     "type": "Attack",
                     "desc": "Unleash a dark attack that leaves the map in a stasis",
                     "details": [
@@ -584,12 +585,12 @@
             {
                 "name": "Shadow Bat - 1st Job",
                 "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/b/be/Skill_Shadow_Bat.png/revision/latest?cb=20160107224744"],
-                "animations": ["https://orangemushroom.files.wordpress.com/2014/05/shadow-bats-effect.gif?w=600"]
+                "animations": ["https://media1.giphy.com/media/4cI1TzquDNwE7BR9Aw/giphy.gif"]
             },
             {
                 "name": "Shadow Spark - 3rd Job",
                 "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/3/31/Skill_Shadow_Spark.png/revision/latest?cb=20141031031951"],
-                "animations": ["https://orangemushroom.files.wordpress.com/2014/05/stardust-effect.gif?w=600"]
+                "animations": ["https://media4.giphy.com/media/uVOe5G2mO0kJANOjM4/giphy.gif"]
             },
             {
                 "name": "Quintuple Star - 4th Job",
@@ -599,12 +600,17 @@
             {
                 "name": "Dark Omen - 4th Job",
                 "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/8/8d/Skill_Dark_Omen.png/revision/latest?cb=20141101231446"],
-                "animations": ["https://orangemushroom.files.wordpress.com/2014/05/darkness-omen-effect.gif?w=600"]
+                "animations": ["https://media1.giphy.com/media/c6xCNDd5U0onabCCUt/giphy.gif"]
             },
             {
                 "name": "Dominion - Hyper Skill",
                 "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/2/24/Skill_Dominion.png/revision/latest?cb=20141101231709"],
-                "animations": ["https://orangemushroom.files.wordpress.com/2014/05/dominion-effect.gif?w=600"]
+                "animations": ["https://media0.giphy.com/media/DsTW08naOQkF6sRiqU/giphy.gif"]
+            },
+            {
+                "name": "Shadow Spear - 5th Job",
+                "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/b/bd/Skill_Shadow_Spear.png/revision/latest?cb=20161125062714"],
+                "animations": ["https://media1.giphy.com/media/RGWR5FZqe7MVfGvAMW/giphy.gif"]
             },
             {
                 "name": "Shadow Bite - 5th Job",

@@ -79,7 +79,7 @@
                 ["4th Job", "<img src='https://vignette.wikia.nocookie.net/maplestory/images/8/89/Skill_Double_Down.png/revision/latest?cb=20110608083818' alt='Skill Double Down' width='32' height='32' /> -> <img src='https://vignette.wikia.nocookie.net/maplestory/images/7/76/Skill_Cannon_Overload.png/revision/latest?cb=20110608083829' alt='Skill Cannon Overload' width='32' height='32' /> -> <img src='https://vignette.wikia.nocookie.net/maplestory/images/8/85/Skill_Cannon_Bazooka.png/revision/latest?cb=20140414051134' alt='Skill Cannon Bazooka' width='32' height='32' /> -> <img src='https://vignette.wikia.nocookie.net/maplestory/images/a/a1/Skill_Maple_Warrior.png/revision/latest?cb=20100602085809' alt='Skill Maple Warrior' width='32' height='32' /> -> <img src='https://vignette.wikia.nocookie.net/maplestory/images/6/6a/Skill_Pirate%27s_Spirit.png/revision/latest?cb=20111026083917' alt='Skill Pirate' width='32' height='32' /> -> <img src='https://vignette.wikia.nocookie.net/maplestory/images/0/03/Skill_Mega_Monkey_Magic.png/revision/latest?cb=20110608083824' alt='Skill Mega Monkey Magic' width='32' height='32' /> -> <img src='https://vignette.wikia.nocookie.net/maplestory/images/c/c9/Skill_Nautilus_Strike.png/revision/latest?cb=20110608083744' alt='Skill Nautilus Strike' width='32' height='32' /> -> <img src='https://vignette.wikia.nocookie.net/maplestory/images/2/2a/Skill_Monkey_Militia.png/revision/latest?cb=20110608083752' alt='Skill Monkey Militia' width='32' height='32' /> -> <img src='https://vignette.wikia.nocookie.net/maplestory/images/4/40/Skill_Anchors_Aweigh.png/revision/latest?cb=20110608083748' alt='Skill Anchors Aweigh' width='32' height='32' /> -> <img src='https://vignette.wikia.nocookie.net/maplestory/images/1/1d/Skill_Cannon_Barrage.png/revision/latest?cb=20140414051046' alt='Skill Cannon Barrage' width='32' height='32' /> -> <img src='https://vignette.wikia.nocookie.net/maplestory/images/3/30/Skill_Hero%27s_Will.png/revision/latest?cb=20100602090848' alt='Skill Hero' width='32' height='32' />"]
             ],
             "details": [
-                "Put one SP into each skill first",
+                "Put one SP into each skill first and then max each skill in this order",
                 "For any skills that have prerequisites, follow them first before following build path",
                 "4th Job skills require <img src='https://static.wikia.nocookie.net/maplestory/images/8/8d/Use_Mastery_Book_20.png' alt='Use Mastery Book 20.png' width='32' height='29' /><img src='https://static.wikia.nocookie.net/maplestory/images/e/e1/Use_Mastery_Book_30.png' alt='Use Mastery Book 30.png' width='32' height='29' /> Mastery Books to reach Master Level 20 &amp; 30"
             ]
@@ -98,8 +98,7 @@
         "credits": [
             ["Skill Icons", "MapleWiki"],
             ["Skill Animations", "Ikasuu"],
-            ["Boost Nodes Build", "joshato, omgwtfhax_, and Pizza"],
-            ["Common 5th Job Skills Animation", "OrangeMushroom"]
+            ["Boost Nodes Build", "joshato, omgwtfhax_, and Pizza"]
         ]
     },
     "skill": {

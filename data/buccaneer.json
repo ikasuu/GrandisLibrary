@@ -79,7 +79,7 @@
                 ["4th Job", "<img src='https://vignette.wikia.nocookie.net/maplestory/images/8/89/Skill_Double_Down.png/revision/latest?cb=20110608083818' alt='Skill Double Down' width='32' height='32' /> -> <img src='https://vignette.wikia.nocookie.net/maplestory/images/4/4c/Skill_Pirate%27s_Revenge.png/revision/latest?cb=20110508020052' alt='Skill Pirate' width='32' height='32' /> -> <img src='https://vignette.wikia.nocookie.net/maplestory/images/b/b6/Skill_Typhoon_Crush.png/revision/latest?cb=20111221151841' alt='Skill Typhoon Crush' width='32' height='32' /> -> <img src='https://vignette.wikia.nocookie.net/maplestory/images/b/b2/Skill_Buccaneer_Blast.png/revision/latest?cb=20111221151748' alt='Skill Buccaneer Blast' width='32' height='32' /> -> <img src='https://vignette.wikia.nocookie.net/maplestory/images/a/a1/Skill_Maple_Warrior.png/revision/latest?cb=20100602085809' alt='Skill Maple Warrior' width='32' height='32' /> -> <img src='https://vignette.wikia.nocookie.net/maplestory/images/e/e1/Skill_Speed_Infusion.png/revision/latest?cb=20110508020039' alt='Skill Speed Infusion' width='32' height='32' /> -> <img src='https://vignette.wikia.nocookie.net/maplestory/images/b/b9/Skill_Crossbones.png/revision/latest?cb=20111221151810' alt='Skill Crossbones' width='32' height='32' /> -> <img src='https://vignette.wikia.nocookie.net/maplestory/images/c/c9/Skill_Nautilus_Strike.png/revision/latest?cb=20110608083744' alt='Skill Nautilus Strike' width='32' height='32' /> -> <img src='https://vignette.wikia.nocookie.net/maplestory/images/6/6d/Skill_Octopunch.png/revision/latest?cb=20111227202037' alt='Skill Octopunch' width='32' height='32' /> -> <img src='https://vignette.wikia.nocookie.net/maplestory/images/7/76/Skill_Dragon_Strike.png/revision/latest?cb=20110508015920' alt='Skill Dragon Strike' width='32' height='32' /> -> <img src='https://vignette.wikia.nocookie.net/maplestory/images/3/30/Skill_Hero%27s_Will.png/revision/latest?cb=20100602090848' alt='Skill Hero' width='32' height='32' /> -> <img src='https://vignette.wikia.nocookie.net/maplestory/images/6/61/Skill_Time_Leap.png/revision/latest?cb=20110508020047' alt='Skill Time Leap' width='32' height='32' />"]
             ],
             "details": [
-                "Put one SP into each skill first",
+                "Put one SP into each skill first and then max each skill in this order",
                 "For any skills that have prerequisites, follow them first before following build path",
                 "4th Job skills require <img src='https://static.wikia.nocookie.net/maplestory/images/8/8d/Use_Mastery_Book_20.png' alt='Use Mastery Book 20.png' width='32' height='29' /><img src='https://static.wikia.nocookie.net/maplestory/images/e/e1/Use_Mastery_Book_30.png' alt='Use Mastery Book 30.png' width='32' height='29' /> Mastery Books to reach Master Level 20 &amp; 30"
             ]
@@ -100,8 +100,7 @@
             ["Skill Icons", "MapleWiki"],
             ["Skill Animations", "Ikasuu"],
             ["Hyper Passive Build", "privateereck"],
-            ["Boost Nodes Build", "maplefinale"],
-            ["Common 5th Job Skills Animation", "OrangeMushroom"]
+            ["Boost Nodes Build", "maplefinale"]
         ],
         "extraContent": {
             "title": "Energy Charge",

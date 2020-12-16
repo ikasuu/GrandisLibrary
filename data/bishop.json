@@ -79,7 +79,7 @@
                 ["4th Job", "<img src='https://vignette.wikia.nocookie.net/maplestory/images/1/19/Skill_Buff_Mastery.png/revision/latest?cb=20110423131456' alt='Skill Buff Mastery' width='32' height='32' /> -> <img src='https://vignette.wikia.nocookie.net/maplestory/images/d/d1/Skill_Advanced_Blessing.png/revision/latest?cb=20110423133135' alt='Skill Advanced Blessing' width='32' height='32' /> -> <img src='https://vignette.wikia.nocookie.net/maplestory/images/c/c4/Skill_Big_Bang.png/revision/latest?cb=20140412222945' alt='Skill Big Bang' width='32' height='32' /> -> <img src='https://vignette.wikia.nocookie.net/maplestory/images/4/40/Skill_Bahamut.png/revision/latest?cb=20110423133121' alt='Skill Bahamut' width='32' height='32' /> -> <img src='https://vignette.wikia.nocookie.net/maplestory/images/e/e3/Skill_Arcane_Aim.png/revision/latest?cb=20110423131500' alt='Skill Arcane Aim' width='32' height='32' /> -> <img src='https://vignette.wikia.nocookie.net/maplestory/images/a/a1/Skill_Maple_Warrior.png/revision/latest?cb=20100602085809' alt='Skill Maple Warrior' width='32' height='32' /> -> <img src='https://vignette.wikia.nocookie.net/maplestory/images/8/8d/Skill_Infinity.png/revision/latest?cb=20110423131329' alt='Skill Infinity' width='32' height='32' /> -> <img src='https://vignette.wikia.nocookie.net/maplestory/images/a/a5/Skill_Angel_Ray.png/revision/latest?cb=20140412215345' alt='Skill Angel Ray' width='32' height='32' /> -> <img src='https://vignette.wikia.nocookie.net/maplestory/images/4/48/Skill_Genesis.png/revision/latest?cb=20191217072510' alt='Skill Genesis' width='32' height='32' /> -> <img src='https://vignette.wikia.nocookie.net/maplestory/images/f/fb/Skill_Resurrection.png/revision/latest?cb=20110423133148' alt='Skill Resurrection' width='32' height='32' /> -> <img src='https://static.wikia.nocookie.net/maplestory/images/3/30/Skill_Hero%27s_Will.png' alt='Skill Hero' width='32' height='32' />"]
             ],
             "details": [
-                "Put one SP into each skill first",
+                "Put one SP into each skill first and then max each skill in this order",
                 "For any skills that have prerequisites, follow them first before following build path",
                 "4th Job skills require <img src='https://static.wikia.nocookie.net/maplestory/images/8/8d/Use_Mastery_Book_20.png' alt='Use Mastery Book 20.png' width='32' height='29' /><img src='https://static.wikia.nocookie.net/maplestory/images/e/e1/Use_Mastery_Book_30.png' alt='Use Mastery Book 30.png' width='32' height='29' /> Mastery Books to reach Master Level"
             ]
@@ -96,11 +96,9 @@
             "https://maplestory.fandom.com/wiki/Magician"
         ],
         "credits": [
-            ["Skill Icons", "MapleWikia"],
-            ["Attribute Info", "MapleWikia"],
+            ["Skill Icons + Attribute Info", "MapleWikia"],
             ["Skill Animations", "Ikasuu"],
-            ["Boost Nodes Build","maplefinale"],
-            ["5th Job Skill Animations", "OrangeMushroom"]
+            ["Boost Nodes Build","maplefinale"]
         ],
         "extraContent": {
             "title": "Bahamut",
@@ -538,7 +536,7 @@
                     "shortDesc": "MP Cost: 1000, Summon Duration: 30 sec. The angel's aspect depends upon whether Righteously Indignant is active or inactive.\\nInactive: Appears as the Angel of Benevolence. Grants a buff that recovers 15% of party members' Max HP every 5 sec and increases their damage by 5% and 1% per 1250 INT for 4 sec. Damage can increase up to 100%.\\nActive: Appears as the Avenging Angel. Attacks up to 12 enemies dealing 1000% damage 12 times. Attacked enemies are marked for 60 sec. Dealing holy damage to those enemies consumes the mark and increases Final Damage of the attack by 50%.\\nCooldown: 120 sec",
                     "id": 400021032,
                     "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/4/4c/Skill_Angel_of_Balance.png/revision/latest?cb=20170609033035"],
-                    "animations": ["https://orangemushroom.files.wordpress.com/2016/12/angel-of-libra-benevolence-buff-effect.gif?w=1000&h=", "https://orangemushroom.files.wordpress.com/2016/12/angel-of-libra-vengeance-attack-effect.gif?w=1000&h="],
+                    "animations": ["https://media4.giphy.com/media/8oDLiNFxGCnqZfhJkQ/giphy.gif", "https://media4.giphy.com/media/URNGCyY13yFPcimUKi/giphy.gif"],
                     "type": "Summon",
                     "desc": "Summons an angel to fight by your side",
                     "details": [

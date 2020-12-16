@@ -83,7 +83,7 @@
                 ["4th Job", "<img src='https://vignette.wikia.nocookie.net/maplestory/images/d/dd/Skill_Armor_Break.png/revision/latest?cb=20130707042209' alt='Skill Armor Break' width='32' height='32' /> -> <img src='https://vignette.wikia.nocookie.net/maplestory/images/1/12/Skill_Bow_Expert.png/revision/latest?cb=20110502142447' alt='Skill Bow Expert' width='32' height='32' /> -> <img src='https://vignette.wikia.nocookie.net/maplestory/images/7/7e/Skill_Advanced_Final_Attack.png/revision/latest?cb=20110422040134' alt='Skill Advanced Final Attack' width='32' height='32' /> -> <img src='https://vignette.wikia.nocookie.net/maplestory/images/a/ab/Skill_Arrow_Stream.png/revision/latest?cb=20130707042144' alt='Skill Arrow Stream' width='32' height='32' /> -> <img src='https://vignette.wikia.nocookie.net/maplestory/images/a/a1/Skill_Maple_Warrior.png/revision/latest?cb=20100602085809' alt='Skill Maple Warrior' width='32' height='32' /> -> <img src='https://vignette.wikia.nocookie.net/maplestory/images/5/53/Skill_Sharp_Eyes.png/revision/latest?cb=20100612140300' alt='Skill Sharp Eyes' width='32' height='32' /> -> <img src='https://vignette.wikia.nocookie.net/maplestory/images/a/a6/Skill_Illusion_Step.png/revision/latest?cb=20160628052518' alt='Skill Illusion Step' width='32' height='32' /> -> <img src='https://vignette.wikia.nocookie.net/maplestory/images/2/29/Skill_Enchanted_Quiver.png/revision/latest?cb=20130707042201' alt='Skill Enchanted Quiver' width='32' height='32' /> -> <img src='https://vignette.wikia.nocookie.net/maplestory/images/1/18/Skill_Hurricane.png/revision/latest?cb=20110502142405' alt='Skill Hurricane' width='32' height='32' /> -> <img src='https://vignette.wikia.nocookie.net/maplestory/images/9/93/Skill_Binding_Shot.png/revision/latest?cb=20130707042136' alt='Skill Binding Shot' width='32' height='32' /> -> <img src='https://vignette.wikia.nocookie.net/maplestory/images/3/30/Skill_Hero%27s_Will.png/revision/latest?cb=20100602090848' alt='Skill Hero' width='32' height='32' />"]
             ],
             "details": [
-                "Put one SP into each skill first",
+                "Put one SP into each skill first and then max each skill in this order",
                 "For any skills that have prerequisites, follow them first before following build path",
                 "4th Job skills require <img src='https://static.wikia.nocookie.net/maplestory/images/8/8d/Use_Mastery_Book_20.png' alt='Use Mastery Book 20.png' width='32' height='29' /><img src='https://static.wikia.nocookie.net/maplestory/images/e/e1/Use_Mastery_Book_30.png' alt='Use Mastery Book 30.png' width='32' height='29' /> Mastery Books to reach Master Level 20 &amp; 30"
             ]
@@ -103,11 +103,10 @@
         "credits": [
             ["Skill Icons", "MapleWiki"],
             ["Skill Animations", "Ikasuu"],
-            ["Pros and Cons", "Sky"],
-            ["Hyper Passive Build", "Sky"],
+            ["Pros and Cons + Hyper Passive Build", "Sky"],
             ["Boost Nodes Build", "RitoTerrBear"],
-            ["Common 5th Job Skills Animation", "OrangeMushroom"],
-            ["Bowmaster 5th Job Skill Animations", "KyoWantsCute"]]
+            ["5th Job Skill Animations", "KyoWantsCute"]
+        ]
     },
     "skill": {
         "primary":[

@@ -79,7 +79,7 @@
                 ["4th Job", "<img src='https://vignette.wikia.nocookie.net/maplestory/images/b/bc/Skill_Emerald_Dust.png/revision/latest?cb=20130210015342' alt='Skill Emerald Dust' width='32' height='32' /> -> <img src='https://vignette.wikia.nocookie.net/maplestory/images/1/12/Skill_Bow_Expert.png/revision/latest?cb=20110502142447' alt='Skill Bow Expert' width='32' height='32' /> -> <img src='https://vignette.wikia.nocookie.net/maplestory/images/6/6a/Skill_Albatross_Max.png/revision/latest?cb=20130210015349' alt='Skill Albatross Max' width='32' height='32' /> -> <img src='https://vignette.wikia.nocookie.net/maplestory/images/c/c2/Skill_Touch_of_the_Wind.png/revision/latest?cb=20130210015321' alt='Skill Touch of the Wind' width='32' height='32' /> -> <img src='https://vignette.wikia.nocookie.net/maplestory/images/8/89/Skill_Spiraling_Vortex.png/revision/latest?cb=20130210015306' alt='Skill Spiraling Vortex' width='32' height='32' /> -> <img src='https://vignette.wikia.nocookie.net/maplestory/images/8/87/Skill_Call_of_Cygnus.png/revision/latest?cb=20130210014951' alt='Skill Call of Cygnus' width='32' height='32' /> -> <img src='https://vignette.wikia.nocookie.net/maplestory/images/5/53/Skill_Sharp_Eyes.png/revision/latest?cb=20100612140300' alt='Skill Sharp Eyes' width='32' height='32' /> -> <img src='https://vignette.wikia.nocookie.net/maplestory/images/8/85/Skill_Trifling_Wind_III.png/revision/latest?cb=20130210015312' alt='Skill Trifling Wind III' width='32' height='32' /> -> <img src='https://vignette.wikia.nocookie.net/maplestory/images/1/11/Skill_Song_of_Heaven.png/revision/latest?cb=20130210015258' alt='Skill Song of Heaven' width='32' height='32' />"]
             ],
             "details": [
-                "Put one SP into each skill first",
+                "Put one SP into each skill first and then max each skill in this order",
                 "For any skills that have prerequisites, follow them first before following build path",
                 "To obtain <img src='https://vignette.wikia.nocookie.net/maplestory/images/8/87/Skill_Call_of_Cygnus.png/revision/latest?cb=20130210014951' alt='Skill Call of Cygnus'/> Call of Cygnus, you need to complete a series of quests in 4th Job"
             ]
@@ -99,7 +99,7 @@
             ["Skill Icons", "MapleWiki"],
             ["Skill Animations", "Ikasuu"],
             ["Boost Nodes Build","Sillyx91"],
-            ["5th Job Skill Animations", "OrangeMushroom"]
+            ["5th Job Skills Animations", "KyoWantsCute"]
         ]
     },
     "skill": {

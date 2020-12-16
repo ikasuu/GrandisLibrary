@@ -70,7 +70,7 @@
                 ["4th Job", "<img src='https://vignette.wikia.nocookie.net/maplestory/images/8/89/Skill_Combat_Mastery_%28Mihile%29.png/revision/latest?cb=20120320162806' alt='Skill Combat Mastery (Mihile)' width='32' height='32' /> -> <img src='https://vignette.wikia.nocookie.net/maplestory/images/1/18/Skill_Expert_Sword_Mastery_%28Mihile%29.png/revision/latest?cb=20120320160355' alt='Skill Expert Sword Mastery (Mihile)' width='32' height='32' /> -> <img src='https://vignette.wikia.nocookie.net/maplestory/images/7/7e/Skill_Advanced_Final_Attack.png/revision/latest?cb=20110422040134' alt='Skill Advanced Final Attack' width='32' height='32' /> -> <img src='https://vignette.wikia.nocookie.net/maplestory/images/9/9e/Skill_Radiant_Cross.png/revision/latest?cb=20150704221701' alt='Skill Radiant Cross' width='32' height='32' /> -> <img src='https://vignette.wikia.nocookie.net/maplestory/images/6/6e/Skill_Power_Stance_%28Warrior%29.png/revision/latest?cb=20130705121921' alt='Skill Power Stance (Warrior)' width='32' height='32' /> -> <img src='https://vignette.wikia.nocookie.net/maplestory/images/8/88/Skill_Soul_Asylum.png/revision/latest?cb=20120320160157' alt='Skill Soul Asylum' width='32' height='32' /> -> <img src='https://vignette.wikia.nocookie.net/maplestory/images/8/87/Skill_Call_of_Cygnus.png/revision/latest?cb=20130210014951' alt='Skill Call of Cygnus' width='32' height='32' /> -> <img src='https://vignette.wikia.nocookie.net/maplestory/images/9/9a/Skill_Roiling_Soul.png/revision/latest?cb=20170511005734' alt='Skill Roiling Soul' width='32' height='32' /> -> <img src='https://vignette.wikia.nocookie.net/maplestory/images/b/bb/Skill_Four-Point_Assault.png/revision/latest?cb=20120320161831' alt='Skill Four-Point Assault' width='32' height='32' />"]
             ],
             "details": [
-                "Put one SP into each skill first",
+                "Put one SP into each skill first and then max each skill in this order",
                 "For any skills that have prerequisites, follow them first before following build path",
                 "To obtain <img src='https://vignette.wikia.nocookie.net/maplestory/images/8/87/Skill_Call_of_Cygnus.png/revision/latest?cb=20130210014951' alt='Skill Call of Cygnus'/> Call of Cygnus, you need to complete a series of quests in 4th Job"
             ]
@@ -90,7 +90,7 @@
             ["Skill Icons", "MapleWiki"],
             ["Skill Animations", "Ikasuu"],
             ["Boost Nodes Build","Calvie"],
-            ["Common 5th Job Skill Animations", "OrangeMushroom"]
+            ["5th Job Skills Animations", "KyoWantsCute"]
         ]
     },
     "skill": {
@@ -420,7 +420,7 @@
                 {
                     "id": 51121052,
                     "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/b/b5/Skill_Charging_Light.png/revision/latest?cb=20120918155648"],
-                    "animations": ["https://orangemushroom.files.wordpress.com/2012/09/deadly-charge-effect.gif?w=600&h=304"],
+                    "animations": ["https://media3.giphy.com/media/aq0UQNOhZ4cvIMqFfc/giphy.gif"],
                     "type": "Attack",
                     "desc": "Summons a knight to charge forward, damaging enemies",
                     "details": [
@@ -431,7 +431,7 @@
                 {
                     "id": 51121053,
                     "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/7/7c/Skill_Queen_of_Tomorrow.png/revision/latest?cb=20120918155740"],
-                    "animations": ["https://orangemushroom.files.wordpress.com/2012/09/queen-of-tomorrow.gif?w=600"],
+                    "animations": ["https://media0.giphy.com/media/XTTzeEHbR0JntpyKpr/giphy.gif"],
                     "type": "Buff",
                     "reqLev": 190
                 }

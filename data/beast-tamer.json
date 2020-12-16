@@ -97,14 +97,12 @@
         "moreInfo": [
             "http://maplestory.nexon.net/game/classes-and-jobs/2888/beast-tamer",
             "https://maplestory.fandom.com/wiki/Beast_Tamer",
-            "https://www.reddit.com/r/Maplestory/comments/chl55r/a_guide_to_the_newly_buffed_beast_tamer_class/",
             "https://www.reddit.com/r/Maplestory/comments/h11ux4/a_guide_to_the_beast_tamer_changes_rise_patch/"
         ],
         "credits": [
             ["Skill Icons", "OrangeMushroom"],
             ["Skill Animations", "Ikasuu"],
             ["Pros and Cons & Hyper Passive Build & Boost Nodes Build", "OnceShine"],
-            ["Common 5th Job Skills Animations", "OrangeMushroom"],
             ["5th Job Skills Animations", "KyoWantsCute"]
         ],
         "extraContent": {
