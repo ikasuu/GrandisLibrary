@@ -173,7 +173,7 @@
                         "details": [
                             "Increases chance to trigger <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/e/ec/Skill_Lightning_Elemental.png/revision/latest?cb=20130122072055' alt='Skill Lightning Elemental'> buff",
                             "Increases max stacks of buff up to 2",
-                            "Increases Movement Speed, Jump and Max Movement Speed"
+                            "Now increases Movement Speed, Jump and Max Movement Speed"
                         ]
                     }]
                 ],
@@ -283,7 +283,7 @@
                         "details": [
                             "Increases chance to trigger <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/e/ec/Skill_Lightning_Elemental.png/revision/latest?cb=20130122072055' alt='Skill Lightning Elemental'> buff",
                             "Increases max stacks of buff up to 4",
-                            "Grants flat Attack"
+                            "Now grants flat Attack"
                         ]
                     }]
                 ],
@@ -351,7 +351,7 @@
                     "desc": "",
                     "details": [
                         "Increases %Weapon Mastery provided",
-                        "Grants flat Attack and increases %Crit Damage"
+                        "Now grants flat Attack and increases %Crit Damage"
                     ]
                 },
                 {

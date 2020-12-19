@@ -381,8 +381,13 @@
                 },
                 {
                     "id": 11120007,
-                    "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/9/93/Skill_Student_of_the_Blade.png/revision/latest?cb=20130411163324"],
-                    "type": "Upgraded Passive"
+                    "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/9/93/Skill_Student_of_the_Blade.png/revision/latest?cb=20130411163324", "https://vignette.wikia.nocookie.net/maplestory/images/a/ae/Skill_Sword_Mastery_%28Dawn_Warrior%29.png/revision/latest?cb=20130411160201"],
+                    "type": "Upgraded Passive",
+                    "desc": "",
+                    "details": [
+                        "Increases %Weapon Mastery provided",
+                        "Now grants flat Attack and increases %Crit Damage"
+                    ]
                 },
                 {
                     "id": 11120008,

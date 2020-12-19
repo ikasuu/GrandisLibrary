@@ -340,7 +340,7 @@
                     "desc": "",
                     "details": [
                         "Increases %Weapon Mastery provided",
-                        "Grants flat Attack and increases %Final Damage, %Crit Damage, and %Boss Damage"
+                        "Now grants flat Attack and increases %Final Damage, %Crit Damage, and %Boss Damage"
                     ]
                 },
                 {
@@ -356,7 +356,7 @@
                     "desc": "",
                     "details": [
                         "Increases Attack and %Crit Rate provided and increases Attack Speed (by 2 stages)",
-                        "Increases %Damage, %Ignore DEF, Abnormal Status Resistance, and %Elemental Resistance"
+                        "Now increases %Damage, %Ignore DEF, Abnormal Status Resistance, and %Elemental Resistance"
                     ]
                 }]
             ]

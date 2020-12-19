@@ -192,7 +192,7 @@
                         "type": "Upgraded Passive",
                         "desc": "",
                         "details": [
-                            "Increases %Damage and allows you to throw up to 2 projectiles"
+                            "Increases %Damage of attack and allows you to throw up to 2 projectiles"
                         ]
                     },
                     {
@@ -255,7 +255,7 @@
                         "type": "Upgraded Passive",
                         "desc": "",
                         "details": [
-                            "Increases %Damage and allows you to throw up to 3 projectiles"
+                            "Increases %Damage of attack and allows you to throw up to 3 projectiles"
                         ]
                     },
                     {
@@ -328,7 +328,7 @@
                     "type": "Upgraded Passive",
                     "desc": "",
                     "details": [
-                        "Increases %Damage and allows you to throw up to 4 projectiles"
+                        "Increases %Damage of attack and allows you to throw up to 4 projectiles"
                     ]
                 },
                 {
