@@ -15,7 +15,7 @@
             "Supportive",
             "Tanky"
         ],
-        "innerAbility": ["Boss Damage", "Buff Duration", "%Damage to Status Enemies"],
+        "innerAbility": ["Boss Damage", "Buff Duration", "%Damage to Debuffed"],
         "prosCons": {
             "pros": [
                 "Consistent DPS",

@@ -15,7 +15,7 @@
             "Mobile",
             "Hard-hitting"
         ],
-        "innerAbility": ["Boss Damage", "Crit Rate", "%Damage to Status Enemies"],
+        "innerAbility": ["Boss Damage", "Crit Rate", "%Damage to Debuffed"],
         "prosCons": {
             "pros": [
                 "Has a berserk mode <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/8/80/Skill_Adrenaline_Rush.png/revision/latest?cb=20160110015041' alt='Skill Adrenaline Rush'> Adrenaline Rush where you enter a rampage",
