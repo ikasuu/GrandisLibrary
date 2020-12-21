@@ -1,6 +1,7 @@
 {
     "featured": [
         {
+            "title": "",
             "image": "",
             "alt": "",
             "link": ""
@@ -8,33 +9,44 @@
     ],
     "upcoming": [
         {
+            "title": "MapleStory Anniversary (Maple Hotel)",
             "image": "https://i.imgur.com/8ZQV5cY.png",
             "alt": "KMS ver. 1.2.333 – MapleStory’s 17th Anniversary!",
-            "link": "https://orangemushroom.net/2020/04/23/kms-ver-1-2-333-maplestorys-17th-anniversary/#more-40157"
+            "link": "https://orangemushroom.net/2020/04/23/kms-ver-1-2-333-maplestorys-17th-anniversary/#more-40157",
+            "date": "April 23, 2020"
         },
         {
+            "title": "Full Moon Party & Job Balancing!",
             "image": "https://i.imgur.com/vdUsnlT.png",
             "alt": "KMS ver. 1.2.338 – Full Moon Party & Job Balancing!",
-            "link": "https://orangemushroom.net/2020/09/16/kms-ver-1-2-338-full-moon-party-job-balancing/#more-41380"
+            "link": "https://orangemushroom.net/2020/09/16/kms-ver-1-2-338-full-moon-party-job-balancing/#more-41380",
+            "date": "September 16, 2020"
         },
         {
+            "title": "Halloween Update",
             "image": "https://i.imgur.com/TOR5i4Y.png",
             "alt": "KMS ver. 1.2.339 – Halloween, Haste & Return of the Legends!",
-            "link": "https://orangemushroom.net/2020/10/21/kms-ver-1-2-339-halloween-haste-return-of-the-legends/#more-41563"
+            "link": "https://orangemushroom.net/2020/10/21/kms-ver-1-2-339-halloween-haste-return-of-the-legends/#more-41563",
+            "date": "October 21, 2020"
         },
         {
+            "title": "Yeti's Debut!",
             "image": "https://i.imgur.com/W4bNh8G.png",
             "alt": "KMS ver. 1.2.340 – Yeti’s Debut!",
-            "link": "https://orangemushroom.net/2020/11/18/kms-ver-1-2-340-yetis-debut/#more-41713"
+            "link": "https://orangemushroom.net/2020/11/18/kms-ver-1-2-340-yetis-debut/#more-41713",
+            "date": "November 18, 2020"
         },
         {
+            "title": "NEO Update",
             "image": "https://i.imgur.com/A78yRzl.png",
             "alt": "KMS ver. 1.2.341 – MapleStory NEO: Signal!",
-            "link": "https://orangemushroom.net/2020/12/17/kms-ver-1-2-341-maplestory-neo-signal/#more-42143"
+            "link": "https://orangemushroom.net/2020/12/17/kms-ver-1-2-341-maplestory-neo-signal/#more-42143",
+            "date": "December 17, 2020"
         }
     ],
     "popularContent": [
         {
+            "title": "",
             "image": "",
             "alt": "",
             "link": ""
@@ -42,8 +54,9 @@
     ],
     "popularClasses": [
         {
-            "alt": "",
+            "title": "",
             "image": "",
+            "alt": "",
             "link": ""
         }
     ]
