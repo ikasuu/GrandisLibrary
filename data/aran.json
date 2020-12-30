@@ -6,7 +6,7 @@
         "mainStat": "STR",
         "secondaryStat": "DEX",
         "legion": "Chance to recover %Max HP while attacking (10s cd)",
-        "legionValue": "2/4/6/8/10% - 70% Chance",
+        "legionValue": "(+2/4/6/8/10% - 70% Chance)",
         "equipment": [
             {"weapon": ["polearm"]},
             {"secondary": ["mass"]}
