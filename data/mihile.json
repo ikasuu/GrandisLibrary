@@ -6,7 +6,7 @@
         "mainStat": "STR",
         "secondaryStat": "DEX",
         "legion": "Grants flat Max HP",
-        "legionValue": "250\/500\/1000\/2000\/2500",
+        "legionValue": "250/500/1000/2000/2500",
         "equipment": [
             {"weapon": ["oneHSword"]},
             {"secondary": ["soulShield"]}
@@ -102,7 +102,7 @@
                 {
                     "id": 10001245,
                     "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/0/0c/Skill_Imperial_Recall.png/revision/latest?cb=20130525122042"],
-                    "animations": ["https://media1.giphy.com/media/GoSaU0uhdwBvqBNPYd/giphy.gif"],
+                    "animations": ["https://media4.giphy.com/media/puSVOZMKB7rJYQFoUD/giphy.gif"],
                     "type": "Active"
                 },
                 {
