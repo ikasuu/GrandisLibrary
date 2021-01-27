@@ -93,6 +93,7 @@
             ["Hyper Passive Build + Boost Nodes Build", "iSlingGunz"],
             ["Inner Ability","Maple Central"]
         ],
+        "specialThanks": "Special thanks to Kénsa for their help in making this overview!",
         "extraContent": {
             "title": "Talisman Energy and Scroll Energy",
             "content": "<p><img src='https://i.imgur.com/yLQQEvL.png' alt='Hoyoung Gauge' /></p><p>Hoyoung has two secondary resources called Talisman Energy and Scroll Energy that are used for Talisman Skills and Scroll Skills. In Hoyoung's gauge, the inner circle is the Talisman Energy and the outer ring is the Scroll Energy. Talisman Energy is charged by using Basic Skills and Scroll Energy is charged by using Talisman Skills and Basic Skills.</p><p>Hoyoung's Basic Skills are split into 3 different attributes, Humanity, Earth, and Heaven. On Hoyoung's gauge, you'll notice three orbs, this is your Attribute Combo, each representing a different attribute. Using a unique attribute will increase the stage of your Attribute Combo and grant bonus Talisman Energy. Once you consume all three orbs (Stage 3), the Attribute Combo resets</p><p><em>Talisman Energy is unlocked at 1st Job while Scroll Energy is unlocked at 3rd Job</em></p>"
