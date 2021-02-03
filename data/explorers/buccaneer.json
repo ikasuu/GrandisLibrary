@@ -98,6 +98,7 @@
             "https://maplestory.fandom.com/wiki/Pirate",
             "https://dexless.com/guides/buccaneer-overview.38/"
         ],
+        "specialThanks": "Special thanks to Subluxe for their help in making this overview!",
         "credits": [
             ["Skill Icons", "MapleWiki"],
             ["Skill Animations", "Ikasuu"],
@@ -414,7 +415,7 @@
                         "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/6/61/Skill_Time_Leap.png/revision/latest?cb=20110508020047"],
                         "animations": ["https://media3.giphy.com/media/O6RWeNjF1PQ7SAR77D/giphy.gif"],
                         "type": "Party Active",
-                        "desc": "Resets the cooldown of all skills below 4th Job (including Beginner skills) unless stated otherwise",
+                        "desc": "Resets the cooldown of all skills below 5th Job (including Beginner skills) unless stated otherwise",
                         "details": [
                             "Unaffected by cooldown resets",
                             "Excludes skills provided from items like Firestarter Ring, Breath of Divinity, or Lucid Earrings",
