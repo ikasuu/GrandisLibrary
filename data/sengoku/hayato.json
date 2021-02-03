@@ -616,7 +616,7 @@
             "fifthMain": [
                 {
                     "name": "Battoujutsu Zankou",
-                    "shortDesc": "MP Cost: 1000, Damage: 750%, Number of Rush Attacks: 12, Enemies Hit: 11. Able to do 2 or more rush attacks on the same enemy.\\nHayato's sword energy recovers by 700 upon use.\\nInvincible during casting.\\nCooldown: 90 sec",
+                    "shortDesc": "MP Cost: 1000, Damage: 545%, Number of Rush Attacks: 15, Enemies Hit: 11. Able to do 2 or more rush attacks on the same enemy.\\nHayato's sword energy recovers by 700 upon use.\\nInvincible during casting.\\nCooldown: 90 sec",
                     "id": 400021002,
                     "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/c/c2/Skill_Battoujutsu_Zankou.png/revision/latest?cb=20161204065739"],
                     "animations": ["https://media.giphy.com/media/dxCt7RJMiYcY9WeAh9/giphy.gif"],
@@ -629,7 +629,7 @@
                 },
                 {
                     "name": "Iaijutsu Phantom Blade",
-                    "shortDesc": "Sword Energy Cost: 200, Successful hits grant a buff giving +20% Final Damage per stack for 30 sec.\\n1st Hit: Deals 1150% damage to up to 15 enemies 8 times\\n2nd Hit: Deals 1150% damage to up to 15 enemies 8 times\\n3rd Hit: Deals 1370% damage to up to 15 enemies 8 times\\n4th Hit: Deals 1450% damage to up to 15 enemies 8 times\\n5th Hit: Deals 1600% damage to up to 15 enemies 8 times",
+                    "shortDesc": "Sword Energy Cost: 200, Successful hits grant a buff giving +20% Final Damage per stack for 30 sec.\\n1st Hit: Deals 315% damage to up to 15 enemies 15 times\\n2nd Hit: Deals 345% damage to up to 15 enemies 15 times\\n3rd Hit: Deals 375% damage to up to 15 enemies 15 times\\n4th Hit: Deals 395% damage to up to 15 enemies 15 times\\n5th Hit: Deals 435% damage to up to 15 enemies 15 times",
                     "id": 400021030,
                     "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/5/5f/Skill_Iaijutsu_Phantom_Blade.png/revision/latest?cb=20170609033517"],
                     "animations": ["https://media1.giphy.com/media/myDWicyRzUcxXxtHe3/giphy.gif"],
@@ -655,7 +655,7 @@
                 },
                 {
                     "name": "Instant Slice",
-                    "shortDesc": "MP Cost: 500. Stab enemies for 1030% damage. Number of Attacks: 10. Max Enemies Hit: 15.\\nCooldown: 11 sec",
+                    "shortDesc": "MP Cost: 500. Stab enemies for 340% damage. Number of Attacks: 10. Max Enemies Hit: 15.\\nCooldown: 11 sec",
                     "id": 400021067,
                     "icons": ["https://i.imgur.com/7v6vzhi.png"],
                     "animations": ["https://media4.giphy.com/media/3SnGr0tffeOO1anlXW/giphy.gif"],
