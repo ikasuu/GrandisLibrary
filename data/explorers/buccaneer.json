@@ -418,7 +418,7 @@
                         "desc": "Resets the cooldown of all skills below 5th Job (including Beginner skills) unless stated otherwise",
                         "details": [
                             "Unaffected by cooldown resets",
-                            "Excludes skills provided from items like Firestarter Ring, Breath of Divinity, or Lucid Earrings",
+                            "Excludes Hyper Skills and skills provided from items like Firestarter Ring, Breath of Divinity, or Lucid Earrings",
                             "Party members who received Time Leap's effects previously have a cooldown (180 secs) before the effects can be applied again"
                         ]
                     },
