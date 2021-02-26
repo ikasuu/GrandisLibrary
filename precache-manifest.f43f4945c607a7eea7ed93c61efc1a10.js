@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "76b34f454e6826609bc19c35f7a45c87",
+    "revision": "5329a582d1a52b7989ceb9b20898d5bc",
     "url": "/grandislibrary/index.html"
   },
   {
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/grandislibrary/static/css/11.d63f724a.chunk.css"
   },
   {
-    "revision": "6e8dc4c8ed0f37fad9c3",
+    "revision": "f372bbe073eea95b9bb4",
     "url": "/grandislibrary/static/css/12.8520875b.chunk.css"
   },
   {
@@ -56,8 +56,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/grandislibrary/static/js/11.e17f38d7.chunk.js"
   },
   {
-    "revision": "6e8dc4c8ed0f37fad9c3",
-    "url": "/grandislibrary/static/js/12.b5c074a1.chunk.js"
+    "revision": "f372bbe073eea95b9bb4",
+    "url": "/grandislibrary/static/js/12.faf3f98e.chunk.js"
   },
   {
     "revision": "6907f6f3ece0eeadb56f",
@@ -112,7 +112,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/grandislibrary/static/js/main.1864b89e.chunk.js"
   },
   {
-    "revision": "fc37aa23589718b41d7e",
-    "url": "/grandislibrary/static/js/runtime-main.867d8511.js"
+    "revision": "85565757feb9a581b32d",
+    "url": "/grandislibrary/static/js/runtime-main.7d4f501c.js"
   }
 ]);
