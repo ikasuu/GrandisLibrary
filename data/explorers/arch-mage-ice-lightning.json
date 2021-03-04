@@ -539,7 +539,7 @@
                     "id": 2220015,
                     "name": "Frost Clutch",
                     "shortDesc": "Grants Critical Damage: +3% per stack when attacking a Frozen enemy. Lightning-based skills consume ice stacks, granting Damage +12% per stack.",
-                    "maxLevel": 10,
+                    "maxLevel": 1,
                     "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/4/40/Skill_Freezing_Crush.png/revision/latest?cb=20130706132353"],
                     "type": "Upgraded Passive",
                     "desc": "",
