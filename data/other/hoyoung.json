@@ -104,6 +104,9 @@
             [
                 "Beginner", [{
                     "id": 160001074,
+                    "name": "Return to Cheong-woon",
+                    "shortDesc": "Returns you to Cheong-woon Valley.\\nCooldown: 600 sec",
+                    "maxLevel": 1,
                     "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/9/99/Skill_Return_to_Cheong-woon.png/revision/latest?cb=20191117091643"],
                     "animations": ["https://media2.giphy.com/media/MDxk0p9qSivVKnCVDq/giphy.gif"],
                     "desc": "",
@@ -114,6 +117,9 @@
                 },
                 {
                     "id": 160001075,
+                    "name": "Shapeshift",
+                    "shortDesc": "Hides your ears, tail, and face stripes.\\nCooldown: 10 sec",
+                    "maxLevel": 1,
                     "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/4/42/Skill_Shapeshift.png/revision/latest?cb=20191116113719"],
                     "animations": ["https://media0.giphy.com/media/U5UN1SubTdYP1t6Csy/giphy.gif"],
                     "desc": "",
@@ -140,11 +146,17 @@
                 },
                 {
                     "id": 160000000,
+                    "name": "Spirit Affinity",
+                    "shortDesc": "Minion Duration +10%",
+                    "maxLevel": 1,
                     "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/6/67/Skill_Spirit_Affinity.png/revision/latest?cb=20191116141513"],
                     "type": "Passive"
                 },
                 {
                     "id": 160000076,
+                    "name": "Fiend Seal",
+                    "shortDesc": "Attack Power: +10%, Final Damage: +10%",
+                    "maxLevel": 10,
                     "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/4/43/Skill_Fiend_Seal.png/revision/latest?cb=20191116142345"],
                     "type": "Passive",
                     "desc": "",
@@ -157,6 +169,9 @@
                 "1st Job", [
                     {
                         "id": 164000010,
+                        "name": "Talisman Energy",
+                        "shortDesc": "- Successful hits with your Heaven, Earth, and Humanity skills charge your Talisman Energy.\\n- With every successful hit, grants a combo stage for that attribute and Talisman Energy charge (stage 1: 10, stage 2: 15, and stage 3: 20).\\n- The combo stage resets after reaching stage 3.",
+                        "maxLevel": 1,
                         "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/1/17/Skill_Talisman_Energy.png/revision/latest?cb=20191117092937"],
                         "type": "Passive",
                         "desc": "Whenever you damage an enemy with a Basic Skill (Heaven, Earth or Humanity skills), you charge your Talisman Energy",
@@ -166,6 +181,9 @@
                     },
                     {
                         "id": 164001000,
+                        "name": "Humanity: As-You-Will-Fan",
+                        "shortDesc": "MP Cost: 16, Max Enemies Hit: 5, Damage: 70%, Number of Attacks: 5 times, Against Enemies Struck by Fan: Final Damage +5%",
+                        "maxLevel": 20,
                         "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/8/84/Skill_Humanity_As-You-Will_Fan.png/revision/latest?cb=20191117094741"],
                         "animations": ["https://media.giphy.com/media/Pn6ELRVGqfRwpwPanb/giphy.gif"],
                         "type": "Humanity Attack",
@@ -176,6 +194,9 @@
                     },
                     {
                         "id": 164001001,
+                        "name": "Talisman: Evil-Sealing Gourd",
+                        "shortDesc": "Talisman Energy Cost: 100, Max Enemies Swallowed: 4. Launch swallowed enemies by pressing the skill key again.\\nAttacks up to 6 enemies that are absorbed or within range of the launch attack for 250% damage 6 times. Damage divided by the number of enemies being attacked (excluding 50% of Damage).\\nBoss Damage: +20%.",
+                        "maxLevel": 20,
                         "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/2/28/Skill_Talisman_Evil-Sealing_Gourd.png/revision/latest?cb=20191117100637"],
                         "animations": ["https://media.giphy.com/media/S92s9ysVXXlJ9IIbGg/giphy.gif"],
                         "type": "Talisman Attack",
@@ -188,6 +209,9 @@
                     },
                     {
                         "id": 164001003,
+                        "name": "Graceful Flight",
+                        "shortDesc": "MP Cost: 5, allows you to jump a greater distance",
+                        "maxLevel": 5,
                         "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/9/95/Skill_Graceful_Flight.png/revision/latest?cb=20191119142509"],
                         "animations": ["https://media.giphy.com/media/J2ayEiP1RfhNdWkMmY/giphy.gif"],
                         "type": "Active",
@@ -199,6 +223,9 @@
                     },
                     {
                         "id": 164001004,
+                        "name": "Nimbus Cloud",
+                        "shortDesc": "MP Cost: 10, Temporarily gain the power to fly.",
+                        "maxLevel": 1,
                         "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/b/b7/Skill_Nimbus_Cloud_%28Hoyoung%29.png/revision/latest?cb=20191120064843"],
                         "animations": ["https://media.giphy.com/media/eLpBEeYN1D0ee1kJEy/giphy.gif"],
                         "type": "Active",
@@ -211,11 +238,17 @@
                     },
                     {
                         "id": 164000011,
+                        "name": "Light Steps",
+                        "shortDesc": "Speed:+20, Max Speed: +20",
+                        "maxLevel": 10,
                         "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/3/3e/Skill_Light_Steps.png/revision/latest?cb=20191120065904"],
                         "type": "Passive"
                     },
                     {
                         "id": 164000012,
+                        "name": "Shrouding Mist",
+                        "shortDesc": "Avoidability +15%",
+                        "maxLevel": 9,
                         "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/7/75/Skill_Shrouding_Mist.png/revision/latest?cb=20191120070515"],
                         "type": "Passive"
                     }]
@@ -224,6 +257,9 @@
                 "2nd Job", [
                     {
                         "id": 164101000,
+                        "name": "Earth: Ground-Shattering Wave",
+                        "shortDesc": "MP Cost: 40, Damage: 80%, Number of Attacks: 4, Max Enemies Hit: 6",
+                        "maxLevel": 20,
                         "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/3/3c/Skill_Earth_Ground-Shattering_Wave.png/revision/latest?cb=20191120073142", "https://i.imgur.com/p5SrNLh.png"],
                         "animations": ["https://media.giphy.com/media/TfLIpAmHcVpUb22Nv3/giphy.gif", "https://media.giphy.com/media/U1gdT40QW8JrpnDPEA/giphy.gif"],
                         "type": "Earth Attack",
@@ -235,6 +271,9 @@
                     },
                     {
                         "id": 164101003,
+                        "name": "Talisman: Clone",
+                        "shortDesc": "Talisman Energy Cost: 100, For 200 sec, create 3 clone(s) when attacking, Each clone attacks for 60% damage 4 times, Damage against Normal Monsters: +20%\\nClone creation has a 1.5 sec cooldown",
+                        "maxLevel": 20,
                         "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/e/e4/Skill_Talisman_Clone.png/revision/latest?cb=20191120081044"],
                         "animations": ["https://media.giphy.com/media/Xe9gxgXDOHLecu7Lii/giphy.gif"],
                         "type": "Talisman Buff Attack",
@@ -245,6 +284,9 @@
                     },
                     {
                         "id": 164101005,
+                        "name": "Ritual Fan Acceleration",
+                        "shortDesc": "MP Cost: 10, Duration: 200 sec, Ritual Fan Attack Speed: +2",
+                        "maxLevel": 10,
                         "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/1/16/Skill_Ritual_Fan_Acceleration.png/revision/latest?cb=20191120082541"],
                         "animations": ["https://media2.giphy.com/media/zSCmkeGudc8d0GNzjj/giphy.gif"],
                         "type": "Buff",
@@ -252,11 +294,17 @@
                     },
                     {
                         "id": 164100010,
+                        "name": "Ritual Fan Mastery",
+                        "shortDesc": "Ritual Fan Mastery: +50%, Attack Power: +25",
+                        "maxLevel": 10,
                         "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/7/72/Skill_Ritual_Fan_Mastery.png/revision/latest?cb=20191120084413"],
                         "type": "Passive"
                     },
                     {
                         "id": 164100006,
+                        "name": "Out of Sight",
+                        "shortDesc": "Using Ground-Shattering Wave (Clone), Stone Tremor (Clone), Iron Fan Gale (Clone), or Consuming Flames (Clone) hides you for 2 sec, Using an attack skill while hidden will reveal you.\\n[Passive Effects: Avoidability +20%]",
+                        "maxLevel": 10,
                         "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/4/45/Skill_Out_of_Sight.png/revision/latest?cb=20191120084842"],
                         "type": "Passive",
                         "desc": "Whenever you use the clone version of Basic Skills (like <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/3/3c/Skill_Earth_Ground-Shattering_Wave.png/revision/latest?cb=20191120073142' alt='Skill Earth Ground-Shattering Wave'>), you become hidden and cannot be hit by enemies similar to <img width='32' height='32' src='https://vignette.wikia.nocookie.net/maplestory/images/d/dd/Skill_Dark_Sight.png/revision/latest?cb=20100308114826' alt='Skill Dark Sight'> Dark Sight",
@@ -266,16 +314,25 @@
                     },
                     {
                         "id": 164100011,
+                        "name": "Third Eye",
+                        "shortDesc": "Critical Rate: +30%, Critical Damage: +10%",
+                        "maxLevel": 10,
                         "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/f/f3/Skill_Third_Eye_%28Hoyoung%29.png/revision/latest?cb=20191120091224"],
                         "type": "Passive"
                     },
                     {
                         "id": 164100012,
+                        "name": "Heavenly Body",
+                        "shortDesc": "Increases the duration and flight speed for the Nimbus Cloud skill",
+                        "maxLevel": 9,
                         "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/3/3d/Skill_Heavenly_Body.png/revision/latest?cb=20191120091921"],
                         "type": "Passive"
                     },
                     {
                         "id": 164100013,
+                        "name": "Fortune Fitness",
+                        "shortDesc": "LUK: +60",
+                        "maxLevel": 5,
                         "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/5/59/Skill_Physical_Training.png/revision/latest?cb=20191120092800"],
                         "type": "Passive"
                     }]
@@ -284,12 +341,18 @@
                 "3rd Job", [
                     {
                         "id": 164110014,
+                        "name": "Scroll Energy",
+                        "shortDesc": "- Gain 15 Scroll Energy upon successful hits with your Heaven, Earth, and Humanity skills.\\n- Gain 200 Scroll Energy every time you use a Talisman Skill.",
+                        "maxLevel": 1,
                         "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/0/09/Skill_Scroll_Energy.png/revision/latest?cb=20191120093150"],
                         "type": "Passive",
                         "desc": "Whenever you damage an enemy with a Basic Skill or Talisman Skill, you charge your Scroll Energy"
                     },
                     {
                         "id": 164111000,
+                        "name": "Heaven: Iron Fan Gale",
+                        "shortDesc": "MP Cost: 45, Damage: 140%, Number of Attacks: 5, Max Enemies Hit: 6",
+                        "maxLevel": 20,
                         "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/0/0c/Skill_Heaven_Iron_Fan_Gale.png/revision/latest?cb=20191120093733", "https://i.imgur.com/Hc0gjoB.png"],
                         "animations": ["https://media.giphy.com/media/dzOPUbXNN5QV8vhHb1/giphy.gif", "https://media.giphy.com/media/ihMoNfnftFHAw56QzP/giphy.gif"],
                         "type": "Heaven Skill",
@@ -301,6 +364,9 @@
                     },
                     {
                         "id": 164111003,
+                        "name": "Earth: Stone Tremor",
+                        "shortDesc": "MP Cost: 70, Max Enemies Hit: 10, Damage: 160%, Number of Attacks: 6, Stun Duration for Normal Monsters: 5 sec\\nCooldown: 6 sec",
+                        "maxLevel": 20,
                         "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/d/dd/Skill_Earth_Stone_Tremor.png/revision/latest?cb=20191120095621", "https://i.imgur.com/zlfF7GX.png"],
                         "animations": ["https://media.giphy.com/media/ZZOFW52hLUrT0xYPzM/giphy.gif", "https://media.giphy.com/media/kI4IsMUFezaIiigY7A/giphy.gif"],
                         "type": "Earth Skill",
@@ -313,6 +379,9 @@
                     },
                     {
                         "id": 164111007,
+                        "name": "Talisman: Seeking Ghost Flame",
+                        "shortDesc": "Talisman Energy Cost: 100, Flame Summon Duration: 40 sec, Enemy Targeting Interval: 1.8 sec, Max Enemies Hit: 5, Damage: 200%, Number of Attacks: 5",
+                        "maxLevel": 20,
                         "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/0/07/Skill_Talisman_Seeking_Ghost_Flame.png/revision/latest?cb=20191122130049"],
                         "animations": ["https://media.giphy.com/media/Spov5r2NQq8iaQoYoZ/giphy.gif"],
                         "type": "Talisman Summon",
@@ -323,6 +392,9 @@
                     },
                     {
                         "id": 164111008,
+                        "name": "Scroll: Degeneration",
+                        "shortDesc": "Scroll Energy Cost: 900, Max Enemies Hit: 15, Damage: 450%, Number of Attacks: 8, Boss Damage: +20%\\nTransformation Duration (Normal Enemies Only): 60 sec, Enemy DEF: -20%.",
+                        "maxLevel": 20,
                         "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/e/e3/Skill_Scroll_Degeneration.png/revision/latest?cb=20191122135742"],
                         "animations": ["https://media.giphy.com/media/fUAdyNalZJ1flEueHQ/giphy.gif"],
                         "type": "Scroll Attack",
@@ -334,21 +406,33 @@
                     },
                     {
                         "id": 164110010,
+                        "name": "Attainment",
+                        "shortDesc": "Humanity: As-You-Will Fan Damage: +195%p\\nGround-Shattering Wave Damage: +90%p\\nTalisman: Evil-Sealing Gourd Damage: +200%p\\nTalisman: Clone Damage: +60%p",
+                        "maxLevel": 19,
                         "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/4/46/Skill_Attainment.png/revision/latest?cb=20191122140629"],
                         "type": "Passive"
                     },
                     {
                         "id": 164110011,
+                        "name": "Asura",
+                        "shortDesc": "Attack Power: +50, Critical Rate: +10%, Critical Damage: +20%, Boss Damage: +20%, Enemy DEF Ignored: +10%",
+                        "maxLevel": 10,
                         "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/6/6e/Skill_Asura.png/revision/latest?cb=20191122141845"],
                         "type": "Passive"
                     },
                     {
                         "id": 164110012,
+                        "name": "Diamond Body",
+                        "shortDesc": "Max HP: +20%, Knockback Resistance: +20%\\nDamage Taken: -15%",
+                        "maxLevel": 10,
                         "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/5/52/Skill_Diamond_Body.png/revision/latest?cb=20191122142549"],
                         "type": "Passive"
                     },
                     {
                         "id": 164110013,
+                        "name": "Balanced Breath",
+                        "shortDesc": "Abnormal Status Resistance: +30, All Elemental Resistance: +30%\\nRestores 3% of Max HP and Max MP after completing attribute combo stage 3",
+                        "maxLevel": 5,
                         "icons": ["https://vignette.wikia.nocookie.net/maplestory/images/9/9b/Skill_Balanced_Breath.png/revision/latest?cb=20191122142945"],
                         "type": "Passive"
                     }]
